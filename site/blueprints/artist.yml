@@ -1,0 +1,36 @@
+title: Artist
+pages: true
+  max: 1
+  template: press
+  build:
+    - title: Press
+      uid: press
+      template: press
+      num: 1
+files: true
+  sortable: true
+  fields:
+    caption:
+      label: Caption
+      type:  text
+fields:
+  first_name:
+    label: First Name
+    type:  text
+    width: 1/2
+  last_name:
+    label: Last Name
+    type:  text
+    width: 1/2
+  featured_image:
+    label: Featured Image
+    type: image
+  text:
+    label: Text
+    type:  textarea
+  status:
+    label: Status
+    type: radio
+    options:
+      represented: Represented
+      exhibited: Exhibited

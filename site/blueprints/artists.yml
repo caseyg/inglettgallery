@@ -1,0 +1,10 @@
+title: Artists
+pages: true
+  template: artist
+  num: zero
+deletable: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text

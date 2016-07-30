@@ -1,0 +1,21 @@
+title: Press
+pages: false
+files: true
+  type: document
+  sortable: true
+  fields:
+    title:
+      label: Title
+      type: text
+fields:
+  links:
+    label: Press Links
+    type: structure
+    style: table
+    fields:
+      title:
+        label: Title
+        type: text
+      url:
+        label: URL
+        type: url

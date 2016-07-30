@@ -1,0 +1,9 @@
+title: Exhibitions
+pages: true
+  template: exhibition
+deletable: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text

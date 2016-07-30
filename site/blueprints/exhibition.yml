@@ -1,0 +1,33 @@
+title: Exhibition
+pages: false
+files: true
+  sortable: true
+fields:
+  title:
+    label: Exhibition Title
+    type:  text
+    width: 1/2
+  artists:
+    label: Artists
+    width: 1/2
+    type: multiselect
+    options: query
+    query:
+      page: artists
+      value: '{{uid}}'
+      text: '{{title}}'
+      flip: true
+  start:
+    label: Start
+    type:  date
+    width: 1/2
+  end:
+    label: End
+    type:  date
+    width: 1/2
+  text:
+    label: Text
+    type:  textarea
+  additional:
+    label: Additional
+    type:  textarea
