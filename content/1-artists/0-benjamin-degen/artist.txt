@@ -1,0 +1,30 @@
+Title: Benjamin Degen
+
+----
+
+Text: 
+
+Born Brooklyn, NY 1976
+The Cooper Union for the Advancement of Science and Art, BFA, 1998
+Yale Norfolk Painting Fellowship, 1997
+Lives and works in New York, NY
+
+----
+
+Toggle: true
+
+----
+
+Featured-image: DEGEN_Boy+with+a+Dog.jpg
+
+----
+
+Status: represented
+
+----
+
+First-name: Benjamin
+
+----
+
+Last-name: Degen
