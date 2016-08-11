@@ -1,6 +1,10 @@
 title: Exhibitions
 pages: true
   template: exhibition
+  sort: flip
+  num:
+    mode: date
+    field: start
 deletable: false
 files: false
 fields:
