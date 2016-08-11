@@ -9,7 +9,7 @@ files: true
       type: text
 fields:
   press:
-    label: Press
+    label: Artist Press
     type: info
     text: >
       Drag PDF files here to add them to the artist's press section. Add titles for display by clicking into each upload in the [_Files_ section](files).

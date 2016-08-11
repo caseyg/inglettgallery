@@ -1,0 +1,15 @@
+title: News
+pages: false
+files: true
+  type: document
+  sortable: true
+  fields:
+    title:
+      label: Text
+      type: textarea
+fields:
+  news:
+    label: Artist News
+    type: info
+    text: >
+      Drag PDF files here to add them to the artist's news section. Add formatted headlines for display by clicking into each upload in the [_Files_ section](files).
