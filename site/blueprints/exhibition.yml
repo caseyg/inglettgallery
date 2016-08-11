@@ -26,9 +26,13 @@ fields:
     label: Exhibition Title
     type:  text
     width: 1/2
+  untitled:
+    label: Display exhibition title?
+    type:  toggle
+    default: yes
+    width: 1/2
   artists:
     label: Artists
-    width: 1/2
     type: multiselect
     options: query
     query:
