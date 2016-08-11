@@ -31,15 +31,6 @@ fields:
     type:  toggle
     default: yes
     width: 1/2
-  artists:
-    label: Artists
-    type: multiselect
-    options: query
-    query:
-      page: artists
-      value: '{{uid}}'
-      text: '{{title}}'
-      flip: true
   start:
     label: Start
     type:  date
@@ -47,6 +38,20 @@ fields:
   end:
     label: End
     type:  date
+    width: 1/2
+  artists:
+    label: Artists
+    type: multiselect
+    width: 1/2
+    options: query
+    query:
+      page: artists
+      value: '{{uid}}'
+      text: '{{title}}'
+      flip: true
+  additional_artists:
+    label: Additional Artists
+    type: tags
     width: 1/2
   text:
     label: Text
