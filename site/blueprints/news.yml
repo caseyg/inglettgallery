@@ -4,7 +4,7 @@ files: true
   type: document
   sortable: true
   fields:
-    title:
+    text:
       label: Text
       type: textarea
 fields:
