@@ -1,1 +1,21 @@
 Sort: 1
+
+----
+
+Image-title: Test
+
+----
+
+Date: 
+
+----
+
+Media: 
+
+----
+
+Dimensions: 
+
+----
+
+Inventory-id: 
