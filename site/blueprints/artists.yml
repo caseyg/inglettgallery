@@ -8,3 +8,4 @@ fields:
   title:
     label: Title
     type:  text
+    readonly: true
