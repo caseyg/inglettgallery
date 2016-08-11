@@ -1,0 +1,21 @@
+First-name: 
+
+----
+
+Last-name: 
+
+----
+
+Featured-image: 
+
+----
+
+Text: 
+
+----
+
+Status: 
+
+----
+
+Title: Ryan Wallace
