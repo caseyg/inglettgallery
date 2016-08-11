@@ -2,6 +2,25 @@ title: Exhibition
 pages: false
 files: true
   sortable: true
+  fields:
+    image_title:
+      label: Title
+      type:  text
+    date:
+      label: Date
+      type:  text
+      placeholder: e.g. 2016
+    media:
+      label: Media
+      type:  text
+      placeholder: "e.g. Enamel and pigment on canvas"
+    dimensions:
+      label: Dimensions
+      type:  text
+      placeholder: "e.g. 13 x 21 x 8 1/2 in."
+    inventory_id:
+      label: Inventory ID
+      type:  text
 fields:
   title:
     label: Exhibition Title
