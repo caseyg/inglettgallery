@@ -8,14 +8,8 @@ files: true
       label: Title
       type: text
 fields:
-  links:
-    label: Press Links
-    type: structure
-    style: table
-    fields:
-      title:
-        label: Title
-        type: text
-      url:
-        label: URL
-        type: url
+  press:
+    label: Press
+    type: info
+    text: >
+      Drag PDF files here to add them to the artist's press section. Add titles for display by clicking into each upload in the [_Files_ section](files).
