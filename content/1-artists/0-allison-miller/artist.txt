@@ -1,0 +1,26 @@
+First-name: Allison
+
+----
+
+Last-name: Miller
+
+----
+
+Featured-image: miller_sound.jpg
+
+----
+
+Text: 
+
+Born Evanston, IL 1974
+University of California, Los Angeles, MFA, 2001
+Rhode Island School of Design, BFA, 1996
+Lives and Works in Los Angeles, CA
+
+----
+
+Status: represented
+
+----
+
+Title: Allison Miller

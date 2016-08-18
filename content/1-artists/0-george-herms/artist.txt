@@ -1,0 +1,25 @@
+First-name: George
+
+----
+
+Last-name: Herms
+
+----
+
+Featured-image: herms_install-2011-1-web.jpg
+
+----
+
+Text: 
+
+Born Woodland, CA 1935
+University of California, Berkeley, CA 1955
+Lives and Works in Los Angeles, CA
+
+----
+
+Status: represented
+
+----
+
+Title: George Herms

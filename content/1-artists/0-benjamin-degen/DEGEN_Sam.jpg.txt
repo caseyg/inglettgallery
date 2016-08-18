@@ -1,1 +1,21 @@
-Sort: 16
+Sort: 15
+
+----
+
+Image-title: Sam
+
+----
+
+Date: 2015
+
+----
+
+Media: Oil on linen over panel
+
+----
+
+Dimensions: 72 x 48 in.
+
+----
+
+Inventory-id: BD0102

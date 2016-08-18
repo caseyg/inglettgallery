@@ -1,0 +1,26 @@
+First-name: Marcia
+
+----
+
+Last-name: Kure
+
+----
+
+Featured-image: kure_1.jpg
+
+----
+
+Text: 
+
+Born Kano, Nigeria 1970
+Haystack Mountain School of Crafts, Deer Isle, ME, 2004
+University of Nigeria, Nsukka, BFA, Painting, 1994
+Lives and Works in Princeton, NJ
+
+----
+
+Status: represented
+
+----
+
+Title: Marcia Kure

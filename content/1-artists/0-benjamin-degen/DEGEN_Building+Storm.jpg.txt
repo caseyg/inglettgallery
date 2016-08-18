@@ -1,21 +1,21 @@
-Sort: 1
+Sort: 3
 
 ----
 
-Image-title: Test
+Image-title: Building Storm
 
 ----
 
-Date: 
+Date: 2016
 
 ----
 
-Media: 
+Media: Oil on linen
 
 ----
 
-Dimensions: 
+Dimensions: 36 x 36 in.
 
 ----
 
-Inventory-id: 
+Inventory-id: BD0111

@@ -1,0 +1,26 @@
+First-name: Shaun
+
+----
+
+Last-name: O'Dell
+
+----
+
+Featured-image: o-dell_some-old-tangle.jpg
+
+----
+
+Text: 
+
+Born Beeville, TX 1968
+Stanford University, Standford, CA, MFA, 2004
+New College of California, San Francisco, CA, BA, 2000
+Lives and works in San Francisco, CA
+
+----
+
+Status: represented
+
+----
+
+Title: Shaun O'Dell

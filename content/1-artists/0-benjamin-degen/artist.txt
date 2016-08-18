@@ -15,7 +15,7 @@ Toggle: true
 
 ----
 
-Featured-image: DEGEN_Boy+with+a+Dog.jpg
+Featured-image: degen_insomnia_city.jpg
 
 ----
 

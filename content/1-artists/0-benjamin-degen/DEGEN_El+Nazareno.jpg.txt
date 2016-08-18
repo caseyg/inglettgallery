@@ -1,1 +1,21 @@
-Sort: 5
+Sort: 10
+
+----
+
+Image-title: El Nazareno
+
+----
+
+Date: 2015
+
+----
+
+Media: Oil and acrylic on linen
+
+----
+
+Dimensions: 48 x 36 in.
+
+----
+
+Inventory-id: BD0096
