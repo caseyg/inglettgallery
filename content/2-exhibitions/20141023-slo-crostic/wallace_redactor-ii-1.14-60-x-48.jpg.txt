@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Redactor IV
 
 ----
 
-Date: 
+Date: 2014
 
 ----
 
-Media: 
+Media: Enamel, acrylic, powdered graphite, glass powder, cold wax, aluminum, tape, fabric, vinyl on canvas
 
 ----
 
-Dimensions: 
+Dimensions: 60 x 48 in.
 
 ----
 
@@ -22,4 +22,4 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: RW0017
