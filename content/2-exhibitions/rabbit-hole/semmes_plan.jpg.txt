@@ -26,4 +26,4 @@ Inventory-id:
 
 ----
 
-Sort: 15
+Sort: 6
