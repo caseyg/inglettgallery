@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: The Age of the Desert
 
 ----
 
-Date: 
+Date: 1957
 
 ----
 
-Media: 
+Media: Oil on canvas
 
 ----
 
-Dimensions: 
+Dimensions: 39 7/8 x 25 in.
 
 ----
 
-Dimensions-framed: 
+Dimensions-framed: 43 1/4 x 28 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: LM0012
 
 ----
 
