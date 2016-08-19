@@ -1,0 +1,30 @@
+Pagelock: 
+
+----
+
+Title: Lee Mullican
+
+----
+
+First-name: Lee
+
+----
+
+Last-name: Mullican
+
+----
+
+Featured-image: mullican_circus.jpg
+
+----
+
+Text: 
+
+Born in Chickasha, OK, 1919
+Abilene Christian College, TX, 1937
+University of Oklahoma, OK, 1939
+Kansas City Art Institute, MO, 1941
+
+----
+
+Status: represented
