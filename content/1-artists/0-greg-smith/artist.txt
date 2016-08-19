@@ -1,0 +1,31 @@
+Pagelock: 
+
+----
+
+Title: Greg Smith
+
+----
+
+First-name: Greg
+
+----
+
+Last-name: Smith
+
+----
+
+Featured-image: 
+
+----
+
+Text: 
+
+Born DeKalb, IL 1970
+Hunter College, New York, NY, MFA, 2005
+Harvard University, Cambridge, MA, Ph.D., 2000
+Amherst College, Amherst, MA, BA, 1993
+Lives and Works in New York, NY
+
+----
+
+Status: represented
