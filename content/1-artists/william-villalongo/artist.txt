@@ -6,11 +6,11 @@ Title: William Villalongo
 
 ----
 
-First-name: 
+First-name: William
 
 ----
 
-Last-name: 
+Last-name: Villalongo
 
 ----
 
@@ -20,6 +20,11 @@ Featured-image:
 
 Text: 
 
+Born Hollywood, FL 1975
+Tyler School of Art at Temple University, Philadelphia, PA MFA, 2001 1997
+The Cooper Union for the Advancement of Science and Art, BFA, 1999
+Lives and works in Brooklyn, NY
+
 ----
 
-Status: 
+Status: represented
