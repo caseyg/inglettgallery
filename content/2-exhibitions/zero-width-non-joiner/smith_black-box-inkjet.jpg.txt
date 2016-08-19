@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Black Box (Inkjet)
 
 ----
 
-Date: 
+Date: 2016
 
 ----
 
-Media: 
+Media: Acrylic, canvas, hardware, latex paint, lenses, wood, epoxy, inkjet printer and paper
 
 ----
 
-Dimensions: 
+Dimensions: 20 x 25 x 8 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: GSM0072
 
 ----
 
