@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: Cups
 
 ----
 
-Date: 
+Date: Ceramic, epoxy and fleece
 
 ----
 
@@ -10,7 +10,7 @@ Media:
 
 ----
 
-Dimensions: 
+Dimensions: Dimensions variable
 
 ----
 
@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: BS0182
 
 ----
 
