@@ -10,3 +10,6 @@
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
+[submodule "site/fields/pagelock"]
+	path = site/fields/pagelock
+	url = https://github.com/pedroborges/kirby-pagelock.git

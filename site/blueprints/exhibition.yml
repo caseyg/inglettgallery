@@ -22,6 +22,8 @@ files: true
       label: Inventory ID
       type:  text
 fields:
+  pagelock:
+    type: pagelock
   title:
     label: Exhibition Title
     type:  text

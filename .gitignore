@@ -5,3 +5,4 @@
 /node_modules
 error_log
 /site/config/config.php
+.lock

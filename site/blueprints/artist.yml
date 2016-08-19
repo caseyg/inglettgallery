@@ -36,6 +36,8 @@ files: true
       label: Inventory ID
       type:  text
 fields:
+  pagelock:
+    type: pagelock
   first_name:
     label: First Name
     type:  text
