@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Plan
 
 ----
 
-Date: 
+Date: 2016
 
 ----
 
-Media: 
+Media: Crepe
 
 ----
 
-Dimensions: 
+Dimensions: 57 x 37 in.
 
 ----
 
@@ -18,7 +18,7 @@ Dimensions-framed:
 
 ----
 
-Edition-info: 
+Edition-info: Edition of 3
 
 ----
 
