@@ -14,7 +14,7 @@ Last-name: Smith
 
 ----
 
-Featured-image: 
+Featured-image: smith_installation-view-a.r..jpg
 
 ----
 
