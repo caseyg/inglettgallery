@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2014-06-12
 
 ----
 
-End: 
+End: 2014-07-25
 
 ----
 
@@ -22,12 +22,20 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Klaus Rinke,HA Schult,Jochen Gerz,Christian Attersee,Gunter Brus,Hermann Nitsch,Fiuseppe Penone,Braco Dimitijevic,Ben Vautier,Gunter Saree,Luciano Fabro,Stanley Brouwn,Gruppe OHO,Pablo Gomez Uribe
 
 ----
 
 Text: 
 
+Each summer the gallery devotes itself to the examination of a moment in art history as told through its detritus, its ephemera. This year we turn our attention to 1969 and the events that took place under the aegis of Aktionsraum 1, the avant-garde collective established by Eva Madelung (patron), Peter Nemetschek (artist), and Alfred Gulden (writer/filmmaker) in an empty factory in Munich. The exhibition tells the history of the movement through the posters designed and produced to publicize events of the day. To illustrate the zeitgeist of the moment, we have invited the Colombian artist Pablo Gómez Uribe to respond with a modern day intervention, “Planning an Accident and/or in Pursuit of a Perfect Demolition”.  The exhibition will run 12 June to 25 July 2014.
+
+Aktionsraum 1 was a space for transgressive thought and activity in a politically hot climate, serving as an art-making stage and arena for social critique. Fittingly what remains are not the actions nor commodifiable objects, but the announcements pasted on city walls and streets; the throwaway gesture. Artists included Klaus Rinke, HA Schult, Jochen Gerz, Christian Attersee, Günter Brus, Hermann Nitsch, Giuseppe Penone, Braco Dimitrijevic, Ben Vautier, Günter Saree, Luciano Fabro, Stanley Brouwn and Gruppe OHO.
+
+Pablo Gómez Uribe’s work is linked to the social and political conflicts that materialize directly or indirectly in urban settings. In his ongoing project “El Gordon Demolition,” Gómez Uribe constructs a bridge of association between the urban spaces of New York and his native country of Colombia through a fabricated demolition company. This project deals directly with issues of space and the ethics of preservation and architecture, a hot button topic for 2014 and for New York City.  Here the viewer is implicated in creation, destruction and the production of future artifacts.
+
+Pablo Gómez Uribe received a B.A. in architecture from Universidad Pontificia Bolivariana, Medellín, 2000, a B.F.A. from Universidad Nacional de Colombia, Medellín, 2008, and a M.F.A. from Parsons, The New School, NYC, 2012. Gómez Uribe was selected for the Architecture Biennial, Bogotá, 2008, and most recently The International Biennial of Contemporary Art of Cartagena, 2014. His solo shows include Todos Somos Mágicos (We are all magical), Galería de la Oficina, Medellín, 2009 and (T)HERE, Sala de Arte Suramericana, Medellín, 2013. Gómez Uribe has taken part in museum and gallery exhibitions in the United States, Europe, and South America. He lives and works in New York.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. The Gallery will be closed for the Fourth of July holiday beginning 4 July and reopening Monday 7 July, after which we will be open Monday to Friday through July, by appointment in August. For additional information please contact Susan Inglett Gallery at 212/647- 9111 or info@inglettgallery.com
