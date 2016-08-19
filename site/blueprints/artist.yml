@@ -47,6 +47,9 @@ files: true
 fields:
   pagelock:
     type: pagelock
+  title:
+    label: Title
+    type: text
   first_name:
     label: First Name
     type:  text
