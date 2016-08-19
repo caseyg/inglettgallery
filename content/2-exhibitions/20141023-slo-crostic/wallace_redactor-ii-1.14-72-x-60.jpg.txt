@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Redactor II
 
 ----
 
-Date: 
+Date: 2014
 
 ----
 
-Media: 
+Media: Enamel, acrylic, powdered graphite, glass powder, cold wax, aluminum, tape, fabric, vinyl on canvas
 
 ----
 
-Dimensions: 
+Dimensions: 72 x 60 in.
 
 ----
 
@@ -22,4 +22,4 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: RW0015
