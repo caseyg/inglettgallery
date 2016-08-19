@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: floatABOVEhorizontals
 
 ----
 
-Date: 
+Date: 2013
 
 ----
 
-Media: 
+Media: Gouache on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 
+Dimensions: 28 3/4 x 22 in.
 
 ----
 
@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: SO0056
 
 ----
 
