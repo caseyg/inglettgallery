@@ -14,11 +14,11 @@ Start: 2014-03-20
 
 ----
 
-End: 
+End: 2014-04-26
 
 ----
 
-Artists: 
+Artists: gary-stephan
 
 ----
 
@@ -28,6 +28,14 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett Gallery presents new work by Gary Stephan, from 20 March to 26 April 2014. A reception for the artist will be held Thursday evening 20 March, from 6 to 8 PM.
+
+In a recent Brooklyn Rail interview Gary Stephan notes that the Gulf of Mexico depicted in Jasper Johns’ Map, 1962, is an inversion of Cézanne’s iconic Mont Sainte-Victoire. This type of observation relies upon both artist and viewer alike playing the role of constructor. The artist’s job is to problematize the mechanics of seeing, and the responsibility of the observer in-turn is to practice seeing. Stephan’s insistence on this idea of “co-construction”, a proposition for viewer to create alongside artist, asks for abstraction to be regarded as narrative, not simply a modernist design fetish.
+
+In Stephan’s canvases familiar paint and palette handling along with figure and ground relationships are inverted. He privileges shadows, outlines, parts that make up wholes. Displacements are commonplace in these works. He uses vacillation as a subject, creating punctures in the canvas that provide progressive openings from background to foreground. Some works originate in landscape, others in architecture and some are informed by the making and unmaking of the work itself as different types of space and perspectives come into view. Stephan claims his paintings are “designed to be disappointing” as they are ultimately only valuable at the level of construction with the viewer. It is a nearly haptic experience, unraveling the layers of an inherently flat surface to discover what is propped up and why. As if a tactile encounter involving peeling or unfolding might reveal conclusions, in the end it can only concede more visual scaffolding, more layers of construction, another beginning, with a different ending.
+
+GARY STEPHAN has been showing his paintings, drawings and sculpture since the late sixties in the United States and Europe. He has had solo shows in this country at Bykert Gallery, Mary Boone, Hirschl and Adler, Margo Leavin, Marlborough and Daniel Weinberg among others. Stephan’s work is included in the collections of The Guggenheim, The Metropolitan and the Museum of Modern Art as well as museums nationwide. He is a recipient of awards from the National Endowment of the Arts, Guggenheim Foundation, the American Academy of Arts and Letters and most recently a Joan Mitchell foundation Award. Stephan teaches in the MFA program at School of Visual Arts in NYC.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212/647- 9111, fax 212/647-9333 or info@inglettgallery.com
