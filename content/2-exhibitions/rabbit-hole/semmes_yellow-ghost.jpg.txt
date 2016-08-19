@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: BS0171\
+Inventory-id: BS0171
 
 ----
 
