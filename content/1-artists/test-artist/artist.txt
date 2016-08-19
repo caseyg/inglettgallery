@@ -1,0 +1,25 @@
+Pagelock: 
+
+----
+
+First-name: 
+
+----
+
+Last-name: 
+
+----
+
+Featured-image: 
+
+----
+
+Text: 
+
+----
+
+Status: 
+
+----
+
+Title: Test Artist
