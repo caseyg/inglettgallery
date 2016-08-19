@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: a.series.ofdesert.problems
 
 ----
 
-Date: 
+Date: 2013
 
 ----
 
-Media: 
+Media: Gouache and archival glue on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 
+Dimensions: 28 1/2 x 22 in.
 
 ----
 
@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: SO0079
 
 ----
 
