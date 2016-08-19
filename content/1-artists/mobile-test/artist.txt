@@ -1,0 +1,25 @@
+Pagelock: 
+
+----
+
+Title: Mobile Test
+
+----
+
+First-name: 
+
+----
+
+Last-name: 
+
+----
+
+Featured-image: 
+
+----
+
+Text: 
+
+----
+
+Status: 
