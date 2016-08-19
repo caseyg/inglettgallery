@@ -1,6 +1,7 @@
 title: Publication
 pages: true
 files: true
+  size: 5000000
 fields:
   pagelock:
     type: pagelock

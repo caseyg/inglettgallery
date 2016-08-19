@@ -2,6 +2,7 @@ title: Press
 pages: false
 files: true
   type: document
+  size: 5000000
   sortable: true
   fields:
     title:

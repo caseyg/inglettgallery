@@ -16,6 +16,7 @@ pages: true
       num: 2
 files: true
   sortable: true
+  size: 5000000
   fields:
     image_title:
       label: Title
