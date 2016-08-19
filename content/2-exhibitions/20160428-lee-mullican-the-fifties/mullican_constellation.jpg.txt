@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Constellation
 
 ----
 
-Date: 
+Date: 1958
 
 ----
 
-Media: 
+Media: Oil on canvas
 
 ----
 
-Dimensions: 
+Dimensions: 40 x 30 in.
 
 ----
 
-Dimensions-framed: 
+Dimensions-framed: 41 1/4 x 31 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: LM0007
 
 ----
 
