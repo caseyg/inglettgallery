@@ -18,7 +18,15 @@ files: true
     dimensions:
       label: Dimensions
       type:  text
-      placeholder: "e.g. 13 x 21 x 8 1/2 in."
+      placeholder: "e.g. 20 x 20 in."
+    dimensions_framed:
+      label: Framed Dimensions
+      type:  text
+      placeholder: "e.g. 22 x 22 in."
+    edition_info:
+      label: Edition Information
+      type:  text
+      placeholder: "e.g. Edition of 8"
     inventory_id:
       label: Inventory ID
       type:  text
