@@ -15,7 +15,7 @@ Toggle: true
 
 ----
 
-Featured-image: degen_insomnia_city.jpg
+Featured-image: DEGEN_Insomnia_City.jpg
 
 ----
 
@@ -23,8 +23,8 @@ Status: represented
 
 ----
 
-First-name: Benjamin
+First-name: Degen
 
 ----
 
-Last-name: Degen
+Last-name: Benjamin
