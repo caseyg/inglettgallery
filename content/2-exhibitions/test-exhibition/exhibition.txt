@@ -1,4 +1,4 @@
-Title: Test Exhibition Finally Working?
+Title: Test Exhibition
 
 ----
 
@@ -6,24 +6,24 @@ Untitled: true
 
 ----
 
-Start: 
+Start:
 
 ----
 
-End: 
+End:
 
 ----
 
-Artists: 
+Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists:
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Additional: 
+Additional:
