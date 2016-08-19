@@ -6,7 +6,7 @@ Artists: ryan-wallace
 
 ----
 
-Start: 2013-10-23
+Start: 2014-10-23
 
 ----
 
@@ -31,3 +31,11 @@ The Gallery will publish a catalogue with an original essay by David Kennedy Cut
 ----
 
 Additional: The exhibition will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212/647- 9111, fax 212/647-9333 or info@inglettgallery.com
+
+----
+
+Untitled: true
+
+----
+
+Additional-artists: 
