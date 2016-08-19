@@ -10,7 +10,7 @@ files: true
 fields:
   pagelock:
     type: pagelock
-  press:
+  press_info:
     label: Artist Press
     type: info
     text: >

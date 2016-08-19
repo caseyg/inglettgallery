@@ -8,7 +8,9 @@ files: true
       label: Text
       type: textarea
 fields:
-  news:
+  pagelock:
+    type: pagelock
+  news_info:
     label: Artist News
     type: info
     text: >
