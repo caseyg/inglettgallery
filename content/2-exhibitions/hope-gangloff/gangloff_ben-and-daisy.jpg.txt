@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Ben and Daisy
 
 ----
 
-Date: 
+Date: 2015
 
 ----
 
-Media: 
+Media: Acrylic on canvas
 
 ----
 
-Dimensions: 
+Dimensions: 48 x 72 in.
 
 ----
 
@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: HG0263
 
 ----
 
