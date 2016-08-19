@@ -2,6 +2,7 @@ title: Artists
 pages: true
   template: artist
   num: zero
+  sort: last_name
 deletable: false
 files: false
 fields:
