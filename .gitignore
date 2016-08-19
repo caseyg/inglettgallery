@@ -4,4 +4,4 @@
 /thumbs/*
 /node_modules
 error_log
-/site/config
+/site/config/config.php
