@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: SO0072
+Inventory-id: SO0073
 
 ----
 
