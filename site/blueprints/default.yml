@@ -1,7 +1,7 @@
 title: Page
 pages: true
 files: true
-  size: 5000000
+  size: 5242880
 fields:
   title:
     label: Title

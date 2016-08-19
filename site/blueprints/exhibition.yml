@@ -2,7 +2,7 @@ title: Exhibition
 pages: false
 files: true
   sortable: true
-  size: 5000000
+  size: 5242880
   fields:
     image_title:
       label: Title
