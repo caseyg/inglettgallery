@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Spring
 
 ----
 
-Date: 
+Date: 2015
 
 ----
 
-Media: 
+Media: Acrylic, paper and velvet flocking on wood panel
 
 ----
 
-Dimensions: 
+Dimensions: 72 x 36 in.
 
 ----
 
@@ -22,7 +22,7 @@ Edition-info:
 
 ----
 
-Inventory-id: 
+Inventory-id: WV0144
 
 ----
 
