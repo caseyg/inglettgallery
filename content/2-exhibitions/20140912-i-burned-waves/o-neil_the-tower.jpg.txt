@@ -18,11 +18,11 @@ Dimensions-framed: 11 1/4 x 13 5/16 in.
 
 ----
 
-Edition-info: RO0069
+Edition-info: 
 
 ----
 
-Inventory-id: 
+Inventory-id: RO0069
 
 ----
 
