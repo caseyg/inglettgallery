@@ -2,19 +2,19 @@ Image-title: Cloud Desk
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 8 5/16 x 12 5/8 in. Sheet; 10 7/16 x 14 3/4 in. Frame
+Image-dimensions: 8 5/16 x 12 5/8 in. Sheet; 10 7/16 x 14 3/4 in. Frame
 
 ----
 
-Inventory-id: RO0070
+Image-inventory-id: RO0070
 
 ----
 

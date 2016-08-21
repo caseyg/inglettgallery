@@ -2,19 +2,19 @@ Image-title: Repeater
 
 ----
 
-Date: 2013
+Image-date: 2013
 
 ----
 
-Media: Oil and acrylic on canvas
+Image-media: Oil and acrylic on canvas
 
 ----
 
-Dimensions: 66 x 60 in.
+Image-dimensions: 66 x 60 in.
 
 ----
 
-Inventory-id: AM0041
+Image-inventory-id: AM0041
 
 ----
 

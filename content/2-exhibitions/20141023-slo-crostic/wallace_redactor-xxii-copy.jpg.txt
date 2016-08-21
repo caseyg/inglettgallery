@@ -2,24 +2,24 @@ Image-title: Redactor XXII
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Enamel, acrylic, powdered graphite, glass powder, cold wax, pigment, lead, aluminum, tape, fabric and vinyl on canvas
+Image-media: Enamel, acrylic, powdered graphite, glass powder, cold wax, pigment, lead, aluminum, tape, fabric and vinyl on canvas
 
 ----
 
-Dimensions: 84 x 120 in.
+Image-dimensions: 84 x 120 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RW0028
+Image-inventory-id: RW0028

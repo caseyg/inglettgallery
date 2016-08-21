@@ -2,19 +2,19 @@ Image-title: Flagship
 
 ----
 
-Date: 
+Image-date: 
 
 ----
 
-Media: Assemblage
+Image-media: Assemblage
 
 ----
 
-Dimensions: 
+Image-dimensions: 
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

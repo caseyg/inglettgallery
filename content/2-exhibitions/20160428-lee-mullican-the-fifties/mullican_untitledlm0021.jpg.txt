@@ -2,27 +2,27 @@ Image-title: Untitled
 
 ----
 
-Date: 1958
+Image-date: 1958
 
 ----
 
-Media: Graphite on paper
+Image-media: Graphite on paper
 
 ----
 
-Dimensions: 24 x 18 in.
+Image-dimensions: 24 x 18 in.
 
 ----
 
-Dimensions-framed: 28 1/2 x 22 1/2 in.
+Image-dimensions-framed: 28 1/2 x 22 1/2 in.
 
 ----
 
-Edition-info: LM0021
+Image-edition-info: LM0021
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: Military Lens Camera
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Canvas, digital camera parts, fabric, graphite, hardware, reconnaissance camera lens, shorts, thread, wood
+Image-media: Canvas, digital camera parts, fabric, graphite, hardware, reconnaissance camera lens, shorts, thread, wood
 
 ----
 
-Dimensions: 10 x 11 x 13 in.
+Image-dimensions: 10 x 11 x 13 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0032
+Image-inventory-id: GSM0032
 
 ----
 

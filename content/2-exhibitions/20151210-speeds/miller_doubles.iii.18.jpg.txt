@@ -2,27 +2,27 @@ Image-title: Doubles III #18
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Mixed media on paper
+Image-media: Mixed media on paper
 
 ----
 
-Dimensions: 18 x 24 in.
+Image-dimensions: 18 x 24 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: AM0091
+Image-inventory-id: AM0091
 
 ----
 

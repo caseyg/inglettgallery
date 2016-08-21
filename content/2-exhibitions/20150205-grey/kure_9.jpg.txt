@@ -2,27 +2,27 @@ Image-title: The Grey Series III
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Kolanut pigment, watercolor on Arches CP watercolor paper, 640g/m2 -300lb.
+Image-media: Kolanut pigment, watercolor on Arches CP watercolor paper, 640g/m2 -300lb.
 
 ----
 
-Dimensions: 12 x 9 in.
+Image-dimensions: 12 x 9 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: MK0205
+Image-inventory-id: MK0205
 
 ----
 

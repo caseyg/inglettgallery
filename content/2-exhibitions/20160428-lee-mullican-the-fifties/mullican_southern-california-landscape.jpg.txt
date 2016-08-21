@@ -2,27 +2,27 @@ Image-title: Southern California Landscape
 
 ----
 
-Date: 1958
+Image-date: 1958
 
 ----
 
-Media: Oil on canvas
+Image-media: Oil on canvas
 
 ----
 
-Dimensions: 40 x 30 in.
+Image-dimensions: 40 x 30 in.
 
 ----
 
-Dimensions-framed: 41 1/4 x 31 1/2 in.
+Image-dimensions-framed: 41 1/4 x 31 1/2 in.
 
 ----
 
-Edition-info: LM0008
+Image-edition-info: LM0008
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: Little Pink Lake
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 11 3/16 x 15 in.
+Image-dimensions: 11 3/16 x 15 in.
 
 ----
 
-Dimensions-framed: 13 7/16 x 17 1/8 in.
+Image-dimensions-framed: 13 7/16 x 17 1/8 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0080
+Image-inventory-id: RO0080
 
 ----
 

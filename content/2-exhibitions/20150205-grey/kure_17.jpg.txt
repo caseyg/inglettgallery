@@ -2,27 +2,27 @@ Image-title: The Grey Series XI
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Watercolor on Arches CP watercolor paper, 640g/m2 -300lb.
+Image-media: Watercolor on Arches CP watercolor paper, 640g/m2 -300lb.
 
 ----
 
-Dimensions: 9 x 12 in.
+Image-dimensions: 9 x 12 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: MK0213
+Image-inventory-id: MK0213
 
 ----
 

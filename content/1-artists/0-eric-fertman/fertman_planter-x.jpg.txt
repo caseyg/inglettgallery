@@ -2,16 +2,16 @@ Image-title: Planter X
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Ash, rubber, steel and silk flower
+Image-media: Ash, rubber, steel and silk flower
 
 ----
 
-Dimensions: 90 x 24 x 12 in.
+Image-dimensions: 90 x 24 x 12 in.
 
 ----
 
-Inventory-id: EF0206
+Image-inventory-id: EF0206

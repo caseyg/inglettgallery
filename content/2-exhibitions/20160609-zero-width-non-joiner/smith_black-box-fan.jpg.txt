@@ -2,27 +2,27 @@ Image-title: Black Box (Fan)
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Acrylic, canvas, hardware, latex paint, lenses, wood and computer fans
+Image-media: Acrylic, canvas, hardware, latex paint, lenses, wood and computer fans
 
 ----
 
-Dimensions: 14 x 16 x 7 in.
+Image-dimensions: 14 x 16 x 7 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0074
+Image-inventory-id: GSM0074
 
 ----
 

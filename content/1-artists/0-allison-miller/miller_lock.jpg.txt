@@ -2,19 +2,19 @@ Image-title: Lock
 
 ----
 
-Date: 2013
+Image-date: 2013
 
 ----
 
-Media: Oil on canvas
+Image-media: Oil on canvas
 
 ----
 
-Dimensions: 30 x 30 in.
+Image-dimensions: 30 x 30 in.
 
 ----
 
-Inventory-id: AM0047
+Image-inventory-id: AM0047
 
 ----
 

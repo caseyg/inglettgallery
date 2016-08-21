@@ -2,19 +2,19 @@ Image-title: Red Sky Palm
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 10 5/8 x 15 in. Sheet; 12 7/8 x 17 1/16 in. Frame
+Image-dimensions: 10 5/8 x 15 in. Sheet; 12 7/8 x 17 1/16 in. Frame
 
 ----
 
-Inventory-id: RO0077
+Image-inventory-id: RO0077
 
 ----
 

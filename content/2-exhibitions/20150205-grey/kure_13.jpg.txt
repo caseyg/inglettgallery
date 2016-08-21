@@ -2,27 +2,27 @@ Image-title: The Grey Series VII
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Watercolor on Arches HP watercolor paper, 300g/m2 -140 lb.
+Image-media: Watercolor on Arches HP watercolor paper, 300g/m2 -140 lb.
 
 ----
 
-Dimensions: 12 x 9 in.
+Image-dimensions: 12 x 9 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: MK0209
+Image-inventory-id: MK0209
 
 ----
 

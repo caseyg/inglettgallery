@@ -2,19 +2,19 @@ Image-title: Couch Surfer
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic on canvas
+Image-media: Acrylic on canvas
 
 ----
 
-Dimensions: 96 x 72 in.
+Image-dimensions: 96 x 72 in.
 
 ----
 
-Inventory-id: HG0281
+Image-inventory-id: HG0281
 
 ----
 

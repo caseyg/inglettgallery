@@ -2,27 +2,27 @@ Image-title: Kodak Canvas Camera
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Canvas, fabric, gesso, graphite, hardware, Kodak digital camera parts, thread, wood, 8 mm film camera lens
+Image-media: Canvas, fabric, gesso, graphite, hardware, Kodak digital camera parts, thread, wood, 8 mm film camera lens
 
 ----
 
-Dimensions: 23 x 29 x 6 in.
+Image-dimensions: 23 x 29 x 6 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0033
+Image-inventory-id: GSM0033
 
 ----
 

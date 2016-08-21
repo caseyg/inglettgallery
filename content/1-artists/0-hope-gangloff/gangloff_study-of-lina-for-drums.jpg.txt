@@ -2,19 +2,19 @@ Image-title: Study of Lina for Drums
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic on canvas on panel
+Image-media: Acrylic on canvas on panel
 
 ----
 
-Dimensions: 30 x 24 in.
+Image-dimensions: 30 x 24 in.
 
 ----
 
-Inventory-id: HG0272
+Image-inventory-id: HG0272
 
 ----
 

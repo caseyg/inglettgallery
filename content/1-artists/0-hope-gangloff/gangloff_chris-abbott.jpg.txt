@@ -2,19 +2,19 @@ Image-title: Chris Abbott
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic on canvas
+Image-media: Acrylic on canvas
 
 ----
 
-Dimensions: 62 x 36 in.
+Image-dimensions: 62 x 36 in.
 
 ----
 
-Inventory-id: HG0284
+Image-inventory-id: HG0284
 
 ----
 

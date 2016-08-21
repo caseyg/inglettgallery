@@ -2,27 +2,27 @@ Image-title: Linoleum Camera
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Linoleum, canvas, gesso, thread, paper, graphite, pushpin, lens, copper, epoxy, digital cameral parts, wood, hardware
+Image-media: Linoleum, canvas, gesso, thread, paper, graphite, pushpin, lens, copper, epoxy, digital cameral parts, wood, hardware
 
 ----
 
-Dimensions: 14 1/2 x 17 x 5 in.
+Image-dimensions: 14 1/2 x 17 x 5 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0034
+Image-inventory-id: GSM0034
 
 ----
 

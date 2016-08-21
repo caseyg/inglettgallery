@@ -6,16 +6,16 @@ Image-title: Queen
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Oil on linen
+Image-media: Oil on linen
 
 ----
 
-Dimensions: 18 x 24 in.
+Image-dimensions: 18 x 24 in.
 
 ----
 
-Inventory-id: BD0110
+Image-inventory-id: BD0110

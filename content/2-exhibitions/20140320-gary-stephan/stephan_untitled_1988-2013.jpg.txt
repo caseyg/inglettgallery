@@ -2,27 +2,27 @@ Image-title: Untitled
 
 ----
 
-Date: 1988/2013
+Image-date: 1988/2013
 
 ----
 
-Media: Acrylic on linen
+Image-media: Acrylic on linen
 
 ----
 
-Dimensions: 24 x 18 in.
+Image-dimensions: 24 x 18 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GST0010
+Image-inventory-id: GST0010
 
 ----
 

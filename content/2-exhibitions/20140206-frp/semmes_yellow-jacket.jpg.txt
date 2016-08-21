@@ -2,24 +2,24 @@ Image-title:
 
 ----
 
-Date: 
+Image-date: 
 
 ----
 
-Media: 
+Image-media: 
 
 ----
 
-Dimensions: 
+Image-dimensions: 
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 

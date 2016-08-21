@@ -2,19 +2,19 @@ Image-title: Late Night (Olga Alexandrovskaya)
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic and collage on canvas
+Image-media: Acrylic and collage on canvas
 
 ----
 
-Dimensions: 82 x 54 in.
+Image-dimensions: 82 x 54 in.
 
 ----
 
-Inventory-id: HG0270
+Image-inventory-id: HG0270
 
 ----
 

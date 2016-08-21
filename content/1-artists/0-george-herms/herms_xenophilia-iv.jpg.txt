@@ -2,19 +2,19 @@ Image-title: Xenophilia IV
 
 ----
 
-Date: 2011
+Image-date: 2011
 
 ----
 
-Media: Collage
+Image-media: Collage
 
 ----
 
-Dimensions: 28 1/2 x 22 1/2 in.
+Image-dimensions: 28 1/2 x 22 1/2 in.
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

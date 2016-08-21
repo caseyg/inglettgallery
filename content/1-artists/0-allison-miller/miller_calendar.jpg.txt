@@ -2,19 +2,19 @@ Image-title: Calandar
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Acrylic, pencil and molding paste on canvas
+Image-media: Acrylic, pencil and molding paste on canvas
 
 ----
 
-Dimensions: 60 x 52 1/2 in.
+Image-dimensions: 60 x 52 1/2 in.
 
 ----
 
-Inventory-id: AM0053
+Image-inventory-id: AM0053
 
 ----
 

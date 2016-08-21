@@ -2,27 +2,27 @@ Image-title: old.collection
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Gouache and acrylic ink on paper mounted on canvas mounted on panel
+Image-media: Gouache and acrylic ink on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 40 x 29 3/4 in.
+Image-dimensions: 40 x 29 3/4 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: SO0060
+Image-inventory-id: SO0060
 
 ----
 

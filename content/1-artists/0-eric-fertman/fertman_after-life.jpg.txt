@@ -2,16 +2,16 @@ Image-title: After Life
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Ash, paint, plywood, stain and steel
+Image-media: Ash, paint, plywood, stain and steel
 
 ----
 
-Dimensions: 65 x 43 x 25 in.
+Image-dimensions: 65 x 43 x 25 in.
 
 ----
 
-Inventory-id: EF0209
+Image-inventory-id: EF0209

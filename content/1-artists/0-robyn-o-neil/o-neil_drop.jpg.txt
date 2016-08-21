@@ -2,19 +2,19 @@ Image-title: Drop
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 13 x 15 in. Sheet; 15 1/2 x 17 1/16 in. Frame
+Image-dimensions: 13 x 15 in. Sheet; 15 1/2 x 17 1/16 in. Frame
 
 ----
 
-Inventory-id: RO0081
+Image-inventory-id: RO0081
 
 ----
 

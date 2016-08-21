@@ -2,16 +2,16 @@ Image-title: Insomnia City
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Oil on linen
+Image-media: Oil on linen
 
 ----
 
-Dimensions: 60 x 84 in.
+Image-dimensions: 60 x 84 in.
 
 ----
 
-Inventory-id: BD0115
+Image-inventory-id: BD0115

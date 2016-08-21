@@ -2,19 +2,19 @@ Image-title: Blind Grouping II
 
 ----
 
-Date: 2011
+Image-date: 2011
 
 ----
 
-Media: Graphite on paper
+Image-media: Graphite on paper
 
 ----
 
-Dimensions: 8 3/4 x 12 1/4 in.
+Image-dimensions: 8 3/4 x 12 1/4 in.
 
 ----
 
-Inventory-id: RO0008
+Image-inventory-id: RO0008
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: Untitled
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Acrylic on canvas
+Image-media: Acrylic on canvas
 
 ----
 
-Dimensions: 48 x 60 in.
+Image-dimensions: 48 x 60 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GST0008
+Image-inventory-id: GST0008
 
 ----
 

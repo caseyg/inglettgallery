@@ -2,27 +2,27 @@ Image-title: Black Box (Black)
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Acrylic, canvas, hardware, latex paint, lenses and wood
+Image-media: Acrylic, canvas, hardware, latex paint, lenses and wood
 
 ----
 
-Dimensions: 13 x 16 x 4 1/2 in.
+Image-dimensions: 13 x 16 x 4 1/2 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0071
+Image-inventory-id: GSM0071
 
 ----
 

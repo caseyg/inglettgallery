@@ -2,19 +2,19 @@ Image-title: videomix.sm
 
 ----
 
-Date: 2013
+Image-date: 2013
 
 ----
 
-Media: Gouache on paper mounted on canvas mounted on panel
+Image-media: Gouache on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 29 3/4 x 22 in.
+Image-dimensions: 29 3/4 x 22 in.
 
 ----
 
-Inventory-id: SO0066
+Image-inventory-id: SO0066
 
 ----
 

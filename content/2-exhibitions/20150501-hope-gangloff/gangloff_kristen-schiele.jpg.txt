@@ -2,27 +2,27 @@ Image-title: Kristen Schiele
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic on panel
+Image-media: Acrylic on panel
 
 ----
 
-Dimensions: 36 x 24 in.
+Image-dimensions: 36 x 24 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: HG0275
+Image-inventory-id: HG0275
 
 ----
 

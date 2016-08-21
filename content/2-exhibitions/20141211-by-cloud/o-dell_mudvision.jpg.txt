@@ -2,27 +2,27 @@ Image-title: mudVISION
 
 ----
 
-Date: 2013
+Image-date: 2013
 
 ----
 
-Media: Gouache on paper mounted on canvas mounted on panel
+Image-media: Gouache on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 30 1/4 x 22 1/4 in.
+Image-dimensions: 30 1/4 x 22 1/4 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: SO0059
+Image-inventory-id: SO0059
 
 ----
 

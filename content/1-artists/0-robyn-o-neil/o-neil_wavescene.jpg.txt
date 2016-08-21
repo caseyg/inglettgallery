@@ -2,19 +2,19 @@ Image-title: Wavescene
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 11 5/8 x 13 1/8 in. Sheet; 13 13/16 x 15 1/4 in. Frame
+Image-dimensions: 11 5/8 x 13 1/8 in. Sheet; 13 13/16 x 15 1/4 in. Frame
 
 ----
 
-Inventory-id: RO0075
+Image-inventory-id: RO0075
 
 ----
 

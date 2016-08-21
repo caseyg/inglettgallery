@@ -2,27 +2,27 @@ Image-title: Black Box (Unknown)
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Acrylic, canvas, hardware, latex paint, lenses, wood, epoxy and inkjet prints on paper
+Image-media: Acrylic, canvas, hardware, latex paint, lenses, wood, epoxy and inkjet prints on paper
 
 ----
 
-Dimensions: 20 x 25 x 8 in.
+Image-dimensions: 20 x 25 x 8 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0073
+Image-inventory-id: GSM0073
 
 ----
 

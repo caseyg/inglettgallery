@@ -2,19 +2,19 @@ Image-title: Lymphatic Vessel III
 
 ----
 
-Date: 2008
+Image-date: 2008
 
 ----
 
-Media: Assemblage
+Image-media: Assemblage
 
 ----
 
-Dimensions: 
+Image-dimensions: 
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

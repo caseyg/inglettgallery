@@ -2,16 +2,16 @@ Image-title: Broken Man
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Ash, paint, plywood, stain and steel
+Image-media: Ash, paint, plywood, stain and steel
 
 ----
 
-Dimensions: 75 x 40 x 36 in.
+Image-dimensions: 75 x 40 x 36 in.
 
 ----
 
-Inventory-id: EF0208
+Image-inventory-id: EF0208

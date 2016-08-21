@@ -2,19 +2,19 @@ Image-title: Some Old Tangle
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Gouache and acrylic ink on paper mounted on canvas mounted on panel
+Image-media: Gouache and acrylic ink on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 30 x 22 in.
+Image-dimensions: 30 x 22 in.
 
 ----
 
-Inventory-id: SO0099
+Image-inventory-id: SO0099
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: We Can't Breath
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Silkscreen on velour paper mounted on coloring book pages with acrylic wash
+Image-media: Silkscreen on velour paper mounted on coloring book pages with acrylic wash
 
 ----
 
-Dimensions: 12 x 9 in. Sheet
+Image-dimensions: 12 x 9 in. Sheet
 
 ----
 
-Dimensions-framed: 60 x 27 in. Overall
+Image-dimensions-framed: 60 x 27 in. Overall
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: WV0150
+Image-inventory-id: WV0150
 
 ----
 

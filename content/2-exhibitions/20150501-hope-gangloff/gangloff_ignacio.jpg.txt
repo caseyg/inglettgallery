@@ -2,27 +2,27 @@ Image-title: Ignacio
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic on linen
+Image-media: Acrylic on linen
 
 ----
 
-Dimensions: 28 x 18 in.
+Image-dimensions: 28 x 18 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: HG0273
+Image-inventory-id: HG0273
 
 ----
 

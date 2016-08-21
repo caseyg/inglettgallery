@@ -2,27 +2,27 @@ Image-title: Heavy Interrobang Ornament
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Canvas, digital camera, electronics, hardware, outboard motor, sequins and slide projector
+Image-media: Canvas, digital camera, electronics, hardware, outboard motor, sequins and slide projector
 
 ----
 
-Dimensions: 40 1/2 x 36 x 18 1/2 in.
+Image-dimensions: 40 1/2 x 36 x 18 1/2 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0082
+Image-inventory-id: GSM0082
 
 ----
 

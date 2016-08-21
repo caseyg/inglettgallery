@@ -2,19 +2,19 @@ Image-title:
 
 ----
 
-Date: 
+Image-date: 
 
 ----
 
-Media: 
+Image-media: 
 
 ----
 
-Dimensions: 
+Image-dimensions: 
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

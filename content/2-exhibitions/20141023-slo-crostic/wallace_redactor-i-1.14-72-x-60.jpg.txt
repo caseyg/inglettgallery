@@ -2,24 +2,24 @@ Image-title: Redactor I
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Acrylic, aluminum, cold wax, Crystalina, enamel, glass tinting film, ink, Mylar, paper, pigment, steel, tape, vinyl/canvas
+Image-media: Acrylic, aluminum, cold wax, Crystalina, enamel, glass tinting film, ink, Mylar, paper, pigment, steel, tape, vinyl/canvas
 
 ----
 
-Dimensions: 72 x 60 in.
+Image-dimensions: 72 x 60 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RW0004
+Image-inventory-id: RW0004

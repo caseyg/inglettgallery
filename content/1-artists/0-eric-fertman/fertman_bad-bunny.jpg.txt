@@ -2,16 +2,16 @@ Image-title: Bad Bunny
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Oak, steel and silk flowers
+Image-media: Oak, steel and silk flowers
 
 ----
 
-Dimensions: 61 x 23 x 10 in.
+Image-dimensions: 61 x 23 x 10 in.
 
 ----
 
-Inventory-id: EF0205
+Image-inventory-id: EF0205

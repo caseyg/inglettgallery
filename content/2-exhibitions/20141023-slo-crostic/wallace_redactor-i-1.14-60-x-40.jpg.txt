@@ -2,24 +2,24 @@ Image-title: Redactor III
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Enamel, acrylic, powdered graphite, glass powder, cold wax, aluminum, tape, fabric, vinyl on canvas
+Image-media: Enamel, acrylic, powdered graphite, glass powder, cold wax, aluminum, tape, fabric, vinyl on canvas
 
 ----
 
-Dimensions: 60 x 48 in.
+Image-dimensions: 60 x 48 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RW0016
+Image-inventory-id: RW0016

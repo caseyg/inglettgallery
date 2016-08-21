@@ -2,27 +2,27 @@ Image-title: Winter
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic, paper and velvet flocking on wood panel
+Image-media: Acrylic, paper and velvet flocking on wood panel
 
 ----
 
-Dimensions: 72 x 36 in.
+Image-dimensions: 72 x 36 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: WV0144
+Image-inventory-id: WV0144
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: pyrocumulus.Spring
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Gouache, acrylic ink and archival glue on paper mounted on canvas mounted on panel
+Image-media: Gouache, acrylic ink and archival glue on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 44 x 30 1/4
+Image-dimensions: 44 x 30 1/4
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: SO0074
+Image-inventory-id: SO0074
 
 ----
 

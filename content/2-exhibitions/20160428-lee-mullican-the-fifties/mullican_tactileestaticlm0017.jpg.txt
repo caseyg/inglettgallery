@@ -2,27 +2,27 @@ Image-title: Tactile Estatics
 
 ----
 
-Date: 1955
+Image-date: 1955
 
 ----
 
-Media: Painted wood
+Image-media: Painted wood
 
 ----
 
-Dimensions: 25 x 16 1/2 in.
+Image-dimensions: 25 x 16 1/2 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: LM0017
+Image-inventory-id: LM0017
 
 ----
 

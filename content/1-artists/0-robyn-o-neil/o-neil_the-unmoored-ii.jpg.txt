@@ -2,19 +2,19 @@ Image-title: Unmoored II
 
 ----
 
-Date: 2011
+Image-date: 2011
 
 ----
 
-Media: Graphite on paper
+Image-media: Graphite on paper
 
 ----
 
-Dimensions: 6 1/2 x 10 in. Sheet; 13 1/2 x 17 in. Frame
+Image-dimensions: 6 1/2 x 10 in. Sheet; 13 1/2 x 17 in. Frame
 
 ----
 
-Inventory-id: RO0029
+Image-inventory-id: RO0029
 
 ----
 

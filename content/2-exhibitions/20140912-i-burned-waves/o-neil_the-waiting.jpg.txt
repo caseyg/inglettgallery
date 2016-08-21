@@ -2,27 +2,27 @@ Image-title: The Waiting
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 11 5/8 x 12 9/16 in.
+Image-dimensions: 11 5/8 x 12 9/16 in.
 
 ----
 
-Dimensions-framed: 14 x 14 3/4 in.
+Image-dimensions-framed: 14 x 14 3/4 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0074
+Image-inventory-id: RO0074
 
 ----
 

@@ -2,19 +2,19 @@ Image-title: Installation View
 
 ----
 
-Date: 2011
+Image-date: 2011
 
 ----
 
-Media: 
+Image-media: 
 
 ----
 
-Dimensions: 
+Image-dimensions: 
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: Dark Horse (Tim Traynor)
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic and collage on canvas
+Image-media: Acrylic and collage on canvas
 
 ----
 
-Dimensions: 96 x 72 in.
+Image-dimensions: 96 x 72 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: HG0264
+Image-inventory-id: HG0264
 
 ----
 

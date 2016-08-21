@@ -2,19 +2,19 @@ Image-title: Diptych
 
 ----
 
-Date: 2010
+Image-date: 2010
 
 ----
 
-Media: Acrylic, gesso and oil on canvas
+Image-media: Acrylic, gesso and oil on canvas
 
 ----
 
-Dimensions: 48 x 60 in.
+Image-dimensions: 48 x 60 in.
 
 ----
 
-Inventory-id: AM0012
+Image-inventory-id: AM0012
 
 ----
 

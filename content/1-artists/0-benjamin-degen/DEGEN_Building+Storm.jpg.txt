@@ -6,16 +6,16 @@ Image-title: Building Storm
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Oil on linen
+Image-media: Oil on linen
 
 ----
 
-Dimensions: 36 x 36 in.
+Image-dimensions: 36 x 36 in.
 
 ----
 
-Inventory-id: BD0111
+Image-inventory-id: BD0111

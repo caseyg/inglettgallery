@@ -2,27 +2,27 @@ Image-title: Slide Camera
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: canvas, colored pencil, copper, digital camera parts, epoxy, fabric, fabric tape, gesso, graphite, hardware, lens, microscope slides, paper, PVA adhesive, thread, wood, 35 mm slide film
+Image-media: canvas, colored pencil, copper, digital camera parts, epoxy, fabric, fabric tape, gesso, graphite, hardware, lens, microscope slides, paper, PVA adhesive, thread, wood, 35 mm slide film
 
 ----
 
-Dimensions: 27 x 12 x 7 in.
+Image-dimensions: 27 x 12 x 7 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0035
+Image-inventory-id: GSM0035
 
 ----
 

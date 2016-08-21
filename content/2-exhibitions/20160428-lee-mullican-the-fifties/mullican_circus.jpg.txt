@@ -2,27 +2,27 @@ Image-title: Circus
 
 ----
 
-Date: 1956
+Image-date: 1956
 
 ----
 
-Media: Oil on canvas
+Image-media: Oil on canvas
 
 ----
 
-Dimensions: 29 7/8 x 50 1/4 in.
+Image-dimensions: 29 7/8 x 50 1/4 in.
 
 ----
 
-Dimensions-framed: 33 1/4 x 53 3/4 in.
+Image-dimensions-framed: 33 1/4 x 53 3/4 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: LM0001
+Image-inventory-id: LM0001
 
 ----
 

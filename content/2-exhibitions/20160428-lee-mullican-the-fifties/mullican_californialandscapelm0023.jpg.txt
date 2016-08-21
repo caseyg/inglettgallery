@@ -2,27 +2,27 @@ Image-title: California Landscape
 
 ----
 
-Date: 1959
+Image-date: 1959
 
 ----
 
-Media: Graphite on paper
+Image-media: Graphite on paper
 
 ----
 
-Dimensions: 24 x 19 in.
+Image-dimensions: 24 x 19 in.
 
 ----
 
-Dimensions-framed: 27 1/2 x 25 in.
+Image-dimensions-framed: 27 1/2 x 25 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: LM0023
+Image-inventory-id: LM0023
 
 ----
 

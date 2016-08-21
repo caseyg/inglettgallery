@@ -2,19 +2,19 @@ Image-title: Tropic
 
 ----
 
-Date: 2013
+Image-date: 2013
 
 ----
 
-Media: Oil, acrylic and pencil on canvas
+Image-media: Oil, acrylic and pencil on canvas
 
 ----
 
-Dimensions: 60 x 48 in.
+Image-dimensions: 60 x 48 in.
 
 ----
 
-Inventory-id: AM0045
+Image-inventory-id: AM0045
 
 ----
 

@@ -6,16 +6,16 @@ Image-title: Painter Sleeping
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Oil and spray enamel over linen
+Image-media: Oil and spray enamel over linen
 
 ----
 
-Dimensions: 18 x 24 in.
+Image-dimensions: 18 x 24 in.
 
 ----
 
-Inventory-id: BD0109
+Image-inventory-id: BD0109

@@ -2,27 +2,27 @@ Image-title: Scratch Arch
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Oil, oil stick and acrylic on canvas
+Image-media: Oil, oil stick and acrylic on canvas
 
 ----
 
-Dimensions: 48 x 48 in.
+Image-dimensions: 48 x 48 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: AM0072
+Image-inventory-id: AM0072
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: The Grey Series IX
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Kolanut pigment and watercolor on Arches HP watercolor paper, 300g/m2 -140 lb.
+Image-media: Kolanut pigment and watercolor on Arches HP watercolor paper, 300g/m2 -140 lb.
 
 ----
 
-Dimensions: 9 x 12 in.
+Image-dimensions: 9 x 12 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: MK0211
+Image-inventory-id: MK0211
 
 ----
 

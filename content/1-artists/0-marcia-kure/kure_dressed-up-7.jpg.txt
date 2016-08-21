@@ -2,19 +2,19 @@ Image-title: Dressed Up 7
 
 ----
 
-Date: 2011
+Image-date: 2011
 
 ----
 
-Media: Archival digital photograph
+Image-media: Archival digital photograph
 
 ----
 
-Dimensions: 48 x 36 in.
+Image-dimensions: 48 x 36 in.
 
 ----
 
-Inventory-id: MK0046
+Image-inventory-id: MK0046
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: Untitled
 
 ----
 
-Date: 1965
+Image-date: 1965
 
 ----
 
-Media: Painted wood
+Image-media: Painted wood
 
 ----
 
-Dimensions: 66 x 4 x 5 in.
+Image-dimensions: 66 x 4 x 5 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: LM0014
+Image-inventory-id: LM0014
 
 ----
 

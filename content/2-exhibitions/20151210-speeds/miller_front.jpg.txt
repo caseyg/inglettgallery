@@ -2,27 +2,27 @@ Image-title: Front
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Oil, oil stick and acrylic on canvas
+Image-media: Oil, oil stick and acrylic on canvas
 
 ----
 
-Dimensions: 30 x 28 in.
+Image-dimensions: 30 x 28 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: AM0067
+Image-inventory-id: AM0067
 
 ----
 

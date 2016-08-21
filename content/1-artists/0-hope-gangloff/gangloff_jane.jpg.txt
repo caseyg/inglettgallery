@@ -2,19 +2,19 @@ Image-title: Jane
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic on canvas on panel
+Image-media: Acrylic on canvas on panel
 
 ----
 
-Dimensions: 24 x 18 in.
+Image-dimensions: 24 x 18 in.
 
 ----
 
-Inventory-id: HG0274
+Image-inventory-id: HG0274
 
 ----
 

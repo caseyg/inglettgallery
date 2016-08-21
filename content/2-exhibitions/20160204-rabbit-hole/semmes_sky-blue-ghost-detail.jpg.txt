@@ -2,27 +2,27 @@ Image-title: Sky Blue Ghost (detail)
 
 ----
 
-Date: 1996
+Image-date: 1996
 
 ----
 
-Media: Wool and velvet
+Image-media: Wool and velvet
 
 ----
 
-Dimensions: 78 x 30 in.
+Image-dimensions: 78 x 30 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: BS0172
+Image-inventory-id: BS0172
 
 ----
 

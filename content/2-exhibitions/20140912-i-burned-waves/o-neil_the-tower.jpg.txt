@@ -2,27 +2,27 @@ Image-title: The Tower
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 9 x 11 5/16 in.
+Image-dimensions: 9 x 11 5/16 in.
 
 ----
 
-Dimensions-framed: 11 1/4 x 13 5/16 in.
+Image-dimensions-framed: 11 1/4 x 13 5/16 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0069
+Image-inventory-id: RO0069
 
 ----
 

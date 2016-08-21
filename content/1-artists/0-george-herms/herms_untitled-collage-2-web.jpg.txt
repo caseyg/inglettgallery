@@ -2,19 +2,19 @@ Image-title: Xenophilia III
 
 ----
 
-Date: 2011
+Image-date: 2011
 
 ----
 
-Media: Collage
+Image-media: Collage
 
 ----
 
-Dimensions: 23 3/4 x 29 3/4 in.
+Image-dimensions: 23 3/4 x 29 3/4 in.
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

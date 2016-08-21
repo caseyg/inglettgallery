@@ -2,19 +2,19 @@ Image-title: One Green Leaf
 
 ----
 
-Date: 2013
+Image-date: 2013
 
 ----
 
-Media: Ink on magazine page
+Image-media: Ink on magazine page
 
 ----
 
-Dimensions: 10 7/8 x 7 11/16 in. Sheet; 18 1/8 x 14 5/8 in. Frame
+Image-dimensions: 10 7/8 x 7 11/16 in. Sheet; 18 1/8 x 14 5/8 in. Frame
 
 ----
 
-Inventory-id: BS0061
+Image-inventory-id: BS0061
 
 ----
 

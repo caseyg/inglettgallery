@@ -6,16 +6,16 @@ Image-title: Boy with a Dog
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Oil stick over acrylic on paper
+Image-media: Oil stick over acrylic on paper
 
 ----
 
-Dimensions: 40 x 26 in.
+Image-dimensions: 40 x 26 in.
 
 ----
 
-Inventory-id: BD0107
+Image-inventory-id: BD0107

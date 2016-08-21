@@ -2,27 +2,27 @@ Image-title: Yellow Ghost
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Fleece, felt and crepe
+Image-media: Fleece, felt and crepe
 
 ----
 
-Dimensions: 100 x 57 in.
+Image-dimensions: 100 x 57 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: BS0171
+Image-inventory-id: BS0171
 
 ----
 

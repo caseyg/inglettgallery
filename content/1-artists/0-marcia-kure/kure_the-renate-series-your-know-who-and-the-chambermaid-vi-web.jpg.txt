@@ -2,19 +2,19 @@ Image-title: The Renate Series: You Know Who and the Chambermaid VI
 
 ----
 
-Date: 2013
+Image-date: 2013
 
 ----
 
-Media: Kolanut pigment, silver acrylic, pencil and watercolor/ Arches HP Watercolor paper
+Image-media: Kolanut pigment, silver acrylic, pencil and watercolor/ Arches HP Watercolor paper
 
 ----
 
-Dimensions: 22 1/2 x 18 in. Sheet; 29 1/2 x 24 x 1 1/2 in. Frame
+Image-dimensions: 22 1/2 x 18 in. Sheet; 29 1/2 x 24 x 1 1/2 in. Frame
 
 ----
 
-Inventory-id: MK0061
+Image-inventory-id: MK0061
 
 ----
 

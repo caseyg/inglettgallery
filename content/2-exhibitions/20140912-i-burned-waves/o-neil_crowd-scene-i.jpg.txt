@@ -2,27 +2,27 @@ Image-title: Crowd Scene I
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 12 1/4 x 14 1/2 in.
+Image-dimensions: 12 1/4 x 14 1/2 in.
 
 ----
 
-Dimensions-framed: 14 1/2 x 16 1/2 in.
+Image-dimensions-framed: 14 1/2 x 16 1/2 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0084
+Image-inventory-id: RO0084
 
 ----
 

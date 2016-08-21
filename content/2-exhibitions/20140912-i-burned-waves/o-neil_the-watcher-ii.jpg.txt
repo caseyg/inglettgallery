@@ -2,27 +2,27 @@ Image-title: The Watcher II
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 10 5/8 x 11 15/16 in.
+Image-dimensions: 10 5/8 x 11 15/16 in.
 
 ----
 
-Dimensions-framed: 12 7/16 x 14 in.
+Image-dimensions-framed: 12 7/16 x 14 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0073
+Image-inventory-id: RO0073
 
 ----
 

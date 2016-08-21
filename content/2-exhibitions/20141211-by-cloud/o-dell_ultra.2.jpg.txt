@@ -2,27 +2,27 @@ Image-title: ultra.2
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Gouache on paper mounted on canvas mounted on panel
+Image-media: Gouache on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 30 x 22 in.
+Image-dimensions: 30 x 22 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: SO0065
+Image-inventory-id: SO0065
 
 ----
 

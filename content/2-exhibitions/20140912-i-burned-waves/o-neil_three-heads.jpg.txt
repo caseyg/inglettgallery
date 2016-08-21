@@ -2,27 +2,27 @@ Image-title: Three Heads
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 13 1/4 x 11 15/16 in.
+Image-dimensions: 13 1/4 x 11 15/16 in.
 
 ----
 
-Dimensions-framed: 13 7/16 x 14 in.
+Image-dimensions-framed: 13 7/16 x 14 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0083
+Image-inventory-id: RO0083
 
 ----
 

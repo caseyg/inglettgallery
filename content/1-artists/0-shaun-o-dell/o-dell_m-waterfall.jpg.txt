@@ -2,19 +2,19 @@ Image-title: M Waterfall
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Inkjet on silver plate mounted on wood panel
+Image-media: Inkjet on silver plate mounted on wood panel
 
 ----
 
-Dimensions: 14 1/2 x 12 in.
+Image-dimensions: 14 1/2 x 12 in.
 
 ----
 
-Inventory-id: SO0087
+Image-inventory-id: SO0087
 
 ----
 

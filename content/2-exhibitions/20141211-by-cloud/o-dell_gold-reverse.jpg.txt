@@ -2,27 +2,27 @@ Image-title: GOLD REVERSE
 
 ----
 
-Date: 2013
+Image-date: 2013
 
 ----
 
-Media: Gouache and archival glue on paper mounted on canvas mounted on panel
+Image-media: Gouache and archival glue on paper mounted on canvas mounted on panel
 
 ----
 
-Dimensions: 24 x 20 in.
+Image-dimensions: 24 x 20 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: SO0078
+Image-inventory-id: SO0078
 
 ----
 

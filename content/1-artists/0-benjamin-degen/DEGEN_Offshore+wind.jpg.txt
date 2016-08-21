@@ -6,16 +6,16 @@ Image-title: Offshore Wind
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Oil on linen
+Image-media: Oil on linen
 
 ----
 
-Dimensions: 24 x 36 in.
+Image-dimensions: 24 x 36 in.
 
 ----
 
-Inventory-id: BD0113
+Image-inventory-id: BD0113

@@ -2,27 +2,27 @@ Image-title: Like Sleep
 
 ----
 
-Date: 2012
+Image-date: 2012
 
 ----
 
-Media: Acrylic on canvas
+Image-media: Acrylic on canvas
 
 ----
 
-Dimensions: 28 x 32 in.
+Image-dimensions: 28 x 32 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GST0003
+Image-inventory-id: GST0003
 
 ----
 

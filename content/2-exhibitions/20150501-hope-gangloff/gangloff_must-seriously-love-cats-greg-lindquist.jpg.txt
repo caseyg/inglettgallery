@@ -2,27 +2,27 @@ Image-title: Must Seriously Love Cats (Greg Lindquist)
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic on canvas
+Image-media: Acrylic on canvas
 
 ----
 
-Dimensions: 72 x 48 in.
+Image-dimensions: 72 x 48 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: HG0266
+Image-inventory-id: HG0266
 
 ----
 

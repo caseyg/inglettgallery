@@ -2,27 +2,27 @@ Image-title: Prompt 1-5
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Acrylic, canvas, Duralar, paper, thread and thumbtacks
+Image-media: Acrylic, canvas, Duralar, paper, thread and thumbtacks
 
 ----
 
-Dimensions: Dimensions variable
+Image-dimensions: Dimensions variable
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

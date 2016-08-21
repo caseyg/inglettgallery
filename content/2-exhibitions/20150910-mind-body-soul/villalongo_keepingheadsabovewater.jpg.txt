@@ -2,27 +2,27 @@ Image-title: Keeping Heads Above Water
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Acrylic, paper and velvet flocking on wood panel
+Image-media: Acrylic, paper and velvet flocking on wood panel
 
 ----
 
-Dimensions: 36 x 24 in.
+Image-dimensions: 36 x 24 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: WV0148
+Image-inventory-id: WV0148
 
 ----
 

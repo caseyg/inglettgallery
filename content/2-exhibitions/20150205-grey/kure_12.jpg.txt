@@ -2,27 +2,27 @@ Image-title: The Grey Series VI
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Kolanut pigment, watercolor and gouache on Arches CP watercolor paper, 640g/m2 -300lb.
+Image-media: Kolanut pigment, watercolor and gouache on Arches CP watercolor paper, 640g/m2 -300lb.
 
 ----
 
-Dimensions: 9 x 12 in.
+Image-dimensions: 9 x 12 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: MK0208
+Image-inventory-id: MK0208
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: Untitled
 
 ----
 
-Date: 1988/2013
+Image-date: 1988/2013
 
 ----
 
-Media: Acrylic on canvas
+Image-media: Acrylic on canvas
 
 ----
 
-Dimensions: 15 x 15 in.
+Image-dimensions: 15 x 15 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GST0013
+Image-inventory-id: GST0013
 
 ----
 

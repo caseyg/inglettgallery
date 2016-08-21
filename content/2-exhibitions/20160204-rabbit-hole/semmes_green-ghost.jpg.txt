@@ -2,27 +2,27 @@ Image-title: Green Ghost
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Fleece, tulle, felt and crepe
+Image-media: Fleece, tulle, felt and crepe
 
 ----
 
-Dimensions: 102 x 58 in.
+Image-dimensions: 102 x 58 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: BS0175
+Image-inventory-id: BS0175
 
 ----
 

@@ -6,16 +6,16 @@ Image-title: Rip Van
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Oil stick and acrylic on paper
+Image-media: Oil stick and acrylic on paper
 
 ----
 
-Dimensions: 26 x 40 in. Sheet; 28 1/2 x 42 1/2 in. Frame
+Image-dimensions: 26 x 40 in. Sheet; 28 1/2 x 42 1/2 in. Frame
 
 ----
 
-Inventory-id: BD0088
+Image-inventory-id: BD0088

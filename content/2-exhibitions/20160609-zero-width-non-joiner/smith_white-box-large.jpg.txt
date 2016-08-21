@@ -2,27 +2,27 @@ Image-title: White Box (Large)
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Digital camera, hardware and wood
+Image-media: Digital camera, hardware and wood
 
 ----
 
-Dimensions: 18 x 25 x 2 in.
+Image-dimensions: 18 x 25 x 2 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0080
+Image-inventory-id: GSM0080
 
 ----
 

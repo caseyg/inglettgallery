@@ -2,27 +2,27 @@ Image-title: Scratch Out Horizon Banner (Six Seater)
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Canvas, colored pencil, fabric, gesso, graphite, hardware, lawn chair webbing, paper, spray paint, thread, wire, wood
+Image-media: Canvas, colored pencil, fabric, gesso, graphite, hardware, lawn chair webbing, paper, spray paint, thread, wire, wood
 
 ----
 
-Dimensions: 76 x 96 x 16 in.
+Image-dimensions: 76 x 96 x 16 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0051
+Image-inventory-id: GSM0051
 
 ----
 

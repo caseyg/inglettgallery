@@ -2,27 +2,27 @@ Image-title: From Where
 
 ----
 
-Date: 1955
+Image-date: 1955
 
 ----
 
-Media: Oil on canvas
+Image-media: Oil on canvas
 
 ----
 
-Dimensions: 40 x 20 in.
+Image-dimensions: 40 x 20 in.
 
 ----
 
-Dimensions-framed: 43 x 23 in.
+Image-dimensions-framed: 43 x 23 in.
 
 ----
 
-Edition-info: LM0002
+Image-edition-info: LM0002
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

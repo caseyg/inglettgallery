@@ -2,27 +2,27 @@ Image-title: Invasion of the Body Snatchers II. The Series: Yaro II
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Kolanut pigment, watercolor and pencil on Arches HP watercolor paper, 640g/m2 -300 lb. mounted on board
+Image-media: Kolanut pigment, watercolor and pencil on Arches HP watercolor paper, 640g/m2 -300 lb. mounted on board
 
 ----
 
-Dimensions: 24 x 18 in.
+Image-dimensions: 24 x 18 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: MK0198
+Image-inventory-id: MK0198
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: Strange Little River
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 9 1/8 x 12 3/4 in.
+Image-dimensions: 9 1/8 x 12 3/4 in.
 
 ----
 
-Dimensions-framed: 11 5/16 x 14 13/16 in.
+Image-dimensions-framed: 11 5/16 x 14 13/16 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0071
+Image-inventory-id: RO0071
 
 ----
 

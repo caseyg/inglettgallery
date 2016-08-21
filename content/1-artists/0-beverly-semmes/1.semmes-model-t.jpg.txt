@@ -2,19 +2,19 @@ Image-title: Model T
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Ink on magazine page
+Image-media: Ink on magazine page
 
 ----
 
-Dimensions: 6 x 4 3/4 in. Sheet; 15 x 13 1/2 in. Frame
+Image-dimensions: 6 x 4 3/4 in. Sheet; 15 x 13 1/2 in. Frame
 
 ----
 
-Inventory-id: BS0095
+Image-inventory-id: BS0095
 
 ----
 

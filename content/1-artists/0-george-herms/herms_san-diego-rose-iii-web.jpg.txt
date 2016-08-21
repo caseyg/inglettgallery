@@ -2,19 +2,19 @@ Image-title: San Diego Rose III
 
 ----
 
-Date: 2011
+Image-date: 2011
 
 ----
 
-Media: Collage
+Image-media: Collage
 
 ----
 
-Dimensions: 21 x 27 x 1 1/2 in.
+Image-dimensions: 21 x 27 x 1 1/2 in.
 
 ----
 
-Inventory-id: GH0016
+Image-inventory-id: GH0016
 
 ----
 

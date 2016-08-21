@@ -2,27 +2,27 @@ Image-title: Inkjet Vanity
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Acrylic, canvas, Duralar, electronics, hardware, inkjet printer, paper, rope, sequins, thread and 35 mm slides
+Image-media: Acrylic, canvas, Duralar, electronics, hardware, inkjet printer, paper, rope, sequins, thread and 35 mm slides
 
 ----
 
-Dimensions: 84 x 68 x 17 in.
+Image-dimensions: 84 x 68 x 17 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0091
+Image-inventory-id: GSM0091
 
 ----
 

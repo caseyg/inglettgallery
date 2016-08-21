@@ -2,27 +2,27 @@ Image-title: Installation View
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: 
+Image-media: 
 
 ----
 
-Dimensions: 
+Image-dimensions: 
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

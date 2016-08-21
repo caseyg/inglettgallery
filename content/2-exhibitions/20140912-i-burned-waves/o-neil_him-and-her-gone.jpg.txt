@@ -2,27 +2,27 @@ Image-title: Him and Her Gone
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 14 1/2 x 22 3/4 in.
+Image-dimensions: 14 1/2 x 22 3/4 in.
 
 ----
 
-Dimensions-framed: 17 x 25 in.
+Image-dimensions-framed: 17 x 25 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0085
+Image-inventory-id: RO0085
 
 ----
 

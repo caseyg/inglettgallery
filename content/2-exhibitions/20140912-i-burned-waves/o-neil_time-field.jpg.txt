@@ -2,27 +2,27 @@ Image-title: Time Field
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 11 1/2 x 15 in.
+Image-dimensions: 11 1/2 x 15 in.
 
 ----
 
-Dimensions-framed: 13 13/16 x 17 1/16 in.
+Image-dimensions-framed: 13 13/16 x 17 1/16 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0076
+Image-inventory-id: RO0076
 
 ----
 

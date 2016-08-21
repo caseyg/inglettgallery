@@ -2,16 +2,16 @@ Image-title: Hungry Ghost
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Ash, oak, stain and steel
+Image-media: Ash, oak, stain and steel
 
 ----
 
-Dimensions: 67 x 18 x 7 in.
+Image-dimensions: 67 x 18 x 7 in.
 
 ----
 
-Inventory-id: EF0211
+Image-inventory-id: EF0211

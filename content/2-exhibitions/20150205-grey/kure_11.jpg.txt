@@ -2,27 +2,27 @@ Image-title: The Grey Series V
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Watercolor on Fabriano CP watercolor paper, 300g/m2-140 lb.
+Image-media: Watercolor on Fabriano CP watercolor paper, 300g/m2-140 lb.
 
 ----
 
-Dimensions: 12 x 9 in.
+Image-dimensions: 12 x 9 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: MK0207
+Image-inventory-id: MK0207
 
 ----
 

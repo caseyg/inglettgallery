@@ -2,19 +2,19 @@ Image-title: Drive Way
 
 ----
 
-Date: 2011
+Image-date: 2011
 
 ----
 
-Media: Assemblage
+Image-media: Assemblage
 
 ----
 
-Dimensions: 21 x 27 x 12 in.
+Image-dimensions: 21 x 27 x 12 in.
 
 ----
 
-Inventory-id: GH0010
+Image-inventory-id: GH0010
 
 ----
 

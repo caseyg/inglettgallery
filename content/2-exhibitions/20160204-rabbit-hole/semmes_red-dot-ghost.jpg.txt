@@ -2,27 +2,27 @@ Image-title: Red Dot Ghost
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Polyester, velvet and wool
+Image-media: Polyester, velvet and wool
 
 ----
 
-Dimensions: 80 x 28 in.
+Image-dimensions: 80 x 28 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: BS0178
+Image-edition-info: BS0178
 
 ----
 
-Inventory-id: 
+Image-inventory-id: 
 
 ----
 

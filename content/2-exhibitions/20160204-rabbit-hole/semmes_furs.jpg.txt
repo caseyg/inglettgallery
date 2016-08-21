@@ -2,27 +2,27 @@ Image-title: Furs
 
 ----
 
-Date: 2016
+Image-date: 2016
 
 ----
 
-Media: Laminated fur and crepe
+Image-media: Laminated fur and crepe
 
 ----
 
-Dimensions: 92 x 50 in.
+Image-dimensions: 92 x 50 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: BS0183
+Image-inventory-id: BS0183
 
 ----
 

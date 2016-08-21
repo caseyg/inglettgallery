@@ -2,24 +2,24 @@ Image-title: Redactor XIII
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Enamel, pigment, cold wax, tape, vinyl, aluminum, paper and canvas on canvas
+Image-media: Enamel, pigment, cold wax, tape, vinyl, aluminum, paper and canvas on canvas
 
 ----
 
-Dimensions: 72 x 60 in.
+Image-dimensions: 72 x 60 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RW0035
+Image-inventory-id: RW0035

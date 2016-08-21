@@ -2,27 +2,27 @@ Image-title: Flush Arch
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Oil, oil stick, acrylic and pencil on canvas
+Image-media: Oil, oil stick, acrylic and pencil on canvas
 
 ----
 
-Dimensions: 60 x 58 1/2 in.
+Image-dimensions: 60 x 58 1/2 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: AM0073
+Image-inventory-id: AM0073
 
 ----
 

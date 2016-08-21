@@ -2,27 +2,27 @@ Image-title: Black Dot Ghost
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Wool, velvet and rayon
+Image-media: Wool, velvet and rayon
 
 ----
 
-Dimensions: 83 x 28 in.
+Image-dimensions: 83 x 28 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: BS0177
+Image-inventory-id: BS0177
 
 ----
 

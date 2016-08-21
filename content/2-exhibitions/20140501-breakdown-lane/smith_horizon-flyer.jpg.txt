@@ -2,27 +2,27 @@ Image-title: Horizon Flyer
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite, hardware, paper and windshield wiper
+Image-media: Graphite, hardware, paper and windshield wiper
 
 ----
 
-Dimensions: 7 x 34 x 1 in.
+Image-dimensions: 7 x 34 x 1 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: GSM0050
+Image-inventory-id: GSM0050
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: Invasion of the Body Snatchers I. The Series: Amen, Amen, Amen
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Invasion of the Body Snatchers I. The Series: Amen, Amen, Amen
+Image-media: Invasion of the Body Snatchers I. The Series: Amen, Amen, Amen
 
 ----
 
-Dimensions: 24 x 18 in.
+Image-dimensions: 24 x 18 in.
 
 ----
 
-Dimensions-framed: 
+Image-dimensions-framed: 
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: MK0197
+Image-inventory-id: MK0197
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: The Unmoored
 
 ----
 
-Date: 2014
+Image-date: 2014
 
 ----
 
-Media: Graphite and oil pastel on paper
+Image-media: Graphite and oil pastel on paper
 
 ----
 
-Dimensions: 13 5/8 x 14 15/16 in.
+Image-dimensions: 13 5/8 x 14 15/16 in.
 
 ----
 
-Dimensions-framed: 15 3/4 x 17 1/16 in.
+Image-dimensions-framed: 15 3/4 x 17 1/16 in.
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: RO0082
+Image-inventory-id: RO0082
 
 ----
 

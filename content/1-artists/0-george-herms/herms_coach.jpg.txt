@@ -2,19 +2,19 @@ Image-title: Lymphatic Vessel I
 
 ----
 
-Date: 2008
+Image-date: 2008
 
 ----
 
-Media: Assemblage
+Image-media: Assemblage
 
 ----
 
-Dimensions: 9 x 8 x 6 in.
+Image-dimensions: 9 x 8 x 6 in.
 
 ----
 
-Inventory-id: GH0012
+Image-inventory-id: GH0012
 
 ----
 

@@ -2,27 +2,27 @@ Image-title: You Matter
 
 ----
 
-Date: 2015
+Image-date: 2015
 
 ----
 
-Media: Silkscreen on velour paper mounted on coloring book pages with acrylic wash
+Image-media: Silkscreen on velour paper mounted on coloring book pages with acrylic wash
 
 ----
 
-Dimensions: 12 x 9 in. each
+Image-dimensions: 12 x 9 in. each
 
 ----
 
-Dimensions-framed: 36 x 27 in. overall
+Image-dimensions-framed: 36 x 27 in. overall
 
 ----
 
-Edition-info: 
+Image-edition-info: 
 
 ----
 
-Inventory-id: WV0151
+Image-inventory-id: WV0151
 
 ----
 
