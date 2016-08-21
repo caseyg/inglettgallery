@@ -1,11 +1,7 @@
 title: Page
-pages: true
-files: true
-  size: 5242880
+pages: false
+files: false
 fields:
   title:
     label: Title
     type:  text
-  text:
-    label: Text
-    type:  textarea

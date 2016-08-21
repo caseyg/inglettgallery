@@ -21,27 +21,27 @@ files: true
     image_title:
       label: Title
       type:  text
-    date:
+    image_date:
       label: Date
       type:  text
       placeholder: e.g. 2016
-    media:
+    image_media:
       label: Media
       type:  text
       placeholder: "e.g. Enamel and pigment on canvas"
-    dimensions:
+    image_dimensions:
       label: Dimensions
       type:  text
       placeholder: "e.g. 20 x 20 in."
-    dimensions_framed:
+    image_dimensions_framed:
       label: Framed Dimensions
       type:  text
       placeholder: "e.g. 22 x 22 in."
-    edition_info:
+    image_edition_info:
       label: Edition Information
       type:  text
       placeholder: "e.g. Edition of 8"
-    inventory_id:
+    image_inventory_id:
       label: Inventory ID
       type:  text
 fields:

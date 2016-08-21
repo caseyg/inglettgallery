@@ -27,13 +27,13 @@ gulp.task('default', function() {
 // Styles | Compiles Sass
 // -----------------------------------
 gulp.task('styles', function() {
-  return gulp.src('assets/sass/**/*.scss')
+  return gulp.src('./assets/sass/**/*.scss')
     .pipe(sass({
       onError: function(err) {
             return notify().write(err);
         }
     }))
-    .pipe(gulp.dest('assets/css/'))
+    .pipe(gulp.dest('./assets/css/'))
 });
 
 
@@ -75,7 +75,7 @@ gulp.task('browsersync', ['php'], function() {
 // * Use this to work on your project *
 // -----------------------------------
 gulp.task('serve', ['browsersync'], function() {
-    gulp.watch(['./assets/sass/index.scss'], [reload]);
+    gulp.watch(['./assets/sass/style.scss'], [reload]);
     gulp.watch(['./assets/sass/**/*.scss'], [reload]);
     gulp.watch(['./site/**/*.php'], [reload]);
 
