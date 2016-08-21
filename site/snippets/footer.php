@@ -17,6 +17,10 @@
       </section>
     </div>
   </footer>
-  <script src="https://use.fontawesome.com/5450ef4433.js"></script>
+  <script data-no-instant src="https://use.fontawesome.com/5450ef4433.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/instantclick/3.0.1/instantclick.min.js" data-no-instant></script>
+  <script data-no-instant type="text/javascript">
+    InstantClick.init();
+  </script>
 </body>
 </html>
