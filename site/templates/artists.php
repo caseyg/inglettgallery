@@ -12,9 +12,9 @@
     <ul class="list-unstyled artists-list">
       <?php foreach($represented as $p): ?>
 
-        <?php if ($p->featured_image()): ?>
+        <?php if($p->featured_image()->isNotEmpty()): ?>
           <?php $featured_image = $p->image($p->featured_image()) ?>
-        <?php elseif($p->images()->first()): ?>
+        <?php elseif($p->images()): ?>
           <?php $featured_image = $p->images()->first() ?>
         <?php endif; ?>
 
@@ -28,7 +28,7 @@
     <ul class="list-unstyled artists-list">
       <?php foreach($exhibited as $p): ?>
 
-        <?php if ($p->featured_image()): ?>
+        <?php if ($p->featured_image()->isNotEmpty()): ?>
           <?php $featured_image = $p->image($p->featured_image()) ?>
         <?php elseif($p->images()->first()): ?>
           <?php $featured_image = $p->images()->first() ?>
