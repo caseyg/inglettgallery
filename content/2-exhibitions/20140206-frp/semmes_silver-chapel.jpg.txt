@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Silver Chapel
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Ink on magazine page
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 3/4 x 6 1/3 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0129
