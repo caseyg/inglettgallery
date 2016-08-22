@@ -6,11 +6,11 @@ Title: Eli Ping
 
 ----
 
-First-name: 
+First-name: Eli
 
 ----
 
-Last-name: 
+Last-name: Ping
 
 ----
 
@@ -22,4 +22,4 @@ Text:
 
 ----
 
-Status: 
+Status: exhibited
