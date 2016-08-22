@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Post
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Aluminum I-beam cut into cubic units (26 pieces)
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 149 (height variable) x 6 x 6 1/2 in.
 
 ----
 
@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0020
 
 ----
 
