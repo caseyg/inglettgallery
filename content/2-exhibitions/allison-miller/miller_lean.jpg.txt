@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Lean
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Oil, acrylic and dirt on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 60 x 48 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AM0040
 
 ----
 
