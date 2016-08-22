@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Syncopated Descent
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Video
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 4: 36 hours
 
 ----
 
@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0017
 
 ----
 
