@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC I, Object #8
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Polyester fiber, glass and synthetic hair
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 6 x 6 x 10 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0104
 
 ----
 
