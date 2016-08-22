@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Study of Olga Alexandrovskaya
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 72 x 48 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0207
