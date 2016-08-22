@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Three Blue Waves
 
 ----
 
-Image-date: 
+Image-date: 2014
 
 ----
 
-Image-media: 
+Image-media: Paint on magazine page
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 9 1/2 x 6 1/8 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0130
