@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC I, Object #7
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Cotton thread, faux fur, plastic and styrofoam
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 6 1/2 x 13 x 9 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0093
 
 ----
 
