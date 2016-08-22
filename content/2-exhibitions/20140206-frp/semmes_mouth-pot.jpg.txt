@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Mouth Pot
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Paint on magazine page
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 3/8 x 10 5/8 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 14 3/8 x 17 7/8 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0074
