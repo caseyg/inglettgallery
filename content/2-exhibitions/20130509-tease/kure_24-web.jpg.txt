@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: MK0102
+
+----
+
+Sort: 2
