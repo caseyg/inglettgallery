@@ -1,0 +1,25 @@
+Pagelock: 
+
+----
+
+Title: Eli Ping
+
+----
+
+First-name: Eli
+
+----
+
+Last-name: Ping
+
+----
+
+Featured-image: 
+
+----
+
+Text: 
+
+----
+
+Status: exhibited
