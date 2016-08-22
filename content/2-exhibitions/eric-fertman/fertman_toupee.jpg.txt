@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Toupee
 
 ----
 
-Image-date: 
+Image-date: Black stained oak
 
 ----
 
-Image-media: 
+Image-media: 23 1/4 x 9 1/2 x 9 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EF0109
 
 ----
 
