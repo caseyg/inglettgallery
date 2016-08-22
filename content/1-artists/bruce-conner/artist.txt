@@ -1,0 +1,25 @@
+Pagelock: 
+
+----
+
+Title: Bruce Conner
+
+----
+
+First-name: 
+
+----
+
+Last-name: 
+
+----
+
+Featured-image: 
+
+----
+
+Text: 
+
+----
+
+Status: 
