@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Yellow Jacket
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Ink on magazine page
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 3/8 x 6 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 15 1/2 x 13 1/2 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0102
