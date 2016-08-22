@@ -1,28 +1,28 @@
-Image-title: 
+Image-title: Eye
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Japanese woodblock print on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 45 x 31 1/2 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 35 x 49 x 1 3/4 in.
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 10
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EF0104
 
 ----
 
