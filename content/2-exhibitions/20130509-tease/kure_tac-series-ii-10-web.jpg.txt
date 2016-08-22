@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC II, Object #10
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Faux fur, plastic pearls and thread
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 x 12 x 3 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0088
 
 ----
 
