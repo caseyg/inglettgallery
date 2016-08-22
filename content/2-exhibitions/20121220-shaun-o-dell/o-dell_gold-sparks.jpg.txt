@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: SO004
+Image-inventory-id: SO0042
 
 ----
 
