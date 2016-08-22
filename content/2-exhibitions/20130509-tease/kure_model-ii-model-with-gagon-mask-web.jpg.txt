@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Wonderland Series: Model II
 
 ----
 
-Image-date: 
+Image-date: 2004
 
 ----
 
-Image-media: 
+Image-media: Kolanut pigment, ink, graphite and watercolor and paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 x 7 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0119
 
 ----
 
