@@ -1,28 +1,28 @@
-Image-title: 
+Image-title: Sista Ancesta (Benin-Albers)
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Digital Archival Print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 70 x 35 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 75 x 40 x 2 1/4 in.
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: WV0101
 
 ----
 
