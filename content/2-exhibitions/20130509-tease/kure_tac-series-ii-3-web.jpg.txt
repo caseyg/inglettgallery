@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC II, Object #3
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Glass
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 1/2 x 6 x 6 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0092
 
 ----
 
