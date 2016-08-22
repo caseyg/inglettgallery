@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC II, Object #13
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: China plates, panty hose and porcelain
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 8 x 6 1/2 x 6 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0095
 
 ----
 
