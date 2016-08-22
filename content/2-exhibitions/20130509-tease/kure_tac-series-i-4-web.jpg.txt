@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC I, Object #4
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Beads and glass
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 2 3/4 x 3 1/2 in. / 2 1/2 x 3 in. / 6 x 3 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0106
 
 ----
 
