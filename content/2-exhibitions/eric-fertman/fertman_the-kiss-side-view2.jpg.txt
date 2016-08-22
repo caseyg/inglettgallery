@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: The Kiss
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Black stained oak
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 12 1/4 x 11 1/2 x 8 3/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EF0096
 
 ----
 
