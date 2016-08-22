@@ -26,4 +26,4 @@ Image-inventory-id: HG0207
 
 ----
 
-Sort: 9
+Sort: 7
