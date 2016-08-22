@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Strike (for Adam)
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: 12 Panes of safety glass
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 29 x 24 1/2 x 3 in.
 
 ----
 
@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0018
 
 ----
 
