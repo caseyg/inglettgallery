@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Silver Mirror
 
 ----
 
-Image-date: 
+Image-date: 2014
 
 ----
 
-Image-media: 
+Image-media: Ink on magazine page
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 x 5 3/4 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0122
