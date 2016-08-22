@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: BS013
+Image-inventory-id: BS0123
