@@ -6,11 +6,11 @@ Title: Bruce Conner
 
 ----
 
-First-name: 
+First-name: Bruce
 
 ----
 
-Last-name: 
+Last-name: Conner
 
 ----
 
@@ -22,4 +22,4 @@ Text:
 
 ----
 
-Status: 
+Status: exhibited
