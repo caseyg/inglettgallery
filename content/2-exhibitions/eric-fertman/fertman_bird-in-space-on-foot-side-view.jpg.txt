@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Bird on Space on Foot
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Black stained oak
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 49 1/2 x 12 x 8 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EF0097
