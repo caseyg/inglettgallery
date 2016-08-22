@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Pimento
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Black stained oak
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 14 1/4 x 9 x 3 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EF0098
 
 ----
 
