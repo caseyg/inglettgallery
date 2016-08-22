@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: The Renate Series: The Mistress
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Silver acrylic ink and watercolor / Arches HP Watercolor Paper, 300LB
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 30 x 22 1/2 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 36 3/4 x 29 x 1 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0064
 
 ----
 
