@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Peeled Off Yellow
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Gouache and ink on paper mounted on canvas mounted on panel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 20 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SO0035
 
 ----
 
