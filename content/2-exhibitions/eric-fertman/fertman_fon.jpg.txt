@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Fon
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Black stained oak
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 x 12 x 11 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EF0102
 
 ----
 
