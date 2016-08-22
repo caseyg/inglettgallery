@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC I, Object #3
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Cotton thread, faux fur, plastic pellets, polyester fiber and synthetic hair
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 12 x 11 x 9 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0087
 
 ----
 
