@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: HG0213
+
+----
+
+Sort: 5
