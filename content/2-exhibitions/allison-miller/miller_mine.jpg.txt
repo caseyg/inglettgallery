@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Mine
 
 ----
 
-Image-date: 
+Image-date: Oil, acrylic and dirt on canvas
 
 ----
 
-Image-media: 
+Image-media: 28 x 30 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AM0043
 
 ----
 
