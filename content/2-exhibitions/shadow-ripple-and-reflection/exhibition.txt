@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2013-10-24
 
 ----
 
-End: 
+End: 2013-12-07
 
 ----
 
-Artists: 
+Artists: benjamin-degen
 
 ----
 
@@ -28,6 +28,14 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett is pleased to present the work of Benjamin Degen in his first exhibition with the Gallery from 24 October to 7 December 2013. A reception for the artist will be held Thursday evening 24 October from 6 to 8 PM.
+
+Every night there is a train that goes by the window of my studio. I can hear it coming out of the mountains and across the valley. I've been thinking about the fact that in a painting space is sublimated. Things can be everywhere at once. You can show –within the limits of the flatness of the picture plane and the boundary of the canvas -- how a train whistle is not only the metal cylinder, or the steam whistling through it, or the sound rippling through all of the night air in the valley, or the echo coming back from the trees on the side of the mountain. In the compressed space of the picture you can show all of these phenomena in a gesture of simultaneous co-definition. I've been thinking about that movement which can be very large and very small at the same time - very fast, but also infinitely still in a picture.
+
+On the surface, Benjamin Degen is a classic genre painter whose canvases belie the heart of an Abstract Expressionist. His work is built from discrete strokes that resolve into recognizable forms. The layering process Degen employs creates a version of abstraction grounded in both everyday and formal concerns. His are bodies without organs, lacking skeletal structure, pure chroma and medium; yet they are also Matisse and Cézanne’s bathers participating in an age-old tableau and tradition of daily routines. In this exhibition Degen devotes equal attention to figure and ground, the physical and the abstract, night and day, male and female. Both subject and object rest in perfect balance.
+
+BENJAMIN DEGEN was born in 1976 in Brooklyn, New York. He received a Bachelor of Fine Arts from The Cooper Union in 1998. Degen has appeared in museum and gallery exhibitions in Belgium, Italy, Malaysia and Switzerland.  Select exhibitions include Painting as a Radical Form, Collezione Maramotti, Reggio Emilia, Italy and Greater New York, PS1 MOMA, Long Island City, NY.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212/647- 9111, fax 212/647-9333 or info@inglettgallery.com
