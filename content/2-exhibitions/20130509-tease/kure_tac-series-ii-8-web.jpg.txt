@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC II, Object #8
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Glazed ceramic and synthetic hair
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 9 x 5 x 5 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0099
 
 ----
 
