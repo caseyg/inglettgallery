@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC II, Object #9
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Cotton thread, faux fur, plastic pellets and polyester fiber
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 1/2 x 12 x 5 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0084
 
 ----
 
