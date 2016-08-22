@@ -6,19 +6,19 @@ Title: Eli Ping
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 2013-03-28
 
 ----
 
-End: 
+End: 2013-05-04
 
 ----
 
-Artists: 
+Artists: eli-ping
 
 ----
 
