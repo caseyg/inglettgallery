@@ -6,7 +6,7 @@ Title: Eric Fertman
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
@@ -18,7 +18,7 @@ End: 2012-10-13
 
 ----
 
-Artists: 
+Artists: eric-fertman
 
 ----
 
@@ -28,6 +28,12 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett Gallery is pleased to present the work of Eric Fertman in his third solo exhibition with the Gallery from 6 September to 13 October 2012. The show will include recent sculpture and works on paper. A reception for the artist will be held Thursday evening 6 September from 6 to 8 PM.
+
+Size matters. A single soaring monolith dominates the room, a massive concrete and stainless steel structure rises 12 feet from the gallery floor. Abstract with a hint of human. The same shapes can be found repeated in modest blocks of hand carved wood, several not more than a few inches tall, which litter its base. Where we are awed or cowed by the giant we are charmed by its modest companions. The exhibition is an object lesson in why size matters. It would seem Eric Fertman knows just what to do with it.
+
+Eric Fertman graduated from Cooper Union in Manhattan. Fertman's work was seen most recently in a solo show at the Kemper Museum.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212/647- 9111, fax 212/647-9333 or info@inglettgallery.com
