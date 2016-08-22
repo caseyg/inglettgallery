@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Endless Column
 
 ----
 
-Image-date: 
+Image-date: 2014
 
 ----
 
-Image-media: 
+Image-media: Painted plywood
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 192 x 10 1/4 x 8 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EF0167
 
 ----
 
