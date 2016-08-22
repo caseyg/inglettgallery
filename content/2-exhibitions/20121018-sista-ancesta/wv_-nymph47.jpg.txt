@@ -10,11 +10,11 @@ Image-media: Acrylic and velvet flocking on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 12 x 9 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 16 1/4 x 13 1/4 x 1 1/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: WV0059
 
 ----
 
