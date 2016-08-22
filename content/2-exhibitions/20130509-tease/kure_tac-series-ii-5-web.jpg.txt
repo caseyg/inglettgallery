@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAC II, Object #5
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Cotton thread, faux fur, raw silk fabric, silk thread and synthetic hair
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 4 1/2 x 12 x 12 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0090
 
 ----
 
