@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: The Renate Series: The Afronaut's Black Hole
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Kolanut pigment, red wine, pencil and watercolor/ Arches HP Watercolor Paper, 300LB
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 22 1/2 x 18 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 29 1/2 x 24 x 1 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0062
 
 ----
 
