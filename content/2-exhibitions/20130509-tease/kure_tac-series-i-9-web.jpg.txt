@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: TAC I, Object #9
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Antelope horn, black agate beads, clear crystal beads, craft wire 20 gauge, crimp beads and silver wire
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Horn (a) 2 x 23 1/2 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: Horn (b) 2 x 24 1/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0083
 
 ----
 
