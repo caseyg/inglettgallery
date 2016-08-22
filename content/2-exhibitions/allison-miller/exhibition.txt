@@ -6,19 +6,19 @@ Title: Allison Miller
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 2013-09-12
 
 ----
 
-End: 
+End: 2013-10-19
 
 ----
 
-Artists: 
+Artists: allison-miller
 
 ----
 
@@ -28,6 +28,16 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett is pleased to present the work of Los Angeles based painter Allison Miller in her second solo presentation with the Gallery from 12 September to 19 October 2013. A reception for the artist will be held Thursday evening 12 September from 6 to 8 PM. 
+
+Allison Miller’s paintings ask viewers to be active participants. Visibly constructed and deconstructed, layer-by-layer, the resulting works are palpable sites of activity. Causing forms, space and priorities to shift and evolve, Miller links viewer to maker by maintaining a constant state of flux. Shapes that read as solid begin to ooze and melt while deep space oscillates between background and foreground. Each forced adjustment of perception makes way for the next, new reaction for both artist and viewer. 
+
+A sense of paradox and simultaneity extends to every facet of Miller’s work, from color palette to materials, mark-making to composition. Transparent sky blues and peachy-pinks are both highlighted and negated by expanses of thick, black impasto. Crusty surfaces of a muddy, dirt and paint mixture abut wispy, hair-like lines of saturated color. Flecks and drips of paint belie the fact that, often, the canvases are worked in multiple orientations before coming to rest. Compositionally, Miller’s paintings hover, grazing everything from landscape to portraiture, collage to cartoons. They are at once agile and ham-fisted in their approach to abstraction. This mutability makes for a kind of freedom, as Miller’s paintings choose to prioritize experience over certainty.
+
+Allison Miller has shown extensively with work appearing most recently in “…six memos for the next” curated by Tilo Schulz and Jorge van den Berg, at the Bregenzer Kunstverein, Austria; “Painting in Place”, curated by Shamim Momin; ‘Stone Gravy”, curated by David Pagel and “Made in L.A. 2012”, organized by the Hammer Museum, Los Angeles. Earlier presentations include ACME., Los Angeles; the Orange County Museum of Art; the Art Gallery of Calgary, Canada; and the Las Vegas Museum of Art. 
+
+Concurrently the Gallery will be exhibiting recent ceramic works by Beverly Semmes in our Private View. Semmes will have a solo show with Galleria Marabini, Italy in September. Her first solo show with the Gallery is scheduled for Spring 2014.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212/647- 9111, fax 212/647-9333 or info@inglettgallery.com
