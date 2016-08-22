@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Harem
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Ink on magazine page
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 9 3/4 x 7 7/8 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 16 5/8 x 14 1/2 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0058
