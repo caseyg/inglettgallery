@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Tufts
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Canvas, gesso, graphite, thread, fabric, hardware, plywood and spray paint
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 26 x 20 x 10 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0026
 
 ----
 
