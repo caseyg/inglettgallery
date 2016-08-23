@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: San Diego Rose V
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Collage
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 18 7/8 x 25 3/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GH0018
 
 ----
 
