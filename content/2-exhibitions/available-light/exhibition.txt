@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2012-03-08
 
 ----
 
-End: 
+End: 2012-04-14
 
 ----
 
-Artists: 
+Artists: sarah-charlesworth
 
 ----
 
@@ -28,6 +28,12 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett Gallery is pleased to present Available Light , a new series of photographic works by Sarah Charlesworth from 8 March to 14 April 2012. A reception for the artist will be held Thursday evening, 8 March, from 6 to 8 PM. 
+
+Light, in both a physical and metaphysical sense, is at the center of this new body of work from Sarah Charlesworth. Making use of a crystal ball, an assortment of prisms, and other optical instruments, Charlesworth engages the play of light from her studio window as it reflects and refracts to conjure a mysterious animated presence. At various turns our expectations are questioned and confounded by optical inversions and visual illusions. Composed images of spectral phenomena are shown side by side with documentary style images of the studio. Props arrayed on a desk and studio materials leaning against a wall hint at the show in progress. Individually and as a group these images lay bare the act of photography as they simultaneously mask and unmask the conditions of their creation. As test shots pinned to the wall mature into finished works, there is no neutral or objective point of closure, only the shifting perspectives of the observer and the observed. The making and the taking of a photograph is indistinguishable as each work celebrates the act of seeing. 
+
+Sarah Charlesworth has had over 50 one person exhibitions. Her work appears in museum collections throughout the world including The Metropolitan Museum of Art, The Whitney Museum of American Art, the Solomon R Guggenheim Museum, the Boston Museum of Fine Art, MOCA, Los Angeles, the Walker Art Center, Minneapolis, the Victoria and Albert Museum, London and the Stedelijk Museum, Eindhoven among others. Charlesworth is the recipient of two National Endowment Grants and a Guggenheim Fellowship. She teaches photography in the Masters Program in Photography at the School of Visual Arts in NY and at the Lewis Center for Visual Art, Princeton University.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212/647- 9111, fax 212/647-9333 or info@inglettgallery.com.
