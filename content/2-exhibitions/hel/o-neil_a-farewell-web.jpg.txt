@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: RO0016
+Image-edition-info: 
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RO0016
 
 ----
 
