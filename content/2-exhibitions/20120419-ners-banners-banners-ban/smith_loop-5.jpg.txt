@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Loop
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: HD/DVD
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 4 minutes 40 seconds
 
 ----
 
@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 5
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0013
 
 ----
 
