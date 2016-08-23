@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Thrush
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Cotton, gesso, dye, acrylic and wax
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 96 x 25 x 9 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0012
 
 ----
 
