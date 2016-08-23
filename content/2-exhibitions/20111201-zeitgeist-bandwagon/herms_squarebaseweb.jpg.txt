@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Square Base
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Assemblage
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 8 3/4 x 11 x 11 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GH0020
 
 ----
 
