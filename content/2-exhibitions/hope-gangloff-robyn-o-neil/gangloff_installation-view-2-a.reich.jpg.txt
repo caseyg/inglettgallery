@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: Installation
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
