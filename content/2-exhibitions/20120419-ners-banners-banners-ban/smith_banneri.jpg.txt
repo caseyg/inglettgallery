@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Banner I
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Canvas, fabric, faux fur, foam rubber, gesso, graphite, thread, zippers on wood support Hanging rod extends 14 from wall
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 72 x 57 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0008
 
 ----
 
