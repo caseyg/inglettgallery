@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2010-06-09
 
 ----
 
-End: 
+End: 2010-07-23
 
 ----
 
@@ -22,12 +22,28 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Paul McMahon,Matt Mullican,James Welling
 
 ----
 
 Text: 
 
+Susan Inglett is pleased to present “Stairway to Heaven: Paul McMahon, Matt Mullican, James Welling, 1970–1976”, an exhibition curated by Specific Object / David Platzker. The work will be on view at Susan Inglett Gallery from 9 June to 23 July 2010 with a reception planned for Wednesday, 9 June from 6 to 8 PM. 
+
+Specific Object presents the work of a trio of artists that emerged from the fertile ground of Southern California art schools – McMahon from Pomona College in Claremont; Mullican and Welling from Cal Arts in Valencia. All three appeared shortly thereafter in New York joining a core group of artists labeled “The Pictures Generation.” The members formed a loose confederacy recently explored in the exhibition, “The Pictures Generation, 1974–1984” held at the Metropolitan Museum of Art Spring 2009. 
+
+The work selected here represents an important moment in the development of these artists as they began to stake out their respective territories and develop what became their mature work. While both Mullican’s and Welling’s work was widely exhibited from the 1980s onward, McMahon chose to diverge from the traditional path by becoming a comedian, a musician, and small town entrepreneur in Woodstock, NY, only to reemerge with the opening of the exhibition at the Met. 
+
+The strategy of “what’s next” seemed to be on all our minds. How can we make art after conceptual art? The last page in the book of modernism seemed to have been printed. So we went into the mirror and found a lot of loose ends. Matt Mullican 
+
+I liked art that questioned Art. My early work was about this. After several years I realized that there was something more. Art could dare to venture into the place where meaning was born. I think I felt like a missionary spreading the gospel of post-conceptual art. A new way of thinking. Paul McMahon
+
+Works in the exhibition include collage, drawings, photographs and photographically based works executed 1970 to 1976 forming an expansive view of three unique artists.
+
 ----
 
 Additional: 
+
+The exhibition will be on view at Susan Inglett Gallery located at 522 West 24th Street Tuesday to Saturday 10 AM to 6 PM. For additional information, please contact Susan Inglett Gallery at 212.647.9111, fax 212.647.9333 or info@inglettgallery.com.
+
+[Specific Object / David Platzker and Susan Inglett Gallery gratefully acknowledge the cooperation of Tracy Williams, Ltd. and David Zwirner Gallery.]
