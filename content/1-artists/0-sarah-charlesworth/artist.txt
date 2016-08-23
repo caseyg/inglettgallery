@@ -6,11 +6,11 @@ Title: Sarah Charlesworth
 
 ----
 
-First-name: 
+First-name: Sarah
 
 ----
 
-Last-name: 
+Last-name: Charlesworth
 
 ----
 
@@ -22,4 +22,4 @@ Text:
 
 ----
 
-Status: 
+Status: represented
