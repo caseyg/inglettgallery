@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Hell (Triptych)
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 83 5/8 x 84 x 2 2/3 in. (Center)
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 83 1/4 x 44 1/4 x 2 2/3 in. (LR)
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RO0022
 
 ----
 
