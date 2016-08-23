@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Why Can't We Be Friends
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Acrylic, paper and velvet flocking on wood panel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 44 x 28 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: WV0018
 
 ----
 
