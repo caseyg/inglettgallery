@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Accident Drawing
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Pigmented ink jet print on archival paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 19 x 24 1/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0014
 
 ----
 
