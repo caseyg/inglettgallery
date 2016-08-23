@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2012-04-19
 
 ----
 
-End: 
+End: 2012-05-25
 
 ----
 
-Artists: 
+Artists: greg-smith
 
 ----
 
