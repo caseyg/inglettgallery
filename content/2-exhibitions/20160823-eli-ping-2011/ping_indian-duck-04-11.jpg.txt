@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Indian Duck
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Cotton, acrylic, wax and cardboard on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 116 x 1 1/2 x 15 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0008
 
 ----
 
