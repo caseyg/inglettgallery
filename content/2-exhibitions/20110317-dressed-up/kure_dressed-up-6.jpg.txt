@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Dressed Up 6
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Archival digital photograph
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 84 x 60 in.
 
 ----
 
@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0113
 
 ----
 
