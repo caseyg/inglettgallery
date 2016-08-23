@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: The Curious Woman From Caucas
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Acrylic, paper and velvet flocking on wood panel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 24 x 3/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: WV0015
 
 ----
 
