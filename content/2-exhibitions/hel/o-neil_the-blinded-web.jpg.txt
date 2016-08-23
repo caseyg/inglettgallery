@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: The Blinded
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 6 1/2 x 16 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 8 3/4 x 18 3/4 x 1 1/3 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RO0009
 
 ----
 
