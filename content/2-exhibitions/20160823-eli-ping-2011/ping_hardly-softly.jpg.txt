@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Hardly Softly
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Acrylic, cotton and wax on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 65 x 52 1/2 x 12 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0011
 
 ----
 
