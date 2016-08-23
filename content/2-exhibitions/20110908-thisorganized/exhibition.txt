@@ -18,11 +18,11 @@ End: 2011-10-08
 
 ----
 
-Artists: hope-gangloff
+Artists: hope-gangloff, eric-fertman, benjamin-degen
 
 ----
 
-Additional-artists: 
+Additional-artists: Gavin Anderson,Brian Booth,Milton Carter,Alexander Degen,Adriana Farmiga,Chie Fueki,Nathan Gelgud,Everest Hall,An Hoang,Blaze Lamper,Josh Marsh,Yuri Masnyj,Barry Ratoff,Jason Search,Breanne Trammell,Juan Valadez,Justin Valdes,Nichole van Beek,Anton Vojacek
 
 ----
 
