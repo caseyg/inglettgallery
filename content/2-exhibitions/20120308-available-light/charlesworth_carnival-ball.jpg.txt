@@ -10,7 +10,7 @@ Image-media: Fuji Crystal Archive print mounted and laminated with lacquer frame
 
 ----
 
-Image-dimensions: 23 3/4 x 18 1/2 in.
+Image-dimensions: 41 1/2 x 32 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info: Edition of 8
 
 ----
 
-Image-inventory-id: SC0087
+Image-inventory-id: SC0020
 
 ----
 
