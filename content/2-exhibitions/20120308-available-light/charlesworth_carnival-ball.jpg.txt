@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Carnival Ball
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Fuji Crystal Archive print mounted and laminated with lacquer frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 23 3/4 x 18 1/2 in.
 
 ----
 
@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 25
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SC0087
 
 ----
 
