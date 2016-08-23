@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Acrylic and wax on cotton
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 44 x 36 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0016
 
 ----
 
