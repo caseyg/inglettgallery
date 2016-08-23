@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2011-10-12
 
 ----
 
-End: 
+End: 2011-11-23
 
 ----
 
-Artists: 
+Artists: robyn-o-neil
 
 ----
 
@@ -28,6 +28,14 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett is pleased to present the work of Robyn O’Neil in “HELL”, her first exhibition with the gallery and her fourth solo show in New York City. A reception for the artist will be held Thursday evening 13 October 2011 from 6 to 8 PM.
+
+As befits the subject, “HELL” represents Robyn O’Neil’s largest and arguably most complex work to date. At 14’ long, incorporating over 35,000 collage elements and 65,000 figures, the project is both a literal and figurative odyssey. Drawn features are interspersed with cut paper to create a dense multidimensional space. In O’Neil’s “HELL”, a somber narrative unfurls, drawing the viewer into a world of robed figures and sweat-suit clad men clambering to exit their terrifying and gruesome existence. Inspired by Giotto’s “Scenes from the Apocalypse”, O’Neil’s “HELL” rivals the medieval depiction of the end of the world in ambition and imagination.
+
+Robyn O’Neil has elected to make drawing her singular enterprise, the medium suits both the message and the artist. Driven by a narrative thread her pencil wends its way through history and popular culture to settle in a place which is indeterminant yet hauntingly familiar. The work speaks to a very real and relatable human condition, an unsettling mixture of malaise, isolation, and hope.
+
+Robyn O’Neil was recently honored with a solo museum exhibition at the Des Moines Art Center and has exhibited at the Whitney Museum of American Art, NYC; the Contemporary Arts Museum, Houston; the American Folk Art Museum, NYC; Kemper Museum of Art, Kansas City and the Museum of Contemporary Art, Chicago among others.
+
 ----
 
-Additional: 
+Additional: “HELL” will be on view at Susan Inglett Gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212.647.9111, fax 212.647.9333 or info@inglettgallery.com.
