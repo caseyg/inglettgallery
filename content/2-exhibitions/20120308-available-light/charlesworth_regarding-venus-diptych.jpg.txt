@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Regarding Venus
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Fuji Crystal Archive print mounted and laminated with lacquer frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 41 1/2 x 62 1/4 in.
 
 ----
 
@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 8
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SC0071
 
 ----
 
