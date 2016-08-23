@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Nymph #07
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Acrylic, paper collage and velvet flocking on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 15 x 12 x 1 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: WV0025
 
 ----
 
