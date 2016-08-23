@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Morning Glory
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Cotton, acrylic and wax on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 65 x 51 x 11 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0009
 
 ----
 
