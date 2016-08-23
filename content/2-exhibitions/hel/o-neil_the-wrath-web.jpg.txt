@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: The Wrath
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 x 6 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RO0030
 
 ----
 
