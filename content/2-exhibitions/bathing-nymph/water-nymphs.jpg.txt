@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Water Nymphs
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Acrylic paint, paper and velvet flocking on wood panel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 47 1/2 x 30 x 3/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: WV0014
 
 ----
 
