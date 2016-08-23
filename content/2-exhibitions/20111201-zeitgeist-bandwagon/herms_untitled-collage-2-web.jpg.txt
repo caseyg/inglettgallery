@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Xenophilia (3)
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Collage
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 23 3/4 x 29 3/4 x 1 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GH0007
 
 ----
 
