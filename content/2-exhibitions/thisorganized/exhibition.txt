@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2011-09-08
 
 ----
 
-End: 
+End: 2011-10-08
 
 ----
 
-Artists: 
+Artists: hope-gangloff
 
 ----
 
@@ -28,6 +28,12 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett is pleased to present “THISORGANIZED”, an exhibition curated by gallery artist Hope Gangloff. There will be a reception for the artists Thursday evening, 8 September, from 6 to 8 PM. 
+
+In a recent interview Hope Gangloff was asked which artists she admired and why. Hope’s response “I prefer my peer artists. I like them as people, and I like the art they are doing. My favorites include Gavin Anderson, Brian Booth, Milton Carter, Alexander Degen, Benjamin Degen, Adriana Farmiga, Eric Fertman, Chie Fueki, Nathan Gelgud, Everest Hall, An Hoang, Blaze Lamper, Josh Marsh, Yuri Masnyj, Barry Ratoff, Jason Search, Breanne Trammell, Juan Valadez, Justin Valdes, Nichole van Beek, and Anton Vojacek, and I could honestly go on and on. I would love to curate a show someday”. “THISORGANIZED” is that show. 
+
+A hyper-energized mash-up, “THISORGANIZED” presents work which spans genre and me- dium from almost two dozen young, working artists in dialogue. It is a microcosm of a bur- geoning artistic community that is united by individuality of vision—from Chie Fueki’s vivid multi-cultural response to American popular culture, to Benjamin Degen’s heady, psychedelic throwback to Cubism, to the obsessively rendered pen-and-ink drawings of Blaze Lamper to Yuri Masnyj’s singular approach to Still Life in two and three dimensions. THISORGANIZED is a project comprised of countless moving parts which work together as a whole by virtue of the fact that each pulls together in order to move forward...onward and upward!
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at Susan Inglett Gallery located at 522 West 24 Street, Tuesday to Saturday 10 AM to 6 PM. For additional information, please contact Susan Inglett Gallery at 212.647.9111, fax 212.647.9333 or info@inglettgallery.com.
