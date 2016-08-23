@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: A Dismantling
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 41 1/8 x 65 1/4 x 2 3/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RO0015
 
 ----
 
