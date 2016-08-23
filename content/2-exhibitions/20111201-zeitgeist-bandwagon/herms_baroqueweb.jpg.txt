@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Baroque
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Assemblage
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 12 x 12 x 9 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GH0008
 
 ----
 
