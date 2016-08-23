@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: R)0023
+Image-inventory-id: RO0023
 
 ----
 
