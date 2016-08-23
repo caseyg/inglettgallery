@@ -6,19 +6,19 @@ Title: Allison Miller 2012
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 2012-01-26
 
 ----
 
-End: 
+End: 2012-03-03
 
 ----
 
-Artists: 
+Artists: allison-miller
 
 ----
 
@@ -28,6 +28,14 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett is pleased to present the work of Los Angeles based painter Allison Miller in her first solo presentation with the Gallery from 26 January to 3 March 2012. A reception for the artist will be held Thursday evening 26 January from 6 to 8 PM.
+
+Allison Miller’s paintings attest to the evocative possibilities of abstraction. Imbued with a vibrant and dissonant musicality, her hand-drawn lines, geometrically-inclined forms and structural use of patterning coalesce into a graceful unification of disparate energies. Drawing inspiration from a diverse and unlikely meeting of influences, most recently Vuillard, Fontana, and Magritte, the work seeks to render the uncanny and the absurd in abstract form.
+
+From inspiration to execution, Miller’s approach is designed to shake both maker and viewer from a well-worn track. Her process is a journey without predetermined destination, a map of its progression contained within each piece. Every line and layer resonates with the improvisational evolution of the process. “There is no plan to stray from,” said Miller in a recent interview, “...I am constantly trying to undermine the ostensible priority of the painting in order to achieve a state of perpetual surprise.” Through varied surface textures, oscillating opacities, complex transitions - Miller’s paintings create a distinctive visual syntax culminating in images that give form to the idea of liminal space. 
+
+Allison Miller has shown extensively, including presentations at ACME, Los Angeles, the Orange County Museum of Art, the Art Gallery of Calgary, Canada, Gagosian Gallery, Beverly Hills, D’Amelio Terras, New York, and the Las Vegas Museum of Art.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212/647- 9111, fax 212/647-9333 or info@inglettgallery.com
