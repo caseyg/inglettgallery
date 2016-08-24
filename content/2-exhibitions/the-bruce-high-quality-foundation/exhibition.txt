@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2009-12-08
 
 ----
 
-End: 
+End: 2010-01-23
 
 ----
 
@@ -22,12 +22,24 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Bruce High Quality Foundation
 
 ----
 
 Text: 
 
+“...a project that could make the coming season especially exciting: the unaccredited, free art school (started by) the artist collective known as the Bruce High Quality Foundation...Whatever happens, this latest move by the Bruce High Quality Foundation adds inspirational heft to its motto : Professional problems. Amateur solutions.” 
+
+—Roberta Smith, The New York Times 
+
+From 8 December 2009 to 23 January 2010, Susan Inglett Gallery is pleased to present THE BRUCE HIGH QUALITY FOUNDATION UNIVERSITY a project of The Bruce High Quality Foundation and their second solo exhibition with the gallery. A reception will be held Tuesday, 8 December from 6 to 8 PM. 
+
+The Bruce High Quality Foundation University (B.H.Q.F.U.) is an unaccredited, free collaborative school founded by the eponymous artist collective and presented by Creative Time, where “students are teachers are administrators are staff.” B.H.Q.F.U. responds to what it views as the over commercialization of the current art school system, offering instead “an education in metaphor manipulation”. Admission is based on a peer-recommendation system; select public programming is also offered. 
+
+The university’s initial curriculum focuses on art history — specifically new and original contributions to — and studio critiques. Lecture topics include Occult Shenanigans in 20th/21st Century Art, What’s a Metaphor?, The B.H.Q.F.U. Detective Agency, and Edifying. Marking the end of its inaugural semester, the exhibition, The Bruce High Quality Foundation University, will provide a review of themes germaine to semester study and project plans for the school’s future. 
+
+The work of the Bruce High Quality Foundation is also currently on view in the exhibition 1969 at the P.S.1 Contemporary Art Center, LIC and will appear in the upcoming Whitney Biennial 2010 and Greater New York, P.S. 1.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the Susan Inglett Gallery located 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact the gallery at 212/647-9111, fax 212/647-9333 or info@inglettgallery.com. Please note the gallery will be closed over the holidays beginning 20 December 2009 through 5 January 2010.
