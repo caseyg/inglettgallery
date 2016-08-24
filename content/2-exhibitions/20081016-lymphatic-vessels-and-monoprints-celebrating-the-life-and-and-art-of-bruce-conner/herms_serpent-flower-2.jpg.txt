@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Serpent Flower
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Neideggan
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 38 x 25 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GH0019
 
 ----
 
