@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: All Round and Round in One Vortex
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Gouache and ink on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 38 x 28 3/8 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SO0016
 
 ----
 
