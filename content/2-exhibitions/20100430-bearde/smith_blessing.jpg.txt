@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Beards (Blessing Shoe)
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Plastic, hardware, wool, mylar, wood, urethane, pastel and archival
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 32 x 24 x 13 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0017
 
 ----
 
