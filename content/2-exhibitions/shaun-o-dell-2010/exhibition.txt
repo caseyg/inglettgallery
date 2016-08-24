@@ -6,19 +6,19 @@ Title: Shaun O'Dell 2010
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 2010-03-19
 
 ----
 
-End: 
+End: 2010-04-24
 
 ----
 
-Artists: 
+Artists: shaun-o-dell
 
 ----
 
@@ -28,6 +28,14 @@ Additional-artists:
 
 Text: 
 
+Susan Inglett is pleased to present the work of San Francisco based artist Shaun O’Dell in his second solo exhibition with the gallery from 19 March to 24 April. A reception featuring the artist’s band, Words, will be held Friday evening, 19 March, from 6 to 8 PM. 
+
+Herman Melville’s great American novel, Moby Dick, is many things, not least of which an examination of Man’s place in the Universe. Using Melville’s novel as personal guide, Shaun O’Dell here appropriates the author’s use of mirroring and vortex to illustrate the boundless nature of these metaphysical concerns. The artist channels the same volatile dynamic into his drawing and film. Capitalizing on a phenomenon inherent to video feedback, O’Dell, in collaboration with video artist Nate Boyce, produces polygonal geometric forms and spiral motifs using sections of John Huston’s 1956 film Moby Dick. 
+
+By projecting the film back onto itself during moments when the narrative portrays themes of mirroring and the vortex, the artists create an iterative system that literally models metaphysical questions within the novel. Spinning these new geometries into drawings, shapes become the foundation for a physical manifestation of O’Dell’s thought process. The artist’s ongoing examination of the current state of the American psyche finds precedent in Melville’s master work. Written during a time of brooding discontent and turmoil when even America’s core values were at stake, Melville’s milieu is familiar territory. Over one hundred and fifty years later, this ground seems no more stable and the vortex remains an apt metaphor. Man’s place in the world remains unresolved and any attempt to define that place can, in Melville’s own words, be nothing more than “the draught of a draught.” The quest continues and will continue to link generations past, present, and future. 
+
+Shaun O’Dell has recently shown at the A Foundation, Liverpool; CCA Wattis Institute for Contemporary Art, Berkeley; and the San Francisco Art Institute. His work can be found in the collections of the Museum of Modern Art, the San Francisco Museum of Modern Art, and the de Young Museum.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at Susan Inglett Gallery located at 522 West 24th Street Tuesday to Saturday 10 AM to 6 PM. For additional information, please contact Susan Inglett Gallery at 212.647.9111, fax 212.647.9333 or info@inglettgallery.com
