@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: UNTITLED
 
 ----
 
-Image-date: 
+Image-date: 1987
 
 ----
 
-Image-media: 
+Image-media: Engraving collage
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 6 x 4 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 16 3/4 x 14 1/4 in.
 
 ----
 
