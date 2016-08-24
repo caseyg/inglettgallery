@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2008-09-12
 
 ----
 
-End: 
+End: 2008-10-11
 
 ----
 
@@ -22,12 +22,20 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Christopher Ulivo,Harry Schearer
 
 ----
 
 Text: 
 
+Susan Inglett Gallery is pleased to present Who Needs the Explorers Club Anyway, an exhibition of new paintings by CHRISTOPHER ULIVO. Concurrently, Gallery II will feature new works from actor, musician, and satirist HARRY SHEARER. A reception for the artists will be held Friday evening 12 September from 6 to 8. 
+
+Ulivo, a would-be Adventurer were it not for the sheer daring and physical exertion involved, has assigned himself instead the role of top notch Adventure Enthusiast. In lieu of first hand experience, Ulivo draws his treatment of adventure and exploration from Hollywood, Penguin Classics, and a few dog-eared copies of National Geographic. As indebted to The Journals of Captain Cook as to Mutual of Omaha’s Wild Kingdom, the work takes on the mantle of modern day History painting, though on a somewhat smaller scale with much less drama and certainly no actual History.
+
+Ulivo draws his exhibition title from the exclusive Explorers Club, that castle-like fortress on East 70th Street home to a pantheon of adventurers past and present such as Sir Edmund Hillary, Neil Armstrong, and Thor Heyerdahl. To observe such luminaries in their natural wood-grained habitat, Ulivo sought membership only to be turned away for lack of any bona fide exploratory experience. Determined that no one else should suffer the same cruel injustice, Ulivo welcomes explorers of all kinds, armchair or otherwise, to join in the adventure at Susan Inglett Gallery, Tuesday to Saturday 10 to 6.
+
+Susan Inglett Gallery is equally pleased to present the work of Harry Shearer, one of America’s most prominent satirists and familiar to many through his appearances in such films as Spinal Tap and A Mighty Wind. Like Ulivo, Shearer is a keen observer of nature, specifically human. Thanks to the magic of television Shearer is able to capture a number of these specimens and hold them up for observation. Well-known personalities from politics and the media are caught here in the moments before “going live”. Each portrait hangs silent, still, cheek to jowl in Shearer’s living, breathing portrait gallery. The effect is haunting, hypnotic, humorous, and while not exactly humane undeniably human.
+
 ----
 
-Additional: 
+Additional: The exhibitions will be on view at Susan Inglett Gallery located at 522 West 24th Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212.647.9111, fax 212.647.9333 or info@inglettgallery.com.
