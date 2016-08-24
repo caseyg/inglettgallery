@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Carol
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Ink on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 29 3/4 x 22 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GH0025
 
 ----
 
