@@ -1,0 +1,45 @@
+Pagelock: 
+
+----
+
+Title: The Way Things Go
+
+----
+
+Untitled: true
+
+----
+
+Start: 2008-11-20
+
+----
+
+End: 2008-12-20
+
+----
+
+Artists: greg-smith
+
+----
+
+Additional-artists: Luca Buvoli,Buckminster Fuller,Fischli and Weiss,Rube Goldberg,Tim Hawkinson,Beom Kim,Mika Rottenberg,Phoebe Washburn
+
+----
+
+Text: 
+
+Python is a popular programming language that makes a chunk of our world work, but not always dependably. It runs youtube.com and is a staple of Google and Wall Street. It is named after Monty Python’s Flying Circus, and by tradition, examples showing how to use the language quote from Monty Python movies. Working snippets of code include 
+
+Im.a.lumberjack(and.im.ok())
+killer.rabbit(killer.rabbit(run!,away!))
+better.get()|a_bucket
+
+By combining these snippets with others, the Monty Python oeuvre can help run a factory, model stock markets, or count “and”s on the Internet. 
+
+Each of the works in this show exhibits its own quixotic functionality. Each is a mechanism, list, assembly line or other practically impractical structure where production is fraught but earnest; mechanisms work strangely or not at all; parts unravel the very structures that they create. In the works’ well-worn, handmade imitation of mass production or practical functionality, there is pointed critique. The care with which the parts are crafted and elucidated, and the casual precision with which they interact indicate a grudging acknowledgement of our culture’s functional structures which sometimes enable and often oppress. As solutions to problems, their process mimics that by which so many of our accepted institutions are founded, success through failure re-engineered. A haphazard though human means to an end, in our civilization these constructions represent for better or worse, more often than not, “The Way Things Go”. 
+
+Susan Inglett Gallery is pleased to present “The Way Things Go”, a curated exhibition inspired by the Fischli and Weiss film “Der Lauf der Dinge (The Way Things Go)”. Artists in the exhibition include Luca Buvoli, Buckminster Fuller, Fischli and Weiss, Rube Goldberg, Tim Hawkinson, Beom Kim, Mika Rottenberg, Greg Smith, and Phoebe Washburn.
+
+----
+
+Additional: The exhibition will be on view at Susan Inglett Gallery located at 522 West 24th Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212.647.9111, fax 212.647.9333 or info@inglettgallery.com.
