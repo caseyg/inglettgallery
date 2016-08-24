@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Fathers Waters Beneath the Waters
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Gouache and ink on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 46 1/4 x 32 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SO0014
 
 ----
 
