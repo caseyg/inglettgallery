@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Stella
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Ink on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 28 x 17 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GH0028
 
 ----
 
