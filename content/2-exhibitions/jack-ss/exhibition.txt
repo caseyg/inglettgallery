@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2008-05-29
 
 ----
 
-End: 
+End: 2008-08-01
 
 ----
 
@@ -22,12 +22,18 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Marina Abramovic,Vito Acconci,Bas Jan Ader,The Bruce High Quality Foundation,Gunter Brus,Chris Burden,Sophie Calle,Kate Gilmore,Rodney Graham,Yves Klein,Sara Greenberger Rafferty,Carolee Schneemann,Roman Signer,Viennese Actionists
 
 ----
 
 Text: 
 
+Susan Inglett is pleased to present “Jack *%ss”, a curated exhibition to run 29 May through 1 August. 
+
+Lifted from the annals of MTV history, “Jack *%ss” takes its title from the eponymous American Television program featuring the stunts and pranks of a cast led by pop impresario Johnny Knoxville. Knoxville came to the public’s attention in 1999 when he agreed to test various self defense devices by being tasered, maced and eventually shot while wearing a bulletproof vest. Almost three decades earlier, the artist Chris Burden choreographed a performance in which he had an assistant fire a single shot to his left arm. Knoxville’s act was a stunt, Burden’s “Shoot” sited as it was within the time frame of the Vietnam War, understood as political/social gesture, contextualized as Art performance, was so much more. Both shots made a sound, Chris Burden’s was heard round the world. 
+
+Artists in the exhibition include Marina Abramovic, Vito Acconci, Bas Jan Ader, The Bruce High Quality Foundation, Gunter Brus, Chris Burden, Sophie Calle, Kate Gilmore, Rodney Graham, Yves Klein, Sara Greenberger Rafferty, Carolee Schneemann, Roman Signer, and films from the Viennese Actionists.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the Susan Inglett Gallery located 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM in June and Monday to Friday 10 AM to 6 PM in July. For additional information please contact the gallery at 212/647-9111, fax 212/647-9333 or info@inglettgallery.com.
