@@ -6,19 +6,19 @@ Title: Greg Smith
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 2008-03-21
 
 ----
 
-End: 
+End: 2008-04-19
 
 ----
 
-Artists: 
+Artists: greg-smith
 
 ----
 
@@ -27,6 +27,22 @@ Additional-artists:
 ----
 
 Text: 
+
+Susan Inglett is pleased to present the work of GREG SMITH in his second solo exhibition with the gallery from 21 March to 19 April 2008. A reception for the artist will be held Friday evening 21 March from 6 to 8 PM. 
+
+A farmer wanted more milk from his dairy operation and employed a psychologist, an engineer, and a physicist to make suggestions. They thought for a while and then made their proposals: 
+
+The psychologist said, “I think you should make the cows feel happier and more relaxed in the barn by painting the stalls green and playing recordings of birdsongs. Then they’ll let go of their milk more easily.”
+
+The engineer said, “If you make each stall in the barn a bit smaller, you can add a few more stalls and have more cows for milking.” 
+
+Then the physicist began, “Let’s start by assuming the cow is a sphere.....” 
+
+So it’s a physics joke and not everyone appreciates those. But the physicist has the last laugh, because by her logic pretty much anything can be approximated as a sphere, so she has a unified way to make sense of the world. It’s an absurd and insipid structure, but it is functional in its own way. It might be pretty popular with a few small adjustments, and then maybe even I’d go for it. For example, instead of depending on a sphere, perhaps the physicist could have used something a little richer.
+
+The asterisk is often associated with the fine print, the qualification, or the caveat. It also provides us with a fresh start in that mythic American way, tucking away inconvenient truths while at the same time keeping them close at hand for (possible) later examination. The asterisk opens just enough space so that optimism might breathe, with caveats.
+
+In this exhibition I would like to make a qualified proposal for the asterisk as basic atom or building block for everything worth thinking about. It can serve as the building block for any manner of objects, media, or world views, and perhaps one day as the basis for a burgeoning community. For more information please see www.asteriskspit.com.
 
 ----
 
