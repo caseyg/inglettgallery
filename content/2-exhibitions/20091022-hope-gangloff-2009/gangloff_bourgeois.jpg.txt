@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Bourgeois Landfill
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 56 x 82 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0131
 
 ----
 
