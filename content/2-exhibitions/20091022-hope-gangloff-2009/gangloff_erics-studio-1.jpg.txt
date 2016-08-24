@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Eric's Studio
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Ink on clay coated paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 16 x 20 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0093
 
 ----
 
