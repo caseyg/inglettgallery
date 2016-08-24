@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2009-02-14
 
 ----
 
-End: 
+End: 2009-03-21
 
 ----
 
@@ -22,7 +22,7 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Luca Buvoli
 
 ----
 
