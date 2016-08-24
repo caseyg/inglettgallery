@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Cruiser (Drawering)
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Assemblage
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 17 1/2 x 21 x 8 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GH0009
 
 ----
 
