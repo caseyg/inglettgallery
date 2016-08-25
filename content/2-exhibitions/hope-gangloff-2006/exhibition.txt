@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2006-09-14
 
 ----
 
-End: 
+End: 2006-10-14
 
 ----
 
-Artists: 
+Artists: hope-gangloff
 
 ----
 
@@ -27,6 +27,12 @@ Additional-artists:
 ----
 
 Text: 
+
+Susan Inglett Gallery is pleased to present the work of HOPE GANGLOFF from 14 September to 14 October 2006. There will be an opening reception for the artist from 6 to 8 PM on Thursday, 14 September.
+
+This exhibition will be the first at the Gallery’s NEW ground floor location at 534 West 22 Street. Please make note of our new address. 
+
+The exhibition will be on view Tuesday to Saturday 11 AM to 6 PM. For additional information please contact Joanna Slotkin at 212/647-9111, fax 212/647-9333 or info@inglettgallery.com.
 
 ----
 
