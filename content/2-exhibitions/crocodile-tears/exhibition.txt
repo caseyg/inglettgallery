@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2007-04-26
 
 ----
 
-End: 
+End: 2007-05-26
 
 ----
 
@@ -22,11 +22,17 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Douglas Huebler
 
 ----
 
 Text: 
+
+Susan Inglett is pleased to present the work of DOUGLAS HUEBLER from 26 April to 26 May 2007. 
+
+In 1981, conceptual artist Douglas Huebler completed a screenplay entitled “Crocodile Tears”, a fictitious exposé of an art world blinded by its own bright light. The work tantalizes with a series of narratives that touch upon the most unsavory elements of the Art World/Market: the contracted artist who risks all to turn a profit for a corporate machine, a threatening young prodigy, an evil art dealer, an art forger, and a failed artist. “Crocodile Tears” has it all, twenty-five years before ARTSTAR was a gleam in the eye of cable television. 
+
+The screenplay, in turn, inspired several bodies of work and, naturally, a number of subplots therein. Appreciating the parallels between the story board technique of screenwriting and his own text-based work, Huebler conflated the two in “Crocodile Tears”. The gallery will be exhibiting a selection of works taken from the series Buried Treasure, The Great Creator, and Signature Artist, with each ensemble featuring a reproduction of a famous artwork, juxtaposed with text or cartoon selected from the screenplay. The reproduction is by Huebler’s hand, the text is chosen not to conventionally explicate but to intimate experience. The work is multivalent, nonlinear, complex, discomforting, and always worth the journey.
 
 ----
 
