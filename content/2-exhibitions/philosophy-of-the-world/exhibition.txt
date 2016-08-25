@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2007-03-22
 
 ----
 
-End: 
+End: 2007-04-21
 
 ----
 
@@ -22,12 +22,18 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Donna Huanca
 
 ----
 
 Text: 
 
+Susan Inglett is pleased to present a new installation and sound piece from Texas based artist DONNA HUANCA from 22 March to 21 April 2007. There will be an opening reception for the artist Thursday 22 February from 6 to 8 PM with a live performance at 7:30 PM. 
+
+The future of music as played by puppets, Philosophy of the World, was conceived by Donna Huanca on the occasion of her exhibition at Susan Inglett Gallery. Members of the band include Dorothy “Dot” Wiggins of The Shaggs, whose anti-music album “The Philosophy of the World” has the distinction of being labeled “the worst record ever made in the history of music”; Leon Theremin, creator of the theremin and a forerunner of electronic music; and Huanca herself. Armed with handmade instruments, these characters emit soundscapes composed of found audio clips. The recordings capture the reverberations of war, protests, mass transit, sewing machines, in short the sound effects of a daily 21st Century existence. 
+
+In addition to sound and puppetry, the exhibition will incorporate the artist’s drawings and fabric pieces into the larger installation. During the opening there will be a live performance simulcast to a concurrent exhibition of Huanca’s work at Houston’s Lawndale Art Center.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at Susan Inglett Gallery located 534 West 22 Street Tuesday to Saturday 11 AM to 6 PM. For additional information please contact Joanna Slotkin at 212/647-9111, fax 212/647-9333 or info@inglettgallery.com.
