@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2007-09-07
 
 ----
 
-End: 
+End: 2007-10-13
 
 ----
 
@@ -22,12 +22,24 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Andrea Zittel
 
 ----
 
 Text: 
 
+On September 7, Susan Inglett and Andrea Zittel are pleased to announce the Grand Opening of the East Coast flagship of smockshop. Please join us Friday from 6 to 8 for an evening of champagne and shopping.
+
+What do fashion and art have in common? Ask Andrea Zittel.
+
+Hired as a gallery assistant to the famously chic Pat Hearn, Andrea Zittel did what any budget conscious recent art school grad would do : she created. Specifically, she designed a wardrobe of personal uniforms, thereby raising questions about the interweaving of function and fashion, design and life, commerce and art. Her uniforms paved the way for an ongoing output of A-Z “prototypes” that probe the relationship between human nature and design, whether for the home, the body or the soul.
+
+After years spent developing a wide variety of concepts for living, from furniture manufacturing (A-Z Administrative Services) to the design and construction of an island off the coast of Denmark (A-Z Pocket Property), Zittel returns to the gallery as fashion arena and presents the smockshop. Coinciding with fashion week, her one-of-a-kind smocks will be sold at ready-to-wear prices at Su- san Inglett Gallery in Chelsea. Unlike other artists who have mined similar ground, Zittel’s designs are more about everyday use and less about rarified statement. In keeping with her belief that art should be a sustainable commodity, she invited a dozen talented young artists to play the role of seamstress. The project afforded them an income—they were paid a flat rate per dress — and awarded them creative license to amend, embellish and customize her basic pattern. “In a perfect world, the project will be self sustaining,” she says. “But I am still waiting to see if I will break even.” 
+
+In keeping with her personal practice, Zittel recommends that clients wear each smock exclusively for the entire season. Perhaps that’s not realistic in chic Chelsea, particularly during fashion week, but the artist hopes her project will inspire a more frugal approach to design. “Our current state of consumerism is pretty out of whack right now,” she says. “Wear what you work.” And if that sounds too Marxist, Zittel offers this slogan to the fashion legions: Liberation through Limitation. Either way, the smockshop is bound to tempt the eyes as well as the purse strings. The exhibition opens with a night of shopping and champagne that should prove just as satisfying as finding Karl Lagerfeld at H&M.
+
+Smockers include Tiprin Follett, V Smiley, Kate Hillseth, Lisa Anne Auerbach, Ashira Siegel, Molly Keogh, Ann Trondson, R.Scott Mitchell, Maude Benson, Mark Rodriguez, Peggy Paubistan, and some very special guest sewers....
+
 ----
 
-Additional: 
+Additional: The collection will be on view at the smockshop at Susan Inglett Gallery located 534 West 22 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Alex Gingrow at 212/647-9111 or info@inglettgallery.com.
