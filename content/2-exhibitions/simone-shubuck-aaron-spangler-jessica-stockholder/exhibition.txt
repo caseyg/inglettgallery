@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2006-11-30
 
 ----
 
-End: 
+End: 2006-12-23
 
 ----
 
@@ -22,11 +22,15 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Simone Shubuck,Aaron Spangler,Jessica Stockholder
 
 ----
 
 Text: 
+
+Susan Inglett Gallery is pleased to present recent editions from SIMONE SHUBUCK, AARON SPANGLER, and JESSICA STOCKHOLDER published by I.C. Editions, Inc., an affiliate of the Susan Inglett Gallery. Work will be on view from 30 November to 23 December 2006. 
+
+For more information on these artists and works, please visit the I.C. Editions website.
 
 ----
 
