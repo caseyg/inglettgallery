@@ -10,19 +10,19 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2007-07-01
 
 ----
 
-End: 
+End: 2007-08-29
 
 ----
 
-Artists: 
+Artists: hope-gangloff, greg-smith, bruce-conner
 
 ----
 
-Additional-artists: 
+Additional-artists: Annette Lemieux,Simone Shubuck,Christopher Ulivo
 
 ----
 
