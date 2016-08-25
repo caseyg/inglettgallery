@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: It was a Calibration of the Glass of the Underground Sun and the Unfolding of Light
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: Gouache and ink on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 32 1/4 x 46 1/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SO0012
 
 ----
 
