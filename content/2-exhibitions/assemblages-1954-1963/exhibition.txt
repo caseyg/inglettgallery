@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2007-01-11
 
 ----
 
-End: 
+End: 2007-02-10
 
 ----
 
-Artists: 
+Artists: bruce-conner
 
 ----
 
@@ -26,7 +26,7 @@ Additional-artists:
 
 ----
 
-Text: 
+Text: Susan Inglett Gallery is pleased to present Assemblages, works by BRUCE CONNER spanning the years 1954 to 1963. Work will be on view from 11 January to 10 February 2007.
 
 ----
 
