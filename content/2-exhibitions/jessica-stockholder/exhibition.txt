@@ -6,15 +6,15 @@ Title: Jessica Stockholder
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 2006-01-01
 
 ----
 
-End: 
+End: 2006-02-01
 
 ----
 
@@ -22,11 +22,19 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Jessica Stockholder
 
 ----
 
 Text: 
+
+Susan Inglett (office) will be offering a private view of a new multiple from I.C. Editions and JESSICA STOCKHOLDER, With your Salad during the month of January/February 2006. 
+
+Jessica Stockholder is trained as both sculptor and painter. Each discipline is well represented in With your Salad. Red plastic cooler, brushed aluminum wall sconce, neon green extension cord and artistic folly meet in a riot of color, texture, and light. While Stockholder credits a surrealist’s game of chance as the starting point for her work, she proceeds to masterfully weave an inspired web of flotsam and jetsam which she personalizes with a plastic splash of Tropicana Cabana and Lime Green. In the artist’s hands, the commonplace acquires heightened stature while the exotic gains parity with the ordinary. One man’s junk is another man’s treasure. 
+
+With your Salad is the most recent project published by I.C. Editions, Inc, a publishing venture with Susan Inglett Gallery. This light sculpture is produced in a small edition of 30 to be sold both singly and in pairs. The work will be featured at this year’s Armory Show 9 to 13 March Pier 92 booth E004. 
+
+Jessica Stockholder is represented by Mitchell-Innes & Nash, NYC. Her work is included in the collections of the Art Institute of Chicago; the Los Angeles Museum of Contemporary Art; the Museum of Fine Arts, Boston; the Saatchi Collection, London; the Stedelijk Museum, Amsterdam; and the Whitney Museum, NYC among others.
 
 ----
 
