@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2007-02-15
 
 ----
 
-End: 
+End: 2007-03-17
 
 ----
 
@@ -22,12 +22,18 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Christopher Ulivo
 
 ----
 
 Text: 
 
+Susan Inglett is pleased to present a new series of fresco style paintings by CHRISTOPHER ULIVO from 15 February to 17 March 2007. There will be an opening reception for the artist Thursday 15 February from 6 to 8 PM.
+
+Ulivo’s first exhibition at the Gallery imagined a world of humble woodsmen toiling heroically, or foolishly, to master a brutal, unforgiving Wilderness. Against all odds, without regard for multi-taloned monkeys or acid-rain skies, this determined breed struggled to fashion a modern world from wood and straw. 
+
+Man’s epic struggle with Nature continues in the new work though on a marginally more hopeful note.	As the exhibition title suggests, When the Groundhog leaves his den there is at least the chance for an early Spring. Likewise, Ulivo’s protaganists must take their chances, whether confronting ghostly spectres, fellow bird watchers, or unseasonable weather. Of course, the Groundhog has been known to be wrong and we’ve had freezing rain and sleet with wind gusts up to 50 mph too.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at Susan Inglett Gallery located 534 West 22 Street Tuesday to Saturday 11 AM to 6 PM. For additional information please contact Joanna Slotkin at 212/647-9111, fax 212/647-9333 or info@inglettgallery.com.
