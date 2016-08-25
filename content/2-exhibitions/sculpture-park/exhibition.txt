@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2006-03-01
 
 ----
 
-End: 
+End: 2006-04-01
 
 ----
 
@@ -22,11 +22,17 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Aaron Spangler
 
 ----
 
 Text: 
+
+Susan Inglett (office) will be offering a private view of a new project from I.C. Editions and AARON SPANGLER, Sculpture Park during March and April 2006. 
+
+A seasoned wood carver, this project represents Aaron Spangler’s first print and woodcut. As noted by Ken Johnson in the New York Times, Spangler “uses his extraordinary technique to elaborate profusely detailed, darkly comic visions of rural Post-apocalyptic ruin...he leaves things a bit rough (creating) a magical tension between the raw material and the epic fantasy”. Spangler’s “Sculpture Park” is no less a rough place. Here a scrap heap of earlier iconography, burned out cars, downed power lines, and discarded tires, shares ground with Constructivist assemblage, Memorial statuary, and weed infested Horn of Plenty. This “Sculpture Park” seems located somewhere between memorial garden down on its luck and backyard shrine on the way up. 
+
+Aaron Spangler is represented by Zach Feur Gallery, NYC and will be included in the upcoming iteration of the Triumph of Painting at the Saatchi Gallery, London.
 
 ----
 
