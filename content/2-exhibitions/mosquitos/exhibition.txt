@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2006-02-09
 
 ----
 
-End: 
+End: 2006-03-04
 
 ----
 
@@ -22,11 +22,18 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Craig Love
 
 ----
 
 Text: 
+
+Susan Inglett (office) will be offering a private view of a new series of paintings on paper by CRAIG LOVE from 9 February to 4 March 2006. 
+
+In spring, the sweet young spring, decked out with little green, necklaced, braceleted with the song of idiotic birds, spurious and sweet and tawdry as a shopgirl in her cheap finery, like an idiot with money and no taste; they were little and young and trusting, you could kill them sometimes. But now, as August like a languorous replete bird winged slowly through the pale summer toward the moon of decay and death, they were bigger, vicious; ubiquitous as undertakers, cunning as pawnbrokers, confident and unavoidable as politicians. They came cityward lustful as country boys, as passionately integral as a college football squad; pervading and monstrous but without majesty; a biblical plague seen through the wrong end of a binocular; the majesty of Fate become contemptuous through ubiquity and sheer repetition. 
+—From William Faulkner’s Mosquitoes 
+
+Canadian artist Craig Love’s work was seen most recently in New York in “Life and Limb”, a show curated by David Humphrey for Feigen Gallery. Unlike fellow Winnipegians, Love riffs not on cartoons or sci-fi, but on the Viennese Secessionists and German Expressionists of an earlier period of decadence and decay.
 
 ----
 
