@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2005-04-21
 
 ----
 
-End: 
+End: 2005-05-21
 
 ----
 
@@ -22,11 +22,16 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Erik Sandberg
 
 ----
 
 Text: 
+
+"The master of the monstrous...the discoverer of the unconscious."
+—Carl Gustav Jung on Hieronymus Bosch
+
+Originally written to describe the work of 15th century Flemish Master Hieronymus Bosch, this passage could as easily describe the work of contemporary painter, Erik Sandberg. Working in times of great social and political upheaval , each artist expresses the terror and anxiety of the Age. Sandberg captures the stuff of nightmares and the evening news with a surgical precision which is at once stunningly beautiful and horrifying. In these jewel like narrative paintings the artist renders the human condition of human flesh—complex, passionate and vulnerable. This is Erik Sanderg's first exhibition in New York.
 
 ----
 
