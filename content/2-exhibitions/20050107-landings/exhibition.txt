@@ -14,19 +14,25 @@ Start: 2005-01-07
 
 ----
 
-End: 
+End: 2005-02-05
 
 ----
 
-Artists: 
+Artists: hope-gangloff, benjamin-degen
 
 ----
 
-Additional-artists: 
+Additional-artists: Russell Crotty,Henry Darger,Kirsten Deirup,Landing-Dreiden,Marcel Dzama,Inka Essenhigh,William Kentridge,Blaze Lamper,Yuri Masnyj,Julie Mehretu,Paul Noble,Jockum Nordstrom,Fred Tomaselli,Luc Tuymans,Anton Vojacek,Matthew Wilson,Dustin Yellin,Yelena Yemchuk
 
 ----
 
 Text: 
+
+"Landscapes are culture before they are nature; constructs of the imagination projected…but it should also be acknowledged that once a certain idea of landscape, a myth, a vision, establishes itself in an actual place, it has a peculiar way of muddling categories, of making metaphors more real than their references; of becoming, in fact, part of the scenery." —Simon Schama, from Landscape and Memory.
+
+"Landings" examines the work of a group of artists who explore the relationship between culture, nature, and representation. The artists in this exhibition lay claim to landscape as metaphor by revealing an internalized or invented subject matter. Whether referencing Flemish renaissance, folk/outsider art, modernism or Asian traditions of scenic renditions, the themes of landscapes are freely appropriated as a construct of the mind, a psychic proposition, and a reflection of obsessions. This show will focus on works that reveal a degree of intimacy, either directly with the viewer and/or as part of the process within the practice of each.
+
+Artists in the exhibition include Russell Crotty, Henry Darger, Benjamin Degen, Kirsten Deirup, Lansing-Dreiden, Marcel Dzama, Inka Essenhigh, Hope Gangloff, William Kentridge, Blaze Lamper, Yuri Masnyj, Julie Mehretu, Paul Noble, Jockum Nordstrom, Fred Tomaselli, Luc Tuymans, Anton Vojacek, Matthew Wilson, Dustin Yellin and Yelena Yemchuk.
 
 ----
 
