@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2003-04-24
 
 ----
 
-End: 
+End: 2003-05-31
 
 ----
 
@@ -22,12 +22,22 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Robert Beck
 
 ----
 
 Text: 
 
+Susan Inglett is pleased to present a new body of work from ROBERT BECK entitled “Once Across the Mason-Dixon” from 24 April to 31 May 2003. There will be a reception for the artist from 6 to 8 PM Thursday 24 April. 
+
+Beginning in 1998, Robert Beck produced a series of twenty-one steroscopic photographs for use with the 3-D View-Master system. The Gallery will exhibit both the View-Master with it’s boxed set of three discs, each containing seven original stereoscopic images by the artist, as well as a series of diptych photographs culled from the series. 
+
+The project, “Once Across the Mason-Dixon” is congruent with several abiding concerns for the artist, including popular forms of photography, montage and narrative. The portability of the View-Master, as well as the memories it conjures, inspired the project’s theme, "the road." 
+
+The nostalgia evoked by the childhood novelty, with its connotations of fantasy and escape, is cannily offset by Beck through the content, hazard and the loss of innocence. An odyssey unfolds as the images, however mundane, accumulate. 
+
+The diptychs present two similar yet slightly different vantages of the same view. While this may reveal the optical illusion of the 3D images, larger concerns specific to the medium of photography are engaged.
+
 ----
 
-Additional: 
+Additional: The exhibition will be on view at the gallery located 100 Wooster Street/2 floor Tuesday to Saturday 11 AM to 6 PM. For additional information please contact Susan Inglett at 212/343-0573 and fax 212/343-0574.
