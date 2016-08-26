@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Lotus Bowl
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Cibachrome with Lacquer Frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 41 1/2 x 31 1/2 in.
 
 ----
 
@@ -18,8 +18,8 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 8
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SC0136
