@@ -6,15 +6,15 @@ Title: Allan McCollum 1997
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 1997-10-30
 
 ----
 
-End: 
+End: 1997-12-13
 
 ----
 
@@ -22,7 +22,7 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Allan McCollum
 
 ----
 
