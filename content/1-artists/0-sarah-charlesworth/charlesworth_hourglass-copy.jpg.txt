@@ -23,3 +23,7 @@ Image-edition-info: Edition of 8
 ----
 
 Image-inventory-id: SC0056
+
+----
+
+Sort: 7
