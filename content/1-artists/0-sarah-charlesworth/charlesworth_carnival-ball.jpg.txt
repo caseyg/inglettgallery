@@ -26,4 +26,4 @@ Image-inventory-id: SC0016
 
 ----
 
-Sort: 3
+Sort: 2
