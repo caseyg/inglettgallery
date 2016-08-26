@@ -6,15 +6,15 @@ Title: Rona Pondick
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 1996-10-31
 
 ----
 
-End: 
+End: 1996-12-14
 
 ----
 
@@ -22,7 +22,7 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Rona Pondick
 
 ----
 
