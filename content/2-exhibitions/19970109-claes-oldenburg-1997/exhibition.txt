@@ -6,15 +6,15 @@ Title: Claes Oldenburg 1997
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 1997-01-09
 
 ----
 
-End: 
+End: 1997-02-22
 
 ----
 
@@ -22,7 +22,7 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Claes Oldenburg
 
 ----
 
