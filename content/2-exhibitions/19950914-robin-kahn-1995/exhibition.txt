@@ -6,15 +6,15 @@ Title: Robin Kahn 1995
 
 ----
 
-Untitled: true
+Untitled: false
 
 ----
 
-Start: 
+Start: 1995-09-14
 
 ----
 
-End: 
+End: 1995-10-28
 
 ----
 
@@ -22,7 +22,7 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Robin Kahn
 
 ----
 
