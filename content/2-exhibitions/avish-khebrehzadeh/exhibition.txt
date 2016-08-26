@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2005-03-17
 
 ----
 
-End: 
+End: 2005-04-16
 
 ----
 
@@ -22,11 +22,17 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Avish Khebrehzadeh
 
 ----
 
 Text: 
+
+Susan Inglett is pleased to present the work of AVISH KHEBREHZADEH from 17 March 2005 to 16 April 2005. There will be an opening reception for the artist Thursday evening 17 March from 6 to 8 PM.
+
+Many may remember the animated projections of Avish Khebrehzadeh from the last Venice Biennale where she was awarded the Lion D’or for her contribution to the Italian Pavilion, the “Young Italian Art Award”. The Biennale awards panel praised Kebrehzadeh’s art for “the grace of animation work [and its] subtlety of narration.” Her work has also been featured in recent exhibitions at the Tehran Museum of Contemporary Art, Tehran/Iran (2004), Kunst Film Biennial at the Ludwig Museum, Koln (2003), and The Hidden Half: Iranian Women Director’s at the Smithsonian’s Freer Gallery of Art, Washington DC (2003). Iranian born Khebrehzadeh divides her time between Rome and Washington, DC.
+
+Avish Khebrehzadeh’s first solo exhibition in New York will feature a recent large scale video projection along with related works on paper and animation cells. Both the projections and drawings are, in the words of one Washington Post critic, “conceived with a storybook simplicity..., closer to poetry than to polemics”. The work speaks to the viewer on a subconscious level with the look and feel of memory, revealing itself slowly over time. In a few select images, the animations suggest a shared human experience which transcend time, politics and geography. Khebrehzadeh tells a timeless tale as joyful or melancholy as the viewer’s own, always genuine.
 
 ----
 
