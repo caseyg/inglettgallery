@@ -10,11 +10,11 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 1994-12-08
 
 ----
 
-End: 
+End: 1995-01-14
 
 ----
 
@@ -22,7 +22,7 @@ Artists:
 
 ----
 
-Additional-artists: 
+Additional-artists: Claes Oldenburg
 
 ----
 
