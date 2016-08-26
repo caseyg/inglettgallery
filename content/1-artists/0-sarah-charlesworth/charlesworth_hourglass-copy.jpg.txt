@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Hourglass
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Fuji Crystal Archival Print mounted and laminated with laquer frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 41 1/2 x 32 in.
 
 ----
 
@@ -18,8 +18,8 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 8
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SC0056
