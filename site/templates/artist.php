@@ -22,8 +22,9 @@
 <div class="row">
   <section class="col-md-4">
     <?php echo $page->text()->kt() ?>
+    <?php $bio = $page->documents()->filterBy('filename', '*=', 'bio')->first(); ?>
     <ul class="list-unstyled">
-      <li><a href="#">Biography</a></li>
+      <?php if ($bio->exists()): ?><li><a href="<?php echo $bio->url() ?>">Biography</a></li><?php endif; ?>
       <li><a href="#">Publications</a></li>
       <li><a href="#">Select Press</a></li>
       <li><a href="#">Exhibition History</a></li>
