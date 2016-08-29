@@ -17,12 +17,15 @@
 
 <header class="container text-uppercase p-t-2 m-b-3">
   <div class="row">
-    <h2 class="col-md-6"><a href="/" class="logo"><span class="logo-susan-inglett">Susan Inglett</span> <span class="logo-gallery">Gallery</span></a></h2>
+    <h2 class="col-md-5"><a href="/" class="logo"><span class="logo-susan-inglett">Susan Inglett</span> <span class="logo-gallery">Gallery</span></a></h2>
     <nav>
-      <ul class="nav nav-inline col-md-6 text-md-right">
-        <?php foreach($pages->visible() as $p): ?>
+      <ul class="nav nav-inline col-md-7 text-md-right">
+        <?php
+        $navPages = $pages->visible();
+        $first = $navPages->first();
+        foreach($navPages as $p): ?>
           <li class="nav-item">
-            <a class="nav-link p-y-1 <?php e($p->isOpen(), ' active') ?>" href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
+            <a class="nav-link p-y-1 <?php e($p->isOpen(), ' active') ?><?php e($p == $first, ' p-l-1') ?>" href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
           </li>
         <?php endforeach ?>
         <li class="nav-item">
