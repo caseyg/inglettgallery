@@ -26,7 +26,7 @@
     <ul class="list-unstyled">
       <?php if ($bio->exists()): ?><li><a href="<?php echo $bio->url() ?>">Biography</a></li><?php endif; ?>
       <li><a href="#">Publications</a></li>
-      <li><a href="#">Select Press</a></li>
+        <?php if ($page->children()->find('press')): ?><li><a href="<?php echo $page->children()->find('press')->url() ?>">Select Press</a></li><?php endif; ?>
       <li><a href="#">Exhibition History</a></li>
     </ul>
   </section>
