@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: The Tortoise Said to the Hare "You know from certain angles you look like a duck"
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 20 x 20 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GST0025
 
 ----
 
