@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Glider Shuffle
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Single channel video projection on plexi glass screen, 06:46
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 45 x 40 x 4 in. Screen
 
 ----
 
@@ -18,11 +18,11 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 2 + 1 AP
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AT0005
 
 ----
 
