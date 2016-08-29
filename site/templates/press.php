@@ -11,15 +11,15 @@
     </ul>
   </section>
   <section class="col-md-8">
+    <h1><?php echo $page->title()->html() ?></h1>
+    <ul>
+      <?php foreach ($page->files()->flip() as $p): ?>
+        <li><a href="<?php echo $p->url() ?>"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
+      <?php endforeach; ?>
+    </ul>
     <p>
       <a href="<?php echo $page->parent()->url() ?>"><i class="fa fa-chevron-left" aria-hidden="true"></i> <?php echo $page->parent()->title()->html() ?></a>
     </p>
-    <h1><?php echo $page->title()->html() ?></h1>
-    <ul>
-      <?php foreach ($page->files() as $p): ?>
-        <li><a href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a></li>
-      <?php endforeach; ?>
-    </ul>
   </section>
 </div>
 
