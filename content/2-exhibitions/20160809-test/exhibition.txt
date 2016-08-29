@@ -1,0 +1,43 @@
+Pagelock:
+
+----
+
+Title: Test future exhibit
+
+----
+
+Untitled: true
+
+----
+
+Start: 2016-08-09
+
+----
+
+End: 2016-09-29
+
+----
+
+Artists: greg-smith
+
+----
+
+Additional-artists:
+
+----
+
+Text:
+
+Susan Inglett Gallery is pleased to present Zero Width Non-Joiner, Greg Smith’s sixth solo exhibition with the gallery, from 9 June 2016 through 29 July 2016. A reception for the artist will be held Thursday evening 9 June from 6 to 8 PM.
+
+For Zero Width Non-Joiner, Greg Smith collaborates with thousands of lines of computer code. In part written by the artist, and in part assembled from modules available on the internet, this code serves as the circumscriptive but not-quite-present landscape in the video, set, objects, and drawings. The film, Total Runout, Heavy Sparkle, shows our protagonist navigating a space where the environment, and the cameras themselves, appear to determine much of the action. The materiality of the mechanisms and performative gestures maintain an uncertain relationship with an ethereal computer code that works behind the scenes to make it all tick. Throughout the artist pulls back the curtain back to reveal snippets of code, along with early computer graphic techniques and Unicode characters, which dictate much of the video’s visual environment.
+
+Unicode permeates all aspects of the exhibition; the official names of some of its characters serve as titles for the work, and for the show itself. Unicode is a catalog of most every mark that can fit in a square. As the standard that enables electronic communication by organizing graphical elements, icons, emojis, and characters from the world’s languages, Unicode is eminently practical, and even utopian. It is today’s catalog, but it recalls those from the past. With its effort to be all-encompassing, its endless, standardized units, and its limitations and blind spots, perhaps Unicode can be thought of as a low-brow doppelganger of defunct institutional slide collections. Introduced by an unsteady protagonist, Unicode and slides meet here, by way of sequins, careful engineering, and computer coding.
+
+----
+
+Additional:
+
+Greg Smith was born in DeKalb, Illinois, he lives and works in New York. Smith received a MFA from Hunter College, PhD in Physics from Harvard University, and BA from Amherst College. He has had solo exhibitions at Cress Gallery of Art, Chattanooga, TN; Faulconer Gallery, Grinnell College, IA; Devening Projects + Editions, Chicago; and White Columns, NYC. His work has been featured at MoMA, NYC; the McNay Art Museum, TX; Yossi Milo Gallery, NYC; Zolla/Lieberman Gallery, Chicago; and Weatherspoon Art Museum, NC, amongst others. Smith was awarded a Guggenheim Grant in 2013.
+
+Join the conversation with Susan Inglett Gallery and Greg Smith on Instagram (@SusanInglettGallery), Facebook (Susan Inglett Gallery) and Twitter (@inglettgallery), and via the hashtags #SusanInglettGallery and #GregSmith.

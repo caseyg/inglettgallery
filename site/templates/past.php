@@ -26,7 +26,8 @@
       <h3 class="heading-small m-b-2" id="<?php echo $year ?>"><?php echo $year ?></h3>
         <ul class="list-unstyled">
         <?php foreach ($yearList as $post): ?>
-          <li><a href="<?php echo $post->url() ?>"><?php echo $post->title() ?></a></li>
+          <li class="p-b-1"><a href="<?php echo $post->url() ?>"><?php echo $post->title() ?><br>
+          <small class="date"><?php echo $post->date('d F Y', 'start') ?> - <?php echo $post->date('d F Y', 'end') ?></small></a></li>
         <?php endforeach; ?>
         </ul>
     <?php endforeach; ?>
