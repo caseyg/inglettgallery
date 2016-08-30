@@ -1,4 +1,4 @@
-Title: Where We Live
+Title: Benjamin Degen: Where We Live
 
 ----
 
@@ -92,3 +92,11 @@ Additional: The exhibition will be on view at the gallery located at 522 West 24
 ----
 
 Artists: benjamin-degen
+
+----
+
+Untitled: true
+
+----
+
+Additional-artists: 
