@@ -13,33 +13,46 @@
     function pageYear($p) {
       return $p->date('Y', 'start'); // year, e.g. "2016"
     }
-    $posts = page('exhibitions')->children()->visible()->flip()->filter(function($child) {
-      return $child->date(null, 'start') < time();
+
+    $exhibitions = page('exhibitions')->children()->visible()->flip()->filter(function($child) {
+
+      if (kirby()->request()->params()->year()) {
+        $year = kirby()->request()->params()->year();
+      } else {
+        $year = date("Y");
+      };
+
+      return $child->date('Y', 'start') == $year && $child->date(null, 'start') < time();
     });
     ?>
 
+    <h3 class="heading-small m-b-2"><?php
+
+    if (kirby()->request()->params()->year()) {
+      $year = kirby()->request()->params()->year();
+    } else {
+      $year = date("Y");
+    };
+
+    echo $year ?></h3>
+      <ul class="list-unstyled">
+      <?php foreach ($exhibitions as $post): ?>
+        <li class="p-b-1">
+          <a href="<?php echo $post->url() ?>">
+            <?php snippet('exhibition-title', $data = array('exhibition' => $post)) ?><br>
+            <small class="date">
+              <?php echo $post->date('d F Y', 'start') ?> - <?php echo $post->date('d F Y', 'end') ?>
+            </small>
+          </a>
+        </li>
+      <?php endforeach; ?>
+      </ul>
+
     <ul class="list-inline">
-      <?php foreach ($posts->group('pageYear') as $year => $yearList): ?>
-        <li class="list-inline-item"><a href="#<?php echo $year ?>"><?php echo $year ?></a></li>
+      <?php foreach(page('exhibitions')->children()->visible()->flip()->group('pageYear') as $year => $yearList): ?>
+        <li class="list-inline-item <?php if($year == kirby()->request()->params()->year()): echo "font-weight-bold"; endif; ?>"><a href="/exhibitions/past/year:<?php echo $year ?>"><?php echo $year ?></a></li>
       <?php endforeach; ?>
     </ul>
-
-    <?php foreach ($posts->group('pageYear') as $year => $yearList): ?>
-      <h3 class="heading-small m-b-2" id="<?php echo $year ?>"><?php echo $year ?></h3>
-        <ul class="list-unstyled">
-        <?php foreach ($yearList as $post): ?>
-          <li class="p-b-1">
-            <a href="<?php echo $post->url() ?>">
-              <?php snippet('exhibition-title', $data = array('exhibition' => $post)) ?><br>
-              <small class="date">
-                <?php echo $post->date('d F Y', 'start') ?> - <?php echo $post->date('d F Y', 'end') ?>
-              </small>
-            </a>
-          </li>
-        <?php endforeach; ?>
-        </ul>
-    <?php endforeach; ?>
-
 
   </section>
   <section class="col-md-6">
