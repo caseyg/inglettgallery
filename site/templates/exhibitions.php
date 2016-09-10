@@ -28,7 +28,7 @@
     </ul>
   </section>
   <section class="col-md-8">
-    <h1><span class="text-uppercase"><?php echo $current->artists()->html() ?></span> <?php echo $current->title()->html() ?></h1>
+    <h1><span class="text-uppercase"><?php snippet('exhibition-title', $data = array('exhibition' => $current)) ?></h1>
     <?php echo $current->text()->kt() ?>
     <p>
       <a href="/artists"><i class="fa fa-chevron-left" aria-hidden="true"></i> Artists</a>

@@ -28,7 +28,7 @@
     </ul>
   </section>
   <section class="col-md-8">
-    <h1><?php echo $page->title()->html() ?></h1>
+    <h1><?php echo $page->first_name()->html() ?> <?php echo $page->last_name()->html() ?></h1>
     <p>
       <a href="/artists"><i class="fa fa-chevron-left" aria-hidden="true"></i> Artists</a>
     </p>
