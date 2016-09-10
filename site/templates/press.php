@@ -12,7 +12,7 @@
   </section>
   <section class="col-md-8">
     <h1><?php echo $page->title()->html() ?></h1>
-    <ul>
+    <ul class="list-unstyled">
       <?php foreach ($page->files()->flip() as $p): ?>
         <li><a href="<?php echo $p->url() ?>"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
       <?php endforeach; ?>
