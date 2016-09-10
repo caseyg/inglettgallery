@@ -13,7 +13,9 @@
     function pageYear($p) {
       return $p->date('Y', 'start'); // year, e.g. "2016"
     }
-    $posts = page('exhibitions')->children()->visible()->flip();
+    $posts = page('exhibitions')->children()->visible()->flip()->filter(function($child) {
+      return $child->date(null, 'start') < time();
+    });
     ?>
 
     <ul class="list-inline">
