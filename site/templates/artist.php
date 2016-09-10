@@ -10,10 +10,7 @@
   <figure class="col-xs-12">
     <img class="img-fluid" src="<?php echo thumb($featured_image, array('width' => 1110, 'height' => 800))->url() ?>" alt="<?php echo $featured_image->title() ?>" />
     <figcaption>
-      <?php if ($featured_image->image_title()): ?><?php echo $featured_image->image_title()->html() ?>,<?php endif ?>
-      <?php if ($featured_image->image_date()): ?><?php echo $featured_image->image_date() ?>,<?php endif ?>
-      <?php if ($featured_image->image_media()): ?><?php echo $featured_image->image_media()->html() ?>,<?php endif ?>
-      <?php if ($featured_image->image_dimensions()): ?><?php echo $featured_image->image_dimensions() ?>,<?php endif ?>
+      <?php snippet('caption', $data = array('image' => $featured_image))?>
     </figcaption>
   </figure>
   <?php endif ?>
