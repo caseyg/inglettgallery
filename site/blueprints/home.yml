@@ -1,0 +1,22 @@
+title: Home
+pages: false
+deletable: false
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true
+files: true
+  sortable: true
+  size: 5242880
+  fields:
+    exhibition:
+      label: Exhibition
+      type: multiselect
+      options: query
+      limit: 1
+      query:
+        page: exhibitions
+        value: '{{uid}}'
+        text: '{{title}} — (Artists: {{artists}} {{additional_artists}})'
+        flip: true
