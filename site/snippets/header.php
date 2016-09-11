@@ -25,7 +25,7 @@
         $first = $navPages->first();
         foreach($navPages as $p): ?>
           <li class="nav-item">
-            <a class="nav-link p-y-1 <?php e($p->isOpen(), ' active') ?><?php e($p == $first, ' p-l-1') ?>" href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
+            <a class="nav-link p-y-1 <?php e($p->isOpen(), ' font-weight-bold') ?><?php e($p == $first, ' p-l-1') ?>" href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
           </li>
         <?php endforeach ?>
         <li class="nav-item">
