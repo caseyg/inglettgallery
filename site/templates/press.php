@@ -4,7 +4,7 @@
   <section class="col-md-4">
     <?php $bio = $page->parent()->documents()->filterBy('filename', '*=', 'bio')->first(); ?>
     <ul class="list-unstyled">
-      <?php if ($bio->exists()): ?><li><a href="<?php echo $bio->url() ?>">Biography</a></li><?php endif; ?>
+      <?php if ($bio): ?><li><a href="<?php echo $bio->url() ?>">Biography</a></li><?php endif; ?>
       <li><a href="#">Publications</a></li>
         <?php if ($page->parent()->find('press')): ?><li><strong>Select Press</strong></li><?php endif; ?>
       <li><a href="#">Exhibition History</a></li>
