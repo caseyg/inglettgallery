@@ -2,8 +2,7 @@
 
 <div class="row">
   <section class="col-md-4">
-    <h3 class="heading-small m-b-2 font-weight-bold">Recent News</h3>
-    <h3 class="heading-small m-b-2">Filter by Artist</h3>
+    <h3 class="heading-small m-b-2">Recent News</h3>
     <ul class="list-unstyled">
       <?php foreach($pages->find('artists')->children() as $page): ?>
         <?php if ($page->find('news')->documents()->count() > 0): ?>
