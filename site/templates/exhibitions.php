@@ -42,9 +42,6 @@
     <?php else: ?>
       <h1>No Current Exhibitions</h1>
     <?php endif ?>
-    <p>
-      <a href="/artists"><i class="fa fa-chevron-left" aria-hidden="true"></i> Artists</a>
-    </p>
   </section>
 </div>
 
