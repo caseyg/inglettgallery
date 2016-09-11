@@ -1,13 +1,25 @@
 title: Publication
-pages: true
+pages: false
 files: true
+  sortable: true
   size: 5242880
 fields:
   pagelock:
     type: pagelock
   title:
-    label: Title
+    label: Publication Title
     type:  text
+    width: 1/2
+  artists:
+    label: Artists
+    type: multiselect
+    width: 1/2
+    options: query
+    query:
+      page: artists
+      value: '{{uid}}'
+      text: '{{title}}'
+      flip: true
   text:
     label: Text
     type:  textarea

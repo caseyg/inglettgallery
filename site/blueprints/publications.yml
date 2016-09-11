@@ -1,0 +1,14 @@
+title: Publications
+pages: true
+  template: publication
+  sort: flip
+  num:
+    mode: date
+    field: start
+deletable: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true
