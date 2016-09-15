@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: RW0159
+
+----
+
+Sort: 11
