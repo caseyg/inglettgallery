@@ -1,1 +1,29 @@
 Caption: 
+
+----
+
+Image-title: Untitled I
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Enamel, acrylic, canvas, paper, vinyl, aluminum on wood panel
+
+----
+
+Image-dimensions: 16 x 12 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: RW0077
