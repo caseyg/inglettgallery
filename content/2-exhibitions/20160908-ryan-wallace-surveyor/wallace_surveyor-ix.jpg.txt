@@ -26,4 +26,4 @@ Image-inventory-id: RW0170
 
 ----
 
-Sort: 10
+Sort: 9
