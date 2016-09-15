@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled (Surveyor) VIII
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Oil, enamel, acrylic, aluminum, paper, rubber, tape, silicone, polyester, canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 46 x 32 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RW0168
