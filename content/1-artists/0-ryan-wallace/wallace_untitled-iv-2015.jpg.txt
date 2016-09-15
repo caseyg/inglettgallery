@@ -1,1 +1,29 @@
 Caption: 
+
+----
+
+Image-title: Untitled IV
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Enamel, acrylic, cold wax, pigment, tape, paper, rubber, vinyl, aluminum, canvas on canvas
+
+----
+
+Image-dimensions: 30 x 24 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: RW0080
