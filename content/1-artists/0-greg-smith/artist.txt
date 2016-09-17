@@ -14,7 +14,7 @@ Last-name: Smith
 
 ----
 
-Featured-image: smith_installation-view-a.r..jpg
+Featured-image: smith_black-box-inkjet.jpg
 
 ----
 
