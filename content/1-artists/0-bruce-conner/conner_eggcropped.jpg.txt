@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: The Egg
 
 ----
 
-Image-date: 
+Image-date: 1959
 
 ----
 
-Image-media: 
+Image-media: Mixed media assemblage, including fabric, buttons, plastic doll, convex glass with brass frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 1/2 x 16 1/2 in. 2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BC0148
 
 ----
 
