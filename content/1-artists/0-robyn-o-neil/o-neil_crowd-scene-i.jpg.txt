@@ -19,3 +19,11 @@ Image-inventory-id: RO0084
 ----
 
 Sort: 1
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
