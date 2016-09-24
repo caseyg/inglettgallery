@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Untitled, March 30, 1996
 
 ----
 
-Image-date: 
+Image-date: 1996
 
 ----
 
-Image-media: 
+Image-media: Ink/ paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 26 x 13 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 33 x 20 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BC0110
 
 ----
 
