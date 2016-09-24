@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Bruce Connor for Supervisor
 
 ----
 
-Image-date: 
+Image-date: 1967
 
 ----
 
-Image-media: 
+Image-media: Screen print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 25.5 x 19.5 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BC0114
 
 ----
 
