@@ -19,3 +19,11 @@ Image-inventory-id: RO0019
 ----
 
 Sort: 2
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
