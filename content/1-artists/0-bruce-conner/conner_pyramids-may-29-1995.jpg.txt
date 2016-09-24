@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Pyramids May 29, 1995
 
 ----
 
-Image-date: 
+Image-date: 1995
 
 ----
 
-Image-media: 
+Image-media: Ink, pencil/paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 23 x 29 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BC0064
 
 ----
 
