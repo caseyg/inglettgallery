@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Superconner
 
 ----
 
-Image-date: 
+Image-date: 1967
 
 ----
 
-Image-media: 
+Image-media: Offset self-adhesive stickers, wood, metal
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 x 28 x 24.5 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BC0112
 
 ----
 
