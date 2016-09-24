@@ -14,7 +14,7 @@ Image-dimensions: 23 1/8 x 29 inch.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 26 1/2 x 31 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AA0007
 
 ----
 
