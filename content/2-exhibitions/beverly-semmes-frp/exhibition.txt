@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2014-02-06
 
 ----
 
-End: 
+End: 2014-03-15
 
 ----
 
-Artists: 
+Artists: beverly-semmes
 
 ----
 
@@ -27,6 +27,14 @@ Additional-artists:
 ----
 
 Text: 
+
+Susan Inglett Gallery is pleased to present FRP, an exhibition of drawings and sculpture by Beverly Semmes, from 6 February to 15 March 2014. A reception for the artist will be held Thursday evening 6 February, from 6 to 8 PM.
+
+The Feminist Responsibility Project (FRP) is a collection of images and objects produced by crude gestures and the application of ink and paint to defile pornography. Picture a committee of rogue censors responding to the stained, dog-eared pages of vintage erotica. Teasingly they blot out select passages of nudity while allowing others to slip through their fingers unmarked. In the end, these haphazard interventions serve better to direct rather than divert our attention from the naughty bits. This process of simultaneously suppressing and revealing content resembles Max Ernst's transformation of a children's primer into the "The Master Bedroom," where the artist uses thick layers of yellow gouache to transform ordinary images into an uncanny dreamscape. The clots and inky obstructions in Semmes’ drawings supply a sensual pleasure of their own; the artist’s mixed motives, both formal and conceptual, inject several layers of complexity to her “project.”
+
+FRP finds its way into the third dimension in Semmes’ equally enigmatic ceramic pots. The ceramics complement the drawings both visually in shape and palette, and conceptually as neither pot nor porn behave according to expectations. Creating anti-ceramics—pots that defy the conventions of the vessel—Semmes builds on the paradoxical nature of the FRP drawings, indulging in a sense of visceral, infantile pleasure, while denying the viewer’s fetishism of clay or for that matter, flesh.
+
+BEVERLY SEMMES was born in Washington, DC and lives and works in New York City. Semmes has had numerous solo museum shows including major exhibitions at the Museum of Contemporary Art, Chicago; the Hirshhorn Museum, Washington, D.C. and the Wexner Center for the Arts, Columbus, OH. Her work may be found in the collections of the Albright Knox Art Gallery, Buffalo, NY; the Hirshhorn Museum, Washington D.C.; the Whitney Museum of American Art, New York, NY; the Denver Art Museum, Denver; and the Los Angeles Museum of Contemporary Art, Los Angeles, among others.
 
 ----
 
