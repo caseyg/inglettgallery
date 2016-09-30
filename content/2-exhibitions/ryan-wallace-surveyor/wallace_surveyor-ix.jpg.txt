@@ -2,15 +2,15 @@ Image-title: Surveyor IX
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Enamel, acrylic, aluminum, rubber, paper, tape, polyester, canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 58 x 48 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RW0170
