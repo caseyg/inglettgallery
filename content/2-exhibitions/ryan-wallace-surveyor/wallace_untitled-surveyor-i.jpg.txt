@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled (Surveyor) I
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Oil, enamel, acrylic, aluminum, tape, denim, paper, linen, canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 40 x 30 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RW0152
