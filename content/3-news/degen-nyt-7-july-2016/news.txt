@@ -6,12 +6,20 @@ End:
 
 ----
 
-Artists: 
+Artists: benjamin-degen
 
 ----
 
-Text: 
+Text: "What to See in New York Art Galleries This Week," by Roberta Smith in ***The New York Times***
 
 ----
 
 Title: Degen NYT 7 July 2016
+
+----
+
+Date: 2016-07-07
+
+----
+
+Display-date: 
