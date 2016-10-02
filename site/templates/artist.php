@@ -1,19 +1,38 @@
 <?php snippet('header') ?>
 
-<div class="row">
-  <?php if ($page->featured_image()): ?>
-    <?php $featured_image = $page->image($page->featured_image()) ?>
-  <?php elseif($page->images()->first()): ?>
-    <?php $featured_image = $page->images()->first() ?>
-  <?php endif; ?>
-  <?php if($featured_image): ?>
-  <figure class="col-xs-12">
-    <img class="img-fluid" src="<?php echo thumb($featured_image, array('width' => 1110, 'height' => 800))->url() ?>" alt="<?php echo $featured_image->title() ?>" />
-    <figcaption>
-      <?php snippet('caption', $data = array('image' => $featured_image))?>
-    </figcaption>
-  </figure>
-  <?php endif ?>
+<div class="swiper-container m-b-2">
+  <div class="swiper-wrapper">
+    <?php
+    foreach($page->images() as $image):
+      $exhibition = $pages->find('exhibitions')->children()->find($image->exhibition()); ?>
+        <div class="swiper-slide" data-hash="<?php echo str::slug($image->name()) ?>">
+          <img data-src="<?php echo $image->resize(1110, 616)->url() ?>" class="swiper-lazy img-fluid m-b-1" width="<?php echo $image->resize(1110, 616)->width() ?>" height="<?php echo $image->resize(1110, 616)->height() ?>" alt="<?php snippet('caption', $data = array('image' => $image))?>">
+          <p><?php snippet('caption', $data = array('image' => $image))?></p>
+        </div>
+    <?php endforeach ?>
+  </div>
+
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>
+  <script>
+  var mySwiper = new Swiper ('.swiper-container', {
+    nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+    hashnav: true,
+    preloadImages: false,
+    lazyLoading: true,
+    lazyLoadingInPrevNext: true,
+    loop: true,
+    keyboardControl: true,
+    effect: 'fade',
+    fade: {
+      crossFade: true
+    }
+  })
+  </script>
+
 </div>
 
 <div class="row">
