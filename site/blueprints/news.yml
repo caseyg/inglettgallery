@@ -3,16 +3,25 @@ pages: false
 files: true
   type: document
   size: 5242880
-  sortable: true
-  fields:
-    text:
-      label: Text
-      type: textarea
+  max: 1
 fields:
-  pagelock:
-    type: pagelock
-  news_info:
-    label: Artist News
-    type: info
-    text: >
-      Drag PDF files here to add them to the artist's news section. Add formatted headlines for display by clicking into each upload in the [_Files_ section](files).
+  date:
+    label: Date
+    type:  date
+    width: 1/2
+  display_date:
+    label: Display Date (if applicable)
+    type:  text
+    width: 1/2
+  artists:
+    label: Artists
+    type: multiselect
+    options: query
+    query:
+      page: artists
+      value: '{{uid}}'
+      text: '{{title}}'
+      flip: true
+  text:
+    label: Text
+    type:  textarea

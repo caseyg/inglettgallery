@@ -48,3 +48,10 @@ nav, footer {
   padding-top: 100%;
   margin-bottom: 15px;
 }
+
+.news-item {
+  display: block;
+  p, strong, span, a {
+    display: inline;
+  }
+}

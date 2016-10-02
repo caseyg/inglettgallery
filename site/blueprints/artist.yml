@@ -1,19 +1,14 @@
 title: Artist
 pages: true
   sortable: false
-  max: 2
+  max: 1
   template:
     - press
-    - news
   build:
     - title: Press
       uid: press
       template: press
       num: 1
-    - title: News
-      uid: news
-      template: news
-      num: 2
 files: true
   sortable: true
   size: 5242880

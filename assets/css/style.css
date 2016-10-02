@@ -38,3 +38,8 @@ nav, footer {
   width: 100%;
   padding-top: 100%;
   margin-bottom: 15px; }
+
+.news-item {
+  display: block; }
+  .news-item p, .news-item strong, .news-item span, .news-item a {
+    display: inline; }

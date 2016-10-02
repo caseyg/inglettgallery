@@ -1,0 +1,14 @@
+title: News
+pages: true
+  template: news
+  sort: flip
+  num:
+    mode: date
+    field: start
+deletable: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true
