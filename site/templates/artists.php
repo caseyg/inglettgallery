@@ -40,7 +40,7 @@
   </section>
 
   <div class="col-md-8">
-    <figure id="featured-image" style="width:800px;max-width:100%;height:500px;background-color:#eee;background-size:fit;background-repeat:no-repeat;background-position:center;">
+    <figure id="featured-image" style="width:800px;max-width:100%;height:500px;background-size:fit;background-repeat:no-repeat;background-position:center;">
   </div>
 
 </div>
