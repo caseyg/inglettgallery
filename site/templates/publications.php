@@ -18,4 +18,9 @@
     <?php endif; ?>
   <?php endforeach; ?>
 </div>
+<div class="row">
+  <section class="col-xs-12">
+    <?php echo $page->text()->kt() ?>
+  </section>
+</div>
 <?php snippet('footer') ?>

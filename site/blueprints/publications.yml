@@ -12,3 +12,6 @@ fields:
     label: Title
     type:  text
     readonly: true
+  text:
+    label: Text
+    type: textarea
