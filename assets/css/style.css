@@ -9,6 +9,10 @@ strong, .font-weight-bold {
 a:link, a:visited {
   color: gray; }
 
+a:hover, a:active {
+  text-decoration: none;
+  opacity: .7; }
+
 nav, footer {
   font-size: 14px; }
 
