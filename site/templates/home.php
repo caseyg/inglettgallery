@@ -4,13 +4,19 @@
   <div class="swiper-wrapper">
     <?php foreach($page->images() as $image):
       $exhibition = $pages->find('exhibitions')->children()->find($image->exhibition()); ?>
-      <a class="swiper-slide" href="<?php echo $exhibition->url() ?>">
-        <img data-src="<?php echo $image->crop(1110, 616)->url() ?>" class="swiper-lazy" width="<?php echo $image->crop(1110, 616)->width() ?>" height="<?php echo $image->crop(1110, 616)->height() ?>" alt="">
-        <figcaption class="m-t-1">
-          <span class="m-r-1 text-uppercase"><?php snippet('exhibition-title', $data = array('exhibition' => $exhibition)) ?></span>
-          <span><?php echo $exhibition->date('d F Y', 'start') ?> - <?php echo $exhibition->date('d F Y', 'end') ?></span>
-        </figcaption>
-      </a>
+      <?php if ($exhibition != null): ?>
+        <a class="swiper-slide" href="<?php echo $exhibition->url() ?>">
+          <img data-src="<?php echo $image->crop(1110, 616)->url() ?>" class="swiper-lazy" width="<?php echo $image->crop(1110, 616)->width() ?>" height="<?php echo $image->crop(1110, 616)->height() ?>" alt="">
+          <figcaption class="m-t-1">
+            <span class="m-r-1 text-uppercase"><?php snippet('exhibition-title', $data = array('exhibition' => $exhibition)) ?></span>
+            <span><?php echo $exhibition->date('d F Y', 'start') ?> - <?php echo $exhibition->date('d F Y', 'end') ?></span>
+          </figcaption>
+        </a>
+      <?php else: ?>
+        <div class="swiper-slide">
+          <img data-src="<?php echo $image->crop(1110, 616)->url() ?>" class="swiper-lazy" width="<?php echo $image->crop(1110, 616)->width() ?>" height="<?php echo $image->crop(1110, 616)->height() ?>" alt="">
+        </div>
+      <?php endif; ?>
     <?php endforeach ?>
   </div>
 
