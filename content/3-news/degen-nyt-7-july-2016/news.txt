@@ -10,7 +10,7 @@ Artists: benjamin-degen
 
 ----
 
-Text: "What to See in New York Art Galleries This Week," by Roberta Smith in ***The New York Times***
+Text: "What to See in New York Art Galleries This Week," by Roberta Smith in *The New York Times*
 
 ----
 
