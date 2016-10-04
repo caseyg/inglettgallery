@@ -26,4 +26,4 @@ Image-inventory-id:
 
 ----
 
-Sort: 9
+Sort: 8
