@@ -1,4 +1,4 @@
-Date: 
+Date: 2016-10-08
 
 ----
 
@@ -10,7 +10,7 @@ Artists:
 
 ----
 
-Text: 
+Text: News test.
 
 ----
 
