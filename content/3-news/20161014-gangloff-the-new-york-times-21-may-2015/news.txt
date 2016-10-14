@@ -1,8 +1,8 @@
-Date: 
+Date: 2015-05-21
 
 ----
 
-Display-date: 
+Display-date: 21 May 2015
 
 ----
 
@@ -10,7 +10,7 @@ Artists:
 
 ----
 
-Text: 
+Text: "Review: Hope Gangloff at Susan Inglett Gallery," by Martha Schwendener in The New York Times, 21 May 2015
 
 ----
 
