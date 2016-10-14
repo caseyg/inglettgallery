@@ -2,15 +2,15 @@ Date:
 
 ----
 
-Display-date: 
+Display-date: 2013
 
 ----
 
-Artists: 
+Artists: greg-smith
 
 ----
 
-Text: 
+Text: Recipient of (link: http://www.gf.org/fellows/all-fellows/greg-smith/ text: Guggenheim Fellowship Award), 2013.
 
 ----
 
