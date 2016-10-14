@@ -10,7 +10,7 @@ Artists: robyn-o-neil
 
 ----
 
-Text: ACME., Los Angeles, CA, October 2016
+Text: (link: http://www.acmelosangeles.com/ text: ACME.), Los Angeles, CA, October 2016
 
 ----
 
