@@ -1,16 +1,16 @@
-Date: 
+Date: 2014-05-18
 
 ----
 
-Display-date: 
+Display-date: 18 May 2014
 
 ----
 
-Artists: 
+Artists: greg-smith
 
 ----
 
-Text: 
+Text: "Greg Smith's 11-Mintue Road Trip" by John Yau in Hyperallergic, 18 May 2014
 
 ----
 
