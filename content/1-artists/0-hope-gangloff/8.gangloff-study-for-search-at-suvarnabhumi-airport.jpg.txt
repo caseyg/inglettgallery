@@ -1,21 +1,29 @@
-Image-title: 
+Image-title: Study for Search at Suvarnabhumi Airport
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 36 x 24 in.
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0295
 
 ----
 
 Sort: 4
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
