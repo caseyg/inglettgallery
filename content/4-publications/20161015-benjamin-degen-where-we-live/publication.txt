@@ -12,9 +12,9 @@ Artists: benjamin-degen
 
 Text: 
 
-"Benjamin Degen: Where We Live"
+BENJAMIN DEGEN: WHERE WE LIVE 
 
-BENJAMIN DEGEN
+(link: http://ig-dev.caseyagollan.com/artists/benjamin-degen text: Benjamin Degen )
 
 2015
 Wrappers with tipped in image, offset, perfect bound
