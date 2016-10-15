@@ -1,21 +1,29 @@
-Image-title: 
+Image-title: Bodner/Caivano Chess Match
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 72 x 96 in.
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0300
 
 ----
 
 Sort: 2
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
