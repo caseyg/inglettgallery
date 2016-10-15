@@ -6,13 +6,15 @@ Title: Ryan Wallace: Slo Crostic
 
 ----
 
-Artists: ryan-wallace
+Artists: 
 
 ----
 
 Text: 
 
-RYAN WALLACE
+RYAN WALLACE: SLO CROSTIC
+
+(link: http://ig-dev.caseyagollan.com/artists/ryan-wallace text: Ryan Wallace)
 
 2014
 Wrappers with tipped in image, offset, perfect bound.
@@ -24,4 +26,4 @@ This catalogue accompanied the exhibition "Ryan Wallace: Slo Crostic" at Susan I
 
 $20 + S/H
 
-(link: https://issuu.com/inglettgallery/docs/wallace_catalogue_copy text: E-CATALOGUE)
+(link: https://issuu.com/inglettgallery/docs/wallace_catalogue_copy text: e-catalogue)
