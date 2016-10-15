@@ -12,6 +12,8 @@ Artists:
 
 Text: 
 
+"Body | Image"
+
 ERICA BAUM, ELLEN BERKENBLIT, ANNA BETBEZE, EMILY CLAYTON, MEREDYTH SPARKS, MAREN HASSINGER 
 
 2015
@@ -22,4 +24,4 @@ This catalogue accompanied the exhibition "Body | Image" at Susan Inglett Galler
 
 $20 + S/H
 
-(link: https://issuu.com/inglettgallery/docs/body_image_catalogue_issuu_draft_4 text: E-CATALOGUE )
+(link: https://issuu.com/inglettgallery/docs/body_image_catalogue_issuu_draft_4 text: e-catalogue)
