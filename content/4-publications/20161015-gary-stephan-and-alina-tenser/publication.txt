@@ -12,10 +12,9 @@ Artists:
 
 Text: 
 
-"Gary Stephan, Alina Tenser" 
-
 GARY STEPHAN, ALINA TENSER
 
+(link: http://ig-dev.caseyagollan.com/artists/gary-stephan text: Gary Stephan), (link: http://ig-dev.caseyagollan.com/artists/alina-tenser text: Alina Tenser)
 2016
 Wrappers with tipped in image, offset, perfect bound
 8 ½ x 8 ½ in. 48 pages, illustrated
