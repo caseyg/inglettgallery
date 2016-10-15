@@ -1,21 +1,29 @@
-Image-title: 
+Image-title: Search at Suvarnabhumi Airport
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 96 x 72 in.
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0294
 
 ----
 
 Sort: 3
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
