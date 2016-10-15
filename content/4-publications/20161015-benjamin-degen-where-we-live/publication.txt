@@ -12,6 +12,8 @@ Artists: benjamin-degen
 
 Text: 
 
+"Benjamin Degen: Where We Live"
+
 BENJAMIN DEGEN
 
 2015
@@ -23,4 +25,4 @@ This catalogue accompanied the exhibition "Benjamin Degen: Where We Live" at Sus
 
 SOLD OUT
 
-(link: https://issuu.com/inglettgallery/docs/benjamin_degen text: E-CATALOGUE)
+(link: https://issuu.com/inglettgallery/docs/benjamin_degen text: e-catalogue)
