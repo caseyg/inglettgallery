@@ -12,6 +12,8 @@ Artists: gary-stephan
 
 Text: 
 
+"Gary Stephan"
+
 GARY STEPHAN 
 
 2014
@@ -22,4 +24,4 @@ This catalogue accompanied the exhibition "Gary Stephan" at Susan Inglett Galler
 
 $20 + S/H
 
-(link: https://issuu.com/inglettgallery/docs/stephan_catalogue text: E-CATALOGUE )
+(link: https://issuu.com/inglettgallery/docs/stephan_catalogue text: e-catalogue)
