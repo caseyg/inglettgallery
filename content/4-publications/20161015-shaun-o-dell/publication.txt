@@ -6,13 +6,15 @@ Title: Shaun O'Dell: By Cloud
 
 ----
 
-Artists: shaun-o-dell
+Artists: 
 
 ----
 
 Text: 
 
-SHAUN O'DELL
+SHAUN O'DELL: BY CLOUD
+
+(link: http://ig-dev.caseyagollan.com/artists/shaun-o-dell text: Shaun O'Dell )
 
 2014
 Wrappers with tipped in image, offset,  perfect bound.
@@ -23,4 +25,4 @@ This catalogue accompanied the exhibition "Shaun O'Dell: By Cloud" at Susan Ingl
 
 $20 + S/H
 
-(link: https://issuu.com/inglettgallery/docs/o_dell_catalogue text: E-CATALOGUE)
+(link: https://issuu.com/inglettgallery/docs/o_dell_catalogue text: e-catalogue)
