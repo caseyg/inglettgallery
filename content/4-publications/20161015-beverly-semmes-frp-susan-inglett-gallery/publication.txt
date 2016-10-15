@@ -12,6 +12,8 @@ Artists: beverly-semmes
 
 Text: 
 
+"Beverly Semmes: FRP" 
+
 BEVERLY SEMMES 
 
 2014
@@ -22,4 +24,4 @@ This catalogue accompanied the exhibition "Beverly Semmes: FRP" at Susan Inglett
 
 $20 + S/H
 
-(link: https://issuu.com/inglettgallery/docs/semmes_catalogue_copy text: E-CATALOGUE)
+(link: https://issuu.com/inglettgallery/docs/semmes_catalogue_copy text: e-catalogue)
