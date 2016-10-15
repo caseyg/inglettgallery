@@ -6,11 +6,13 @@ Title: Gary Stephan and Alina Tenser
 
 ----
 
-Artists: gary-stephan, alina-tenser
+Artists: 
 
 ----
 
 Text: 
+
+"Gary Stephan, Alina Tenser" 
 
 GARY STEPHAN, ALINA TENSER
 
@@ -24,4 +26,4 @@ This catalogue accompanied the exhibition "Gary Stephan, Alina Tenser" at Susan 
 
 SOLD OUT
 
-(link: https://issuu.com/inglettgallery/docs/stephan_tenser/1?e=9326952/30000297 text: E-CATALOGUE)
+(link: https://issuu.com/inglettgallery/docs/stephan_tenser/1?e=9326952/30000297 text: e-catalogue)
