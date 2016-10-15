@@ -12,9 +12,9 @@ Artists:
 
 Text: 
 
-"Greg Smith: Zero Width Non-Joiner"
+GREG SMITH: ZERO WIDTH NON-JOINER
 
-GREG SMITH 
+(link: http://ig-dev.caseyagollan.com/artists/greg-smith text: Greg Smith) 
 
 2016
 Wrappers with tipped in image, offset,  perfect bound.
