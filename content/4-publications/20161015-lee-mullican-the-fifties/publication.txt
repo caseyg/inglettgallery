@@ -6,13 +6,15 @@ Title: Lee Mullican: The Fifties
 
 ----
 
-Artists: lee-mullican
+Artists: 
 
 ----
 
 Text: 
 
-LEE MULLICAN
+LEE MULLICAN: THE FIFTIES 
+
+(link: http://ig-dev.caseyagollan.com/artists/lee-mullican text: Lee Mullican)
 
 2016
 Wrappers with tipped in image, offset, perfect bound
@@ -24,4 +26,4 @@ This catalogue accompanied the exhibition " Lee Mullican: The Fifties" at Susan 
 
 $20+ S/H
 
-(link: https://issuu.com/inglettgallery/docs/lee_mullican text: E-CATALOGUE)
+(link: https://issuu.com/inglettgallery/docs/lee_mullican text: e-catalogue)
