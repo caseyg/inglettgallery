@@ -1,21 +1,29 @@
-Image-title: 
+Image-title: Stahl at Kennedy
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic and cut paper on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 82 x 54 in.
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0298
 
 ----
 
 Sort: 1
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
