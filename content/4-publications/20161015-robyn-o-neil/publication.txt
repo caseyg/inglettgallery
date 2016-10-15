@@ -6,13 +6,15 @@ Title: Robyn O'Neil: I Burned Waves
 
 ----
 
-Artists: robyn-o-neil
+Artists: 
 
 ----
 
 Text: 
 
-ROBYN O’NEIL
+ROBYN O’NEIL: I BURNED WAVES 
+
+(link: http://ig-dev.caseyagollan.com/artists/robyn-o-neil text: Robyn O'Neil )
 
 2014
 Wrappers with tipped in image, offset, perfect bound.
@@ -24,4 +26,4 @@ This catalogue accompanied the exhibition "Robyn O'Neil: I Burned Waves" at Susa
 
 SOLD OUT
 
-(link: https://issuu.com/inglettgallery/docs/oneil_catalogue_2 text: E-CATALOGUE)
+(link: https://issuu.com/inglettgallery/docs/oneil_catalogue_2 text: e-catalogue)
