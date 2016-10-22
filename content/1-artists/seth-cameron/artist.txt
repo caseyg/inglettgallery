@@ -6,11 +6,11 @@ Title: Seth Cameron
 
 ----
 
-First-name: 
+First-name: Seth
 
 ----
 
-Last-name: 
+Last-name: Cameron
 
 ----
 
@@ -22,4 +22,4 @@ Text:
 
 ----
 
-Status: 
+Status: exhibited
