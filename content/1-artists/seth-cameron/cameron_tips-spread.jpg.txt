@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Tips (Spread)
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Oil on panel in sun-stained oak artist's frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 13 x 11 1/4 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 14 1/8 x 12 3/8 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SC0002
