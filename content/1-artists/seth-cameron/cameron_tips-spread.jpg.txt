@@ -26,4 +26,4 @@ Image-inventory-id: SC0002
 
 ----
 
-Sort: 12
+Sort: 3
