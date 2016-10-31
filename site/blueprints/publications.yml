@@ -1,10 +1,7 @@
 title: Publications
 pages: true
   template: publication
-  sort: flip
-  num:
-    mode: date
-    field: start
+  num: zero
 deletable: false
 files: false
 fields:
