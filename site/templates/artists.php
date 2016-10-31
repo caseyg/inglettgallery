@@ -7,7 +7,7 @@
   $exhibited = $page->children()->filterBy('Status', 'exhibited')->sortBy('last_name', 'asc');
   ?>
 
-  <section class="col-md-2">
+  <section class="col-xs-6 col-md-3 col-lg-2">
     <h3 class="heading-small m-b-2">Artists Represented</h3>
     <ul class="list-unstyled artists-list">
       <?php foreach($represented as $p): ?>
@@ -23,7 +23,7 @@
     </ul>
   </section>
 
-  <section class="col-md-2">
+  <section class="col-xs-6 col-md-3 col-lg-2">
     <h3 class="heading-small m-b-2">Artists Exhibited</h3>
     <ul class="list-unstyled artists-list">
       <?php foreach($exhibited as $p): ?>
@@ -39,7 +39,7 @@
     </ul>
   </section>
 
-  <div class="col-md-8">
+  <div class="hidden-sm-down col-md-6 col-lg-8">
     <figure id="featured-image" style="width:800px;max-width:100%;height:500px;background-size:fit;background-repeat:no-repeat;background-position:center;">
   </div>
 
