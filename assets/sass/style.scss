@@ -86,6 +86,13 @@ nav, footer {
   }
 }
 
+.slider--home {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
 .slider figure {
   @include aspect-ratio(1110, 616);
   background-repeat: no-repeat;
