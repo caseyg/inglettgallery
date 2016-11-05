@@ -17,8 +17,9 @@ return function($site, $pages, $page) {
             [
                 '_action' => 'email',
                 'to'      => 'casey@bullshit.systems',
-                'sender'  => 'casey@bullshit.systems',
-                'subject' => 'New message from the contact form'
+                'sender'  => 'info@inglettgallery.com',
+                'subject' => '[Mailing List] New signup: {first_name} {last_name}',
+                'snippet' => 'uniform-email-table'
             ]
         ]
     ]);
