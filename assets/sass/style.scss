@@ -99,3 +99,11 @@ nav, footer {
   background-position: center;
   background-size: contain;
 }
+
+// Kirby Uniform https://github.com/mzur/kirby-uniform
+
+.uniform__potty {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+}
