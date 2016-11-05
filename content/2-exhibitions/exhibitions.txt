@@ -1,1 +1,5 @@
 Title: Exhibitions
+
+----
+
+Text: Test message for when there is no current exhibition.
