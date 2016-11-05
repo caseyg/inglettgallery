@@ -8,7 +8,7 @@
     <?php $bio = $page->documents()->filterBy('filename', '*=', 'bio')->first(); ?>
     <ul class="list-unstyled">
       <?php if ($bio): ?><li><a href="<?php echo $bio->url() ?>">Biography</a></li><?php endif; ?>
-      <li><a href="#">Publications</a></li>
+      <?php if ($site->find('publications')->children()->visible()->filterBy('artists',$page->slug())->count() > 0): ?><li><a href="/publications/artist:<?php echo $page->slug() ?>">Publications</a></li><?php endif ?>
         <?php if ($page->children()->find('press')->files()->count() > 0): ?><li><a href="<?php echo $page->children()->find('press')->url() ?>">Select Press</a></li><?php endif; ?>
       <li><a href="#">Exhibition History</a></li>
     </ul>
