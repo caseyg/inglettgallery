@@ -10,7 +10,7 @@ Test message for when there is no current exhibition.
 
 ----
 
-Current: 
+Current: ryan-wallace-surveyor
 
 ----
 
