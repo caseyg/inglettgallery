@@ -78,37 +78,37 @@
       <legend>Check all that apply</legend>
       <div class="form-check">
         <label class="form-check-label">
-          <input class="form-check-input" type="checkbox" value="Art Enthusiast">
+          <input class="form-check-input" type="checkbox" name="art_enthusiast" id="art_enthusiast" <?php e($form->value('art_enthusiast'), ' checked')?>>
           Art Enthusiast
         </label>
       </div>
       <div class="form-check">
         <label class="form-check-label">
-          <input class="form-check-input" type="checkbox" value="Artist">
+          <input class="form-check-input" type="checkbox" name="artist" id="artist" <?php e($form->value('artist'), ' checked')?>>
           Artist
         </label>
       </div>
       <div class="form-check">
         <label class="form-check-label">
-          <input class="form-check-input" type="checkbox" value="Collector">
+          <input class="form-check-input" type="checkbox" name="collector" id="collector" <?php e($form->value('collector'), ' checked')?>>
           Collector
         </label>
       </div>
       <div class="form-check">
         <label class="form-check-label">
-          <input class="form-check-input" type="checkbox" value="Curator">
+          <input class="form-check-input" type="checkbox" name="curator" id="curator" <?php e($form->value('curator'), ' checked')?>>
           Curator
         </label>
       </div>
       <div class="form-check">
         <label class="form-check-label">
-          <input class="form-check-input" type="checkbox" value="Dealer">
+          <input class="form-check-input" type="checkbox" name="dealer" id="dealer" <?php e($form->value('dealer'), ' checked')?>>
           Dealer
         </label>
       </div>
       <div class="form-check">
         <label class="form-check-label">
-          <input class="form-check-input" type="checkbox" value="Press">
+          <input class="form-check-input" type="checkbox" name="press" id="press" <?php e($form->value('press'), ' checked')?>>
           Press
         </label>
       </div>
