@@ -5,9 +5,9 @@
     <h3 class="heading-small m-b-2"><a href="/news">Recent News</a></h3>
     <ul class="list-unstyled artists-list">
       <?php
-      $artists = $page->children()->groupBy('artists');
+      $artists = $page->children()->visible()->groupBy('artists');
       foreach($artists as $artist => $items):
-      $artist = $pages->find('artists')->children()->find($artist); ?>
+      $artist = $pages->find('artists')->children()->visible()->find($artist); ?>
         <li><a <?php if (kirby()->request()->params()->artist() == $artist->slug()): ?>class="font-weight-bold"<?php endif; ?> href="/news/artist:<?php echo $artist->slug() ?>"><?php echo $artist->first_name() . " " . $artist->last_name() ?></a></li>
       <?php endforeach ?>
     </ul>
@@ -15,7 +15,7 @@
   <section class="col-md-8">
     <ul class="list-unstyled">
       <?php if (kirby()->request()->params()->artist()):
-        $newses = $page->children()->filterBy('artists', kirby()->request()->params()->artist());
+        $newses = $page->children()->visible()->filterBy('artists', kirby()->request()->params()->artist());
       else:
         $newses = $page->children()->limit(20);
       endif; ?>
@@ -30,7 +30,7 @@
           </strong>
           <span>—</span>
           <?php if ($news->artists()->isNotEmpty()):
-            $artist = $pages->find('artists')->children()->find($news->artists()->first()); ?>
+            $artist = $pages->find('artists')->children()->visible()->find($news->artists()->first()); ?>
             <a href="/artists/<?php echo $artist->slug() ?>"><?php echo $artist->first_name() . " " . $artist->last_name() ?></a>
           <?php endif; ?>
           <?php echo $news->text()->kt() ?>
