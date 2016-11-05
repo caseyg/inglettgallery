@@ -15,9 +15,9 @@
   <section class="col-md-8">
     <ul class="list-unstyled">
       <?php if (kirby()->request()->params()->artist()):
-        $newses = $page->children()->visible()->filterBy('artists', kirby()->request()->params()->artist());
+        $newses = $page->children()->visible()->filterBy('artists', kirby()->request()->params()->artist())->flip();
       else:
-        $newses = $page->children()->limit(20);
+        $newses = $page->children()->visible()->flip()->limit(20);
       endif; ?>
       <?php foreach($newses as $news): ?>
         <li class="news-item m-b-2">
