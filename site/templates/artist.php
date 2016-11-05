@@ -9,7 +9,7 @@
 <hr>
 <section id="biography" class="row">
   <div class="col-md-3">
-    Biography<br>
+    <h2 class="heading-small">Biography</h2>
     <small><a href="<?php echo $bio->url() ?>">Download full bio as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small>
   </div>
   <div class="col-md-9">
@@ -22,7 +22,7 @@
   <hr>
   <section id="exhibition-history" class="row">
     <div class="col-md-3">
-      Exhibition History
+      <h2 class="heading-small">Exhibition History
     </div>
     <div class="col-md-9">
       <ul class="list-unstyled row">
@@ -48,7 +48,7 @@
   <hr>
   <section id="publications" class="row">
     <div class="col-md-3">
-      Publications
+      <h2 class="heading-small">Publications</h2>
     </div>
     <div class="col-md-9">
       <ul class="list-unstyled row">
@@ -74,12 +74,12 @@
   <hr>
   <section id="press" class="row">
     <div class="col-md-3">
-      Select Press
+      <h2 class="heading-small">Select Press</h2>
     </div>
-    <div class="col-md-9" style="column-count: 3;">
+    <div class="col-md-9" style="column-count: 2;">
       <ol class="list-unstyled">
         <?php foreach ($page->children()->find('press')->files()->flip() as $p): ?>
-          <li><a href="<?php echo $p->url() ?>"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; <?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
+          <li><a href="<?php echo $p->url() ?>" class="d-block"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; <?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
         <?php endforeach ?>
       </ol>
     </div>
