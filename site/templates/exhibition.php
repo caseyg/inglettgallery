@@ -1,16 +1,20 @@
 <?php snippet('header') ?>
 
-<div class="row">
-  <?php $featured_image = $page->images()->first() ?>
-  <?php if($featured_image): ?>
-  <figure class="col-xs-12">
-    <img class="img-fluid" src="<?php echo thumb($featured_image, array('width' => 1110, 'height' => 800))->url() ?>" alt="<?php echo $featured_image->title() ?>" />
-    <figcaption>
-      <?php snippet('caption', $data = array('image' => $featured_image))?>
-    </figcaption>
-  </figure>
-  <?php endif ?>
-</div>
+  <?php if ($page->images()->count() > 1): ?>
+    <?php snippet('slider') ?>
+  <?php else: ?>
+    <div class="row">
+      <?php $featured_image = $page->images()->first() ?>
+      <?php if($featured_image): ?>
+      <figure class="col-xs-12">
+        <img class="img-fluid" src="<?php echo thumb($featured_image, array('width' => 1110, 'height' => 800))->url() ?>" alt="<?php echo $featured_image->title() ?>" />
+        <figcaption>
+          <?php snippet('caption', $data = array('image' => $featured_image))?>
+        </figcaption>
+      </figure>
+      <?php endif ?>
+    </div>
+  <?php endif; ?>
 
 <div class="row">
   <section class="col-md-4">
