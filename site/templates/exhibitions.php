@@ -20,7 +20,7 @@
 
 <div class="row">
   <section class="col-md-4">
-    <h3 class="heading-small m-b-2">Exhibitions</h3>
+    <h3 class="heading-small">Exhibitions</h3>
     <ul class="list-unstyled list-inline text-uppercase">
       <li class="list-inline-item"><strong>Current</strong></li>
       <li class="list-inline-item"><a href="/exhibitions/past">Past</a></li>
