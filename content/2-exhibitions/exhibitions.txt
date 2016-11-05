@@ -11,3 +11,11 @@ Test message for when there is no current exhibition.
 ----
 
 Current-exhibition: ryan-wallace-surveyor
+
+----
+
+Current: ryan-wallace-surveyor
+
+----
+
+Upcoming: 
