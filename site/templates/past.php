@@ -2,7 +2,7 @@
 
 <div class="row">
   <section class="col-md-6">
-    <h3 class="heading-small m-b-2">Exhibitions</h3>
+    <h3 class="heading-small">Exhibitions</h3>
     <ul class="list-unstyled list-inline text-uppercase">
       <li class="list-inline-item"><a href="/exhibitions">Current</a></li>
       <li class="list-inline-item"><strong>Past</strong></a></li>

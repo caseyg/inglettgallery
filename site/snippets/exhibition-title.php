@@ -23,6 +23,6 @@ if ($exhibition->untitled()->isFalse()) { // if display title is set to false
     echo $artist;
   }
 } else {
-  echo $exhibition->title()->html(); //otherwise show exhibition title
+  echo $exhibition->title()->widont(); //otherwise show exhibition title
 }
 ?>

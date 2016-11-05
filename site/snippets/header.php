@@ -16,7 +16,7 @@
 </head>
 <body>
 
-<header class="container text-uppercase p-t-2 m-b-3">
+<header class="container text-uppercase p-t-2 m-b-2">
   <div class="row">
     <h2 class="col-md-5"><a href="/" class="logo"><span class="logo-susan-inglett">Susan Inglett</span> <span class="logo-gallery">Gallery</span></a></h2>
     <nav>
