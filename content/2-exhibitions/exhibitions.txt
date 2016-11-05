@@ -1,1 +1,17 @@
 Title: Exhibitions
+
+----
+
+Text: 
+
+# No current exhibition
+
+Test message for when there is no current exhibition.
+
+----
+
+Current: ryan-wallace-surveyor
+
+----
+
+Upcoming: 

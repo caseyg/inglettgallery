@@ -10,5 +10,9 @@
     <?php echo $page->text()->kt() ?>
   </section>
 </div>
+<hr>
+<section class="row back">
+  <a class="col-xs-12" href="/publications"><i class="fa fa-chevron-left" aria-hidden="true"></i> Publications</a>
+</section>
 
 <?php snippet('footer') ?>

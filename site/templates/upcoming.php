@@ -10,7 +10,7 @@
 <div class="row">
   <section class="col-md-6">
     <h3 class="heading-small">Exhibitions</h3>
-    <ul class="list-unstyled list-inline text-uppercase">
+    <ul class="list-unstyled list-inline">
       <li class="list-inline-item"><a href="/exhibitions">Current</a></li>
       <li class="list-inline-item"><a href="/exhibitions/past">Past</a></li>
       <li class="list-inline-item"><strong>Upcoming</strong></li>
@@ -23,8 +23,6 @@
       <small class="date"><?php echo $p->date('d F Y', 'start') ?> - <?php echo $p->date('d F Y', 'end') ?></small>
     <?php endforeach; ?>
 
-  </section>
-  <section class="col-md-6">
   </section>
 </div>
 

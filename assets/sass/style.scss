@@ -10,6 +10,13 @@ strong, .font-weight-bold {
 
 a:link, a:visited {
   color: gray;
+  border-bottom: 1px solid lightgray;
+}
+
+ul, ol, nav, header, h1, h2, h3, h4, h5, h6, .slider, .slider--home, .back {
+  a:link, a:visited {
+    border-bottom: none;
+  }
 }
 
 a:hover, a:active {

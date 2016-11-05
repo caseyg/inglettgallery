@@ -87,7 +87,7 @@
 <?php endif ?>
 
 <hr>
-<div class="row">
+<div class="row back">
   <a href="/artists" class="col-xs-12"><i class="fa fa-chevron-left" aria-hidden="true"></i> Artists</a>
 </div>
 
