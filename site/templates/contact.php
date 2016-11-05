@@ -17,10 +17,10 @@
     <?php echo $page->fax()->html() ?> fax<br>
     <a href="mailto:<?php echo $pages->find('contact')->email()->html() ?>"><?php echo $pages->find('contact')->email()->html() ?></a></p>
 
-    <p><?php echo $page->hours()->kt() ?></p>
+    <p class="m-t-1 d-inline-block"><?php echo $page->hours()->kt() ?></p>
 
     <p>
-      <a href="<?php echo $page->map_link() ?>"><i class="fa fa-map-pin" aria-hidden="true"></i> View Map</a><br>
+      <a href="<?php echo $page->map_link() ?>" class="d-inline-block m-b-1 m-t-2"><i class="fa fa-map-pin" aria-hidden="true"></i> View Map</a><br>
       <a href="/mailing-list"><i class="fa fa-envelope-o" aria-hidden="true"></i> Join Our Mailing List</a>
     </p>
   </section>

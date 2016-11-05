@@ -12,3 +12,34 @@ fields:
     label: Title
     type:  text
     readonly: true
+  text:
+    label: Text
+    type: textarea
+    help: This message will only be displayed if there is no current exhibition.
+  current:
+    label: Current Exhibition
+    type: select
+    options: query
+    query:
+      page: exhibitions
+      value: '{{uid}}'
+      text: '{{title}}'
+      flip: true
+  upcoming:
+    label: Upcoming Exhibitions
+    type: structure
+    fields:
+      title:
+        label: Title
+        type: text
+      start:
+        label: Start Date
+        type: date
+        width: 1/2
+      end:
+        label: End Date
+        type: date
+        width: 1/2
+      link:
+        label: Link
+        type: url

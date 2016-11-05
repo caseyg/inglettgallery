@@ -120,4 +120,9 @@
     <button type="submit" class="btn btn-primary btn-secondary" name="_submit" value="<?php echo $form->token() ?>"<?php e($form->successful(), ' disabled')?>>Submit</button>
   </form>
 </div>
+<hr>
+<section class="row back">
+  <a class="col-xs-12" href="/contact"><i class="fa fa-chevron-left" aria-hidden="true"></i> Contact</a>
+</section>
+
 <?php snippet('footer') ?>
