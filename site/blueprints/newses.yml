@@ -1,10 +1,10 @@
 title: News
 pages: true
   template: news
-  sort: flip
+  sort: date desc
   num:
     mode: date
-    field: start
+    field: date
 deletable: false
 files: false
 fields:
