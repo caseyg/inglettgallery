@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<div class="swiper-container">
+<div class="slider--home swiper-container">
   <div class="swiper-wrapper">
     <?php foreach($page->images() as $image):
       $exhibition = $pages->find('exhibitions')->children()->find($image->exhibition()); ?>
