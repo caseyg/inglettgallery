@@ -1,12 +1,22 @@
 <?php snippet('header') ?>
 
+<?php
+
+if (kirby()->request()->params()->artist()):
+  $publications = $page->children()->visible()->filterBy('artists', '!=', '')->filterBy('artists', kirby()->request()->params()->artist());
+else:
+  $publications = $page->children()->visible();
+endif;
+
+ ?>
+
 <div class="row">
   <section class="col-xs-12">
     <h3 class="heading-small m-b-2">Publications</h3>
   </section>
 </div>
 <div class="row">
-  <?php foreach ($page->children() as $publication): ?>
+  <?php foreach ($publications as $publication): ?>
     <?php if ($publication->hasImages()): ?>
       <div class="col-xs-6 col-sm-4 col-md-3">
         <a class="text-hide publication-link" href="<?php echo $publication->url() ?>" style="background-image:url('<?php echo $publication->images()->first()->resize(255, 255)->url() ?>')" alt="<?php echo $publication->title() ?>"><?php echo $publication->title() ?></a>
