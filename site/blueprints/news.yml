@@ -15,6 +15,7 @@ fields:
     width: 1/2
   artists:
     label: Artists
+    required: true
     type: multiselect
     options: query
     query:
