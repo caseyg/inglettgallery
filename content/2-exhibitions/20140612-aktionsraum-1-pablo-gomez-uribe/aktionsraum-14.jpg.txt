@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Eva Madelung "Körperbemalung"
 
 ----
 
-Image-date: 
+Image-date: 15 - 18 July 1970
 
 ----
 
-Image-media: 
+Image-media: Poster: Text announcing action to deface life-size human photographs reads: "Sie können bemalen beschmieren begreifen missverstehen gestalten verunstalten."
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT014
 
 ----
 
