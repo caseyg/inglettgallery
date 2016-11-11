@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Plane und Projekte Als Kunst/Plans and Projects as Art
 
 ----
 
-Image-date: 
+Image-date: 19 November - 14 December 1969.
 
 ----
 
-Image-media: 
+Image-media: Exhibition poster. Red and blue silkscreen printed on white paper. Date change addition in red felt pen. [Artists included: G. Alviani, G. Anselmo, J. Bark, M. Boezem, B. Bollinger, S. Brouwn, J-L. Byars, A. Dias, J. Dupuy, U. Luthi, P. Glass, J.A. Kaplan, M. Raetz, A. Ruppersberg, J.-F. Schnyder, B. Venet and others]. Text in German.
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 33 7/8 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT017
 
 ----
 
