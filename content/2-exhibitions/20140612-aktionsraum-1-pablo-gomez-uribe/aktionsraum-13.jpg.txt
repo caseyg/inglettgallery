@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Bernhard Höke "INDOGERMAN TRIP LTD"
 
 ----
 
-Image-date: 
+Image-date: 14 and 15 November 1969
 
 ----
 
-Image-media: 
+Image-media: Poster
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT013
 
 ----
 
