@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Günter Brus "Zerreißprobe"
 
 ----
 
-Image-date: 
+Image-date: 19 June 1970
 
 ----
 
-Image-media: 
+Image-media: Poster: Photograph documenting the action held at Monaco di Baviera.
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT015
 
 ----
 
