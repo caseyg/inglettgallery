@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2016-10-20
 
 ----
 
-End: 
+End: 2016-12-03
 
 ----
 
-Artists: 
+Artists: eric-fertman
 
 ----
 
@@ -27,6 +27,16 @@ Additional-artists:
 ----
 
 Text: 
+
+Susan Inglett Gallery is pleased to present the recent work of Eric Fertman in his fifth solo exhibition with the Gallery from 20 October through 3 December 2016. Concurrently the Gallery will be exhibiting new paintings by Seth Cameron, “Suns,” his first solo appearance in NYC. A reception for the artists will be held Thursday evening 20 October from 6 to 8 PM.
+
+Slashes of bright metal dance through space with the grace and charm of a teenage boy. “Arms” and “legs” akimbo, it is easy to forget that these simple lines and shapes are just that, hard edge geometries grounded in the rational sciences. Fertman has deployed these ciphers frequently over the past decade, always carved from wood. In his new body of work, their rawness is translated perversely to steel and fine metals. Perversity is Fertman’s stock in trade, trafficking always in the unexpected, whether it’s materials that misbehave or images that behave outside our expectations or just our imaginations. Not since Matt Mullican has a stick figure evoked such empathy, such humanity. Eric Fertman masters hard edge abstraction with an edge.
+
+Eric Fertman was born in 1974 in Boston, MA. He received a BFA from The Cooper Union School of Art and Science and has exhibited nationally, with solo shows at Southeastern Center for Contemporary Art (SECCA) in Winston-Salem, NC; The Kemper Museum in Kansas City, MO and in a two-person presentation at Time Equities, Inc., NYC for The Art-in-Buildings Program. Reviews of his work have appeared in Artforum, The New York Times and Sculpture Magazine among others.
+
+The exhibitions will be on view at the gallery located at 522 West 24 Street Tuesday to Saturday 10 AM to 6 PM. For additional information please contact Susan Inglett Gallery at 212 647 9111, fax 212 647 9333 or info@inglettgallery.com
+
+Join the conversation with Susan Inglett Gallery, Eric Fertman and Seth Cameron on Instagram (@SusanInglettGallery), Facebook (@SusanInglettGallery), Twitter (@inglettgallery) and via the hashtags #SusanInglettGallery #EricFertman and #SethCameron
 
 ----
 
