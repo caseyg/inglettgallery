@@ -1,21 +1,29 @@
-Image-title: 
+Image-title: Air
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Oil, acrylic, modeling paste and pencil/canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 48 x 48 in.
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AM0042
 
 ----
 
 Sort: 10
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
