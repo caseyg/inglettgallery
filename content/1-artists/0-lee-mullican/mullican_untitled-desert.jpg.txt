@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Untitled (Desert)
 
 ----
 
-Image-date: 
+Image-date: 1956
 
 ----
 
-Image-media: 
+Image-media: Oil on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 50 x 30 1/8 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 53 1/4 x 33 1/2 in. Framed
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: (LM0004)
