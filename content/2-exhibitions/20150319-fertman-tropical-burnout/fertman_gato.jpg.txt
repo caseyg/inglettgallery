@@ -1,1 +1,29 @@
 Sort: 9
+
+----
+
+Image-title: Gato
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Ash, oak, rubber, stain, steel
+
+----
+
+Image-dimensions: 23 x 37 1/2 x 10 in
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: EF0212
