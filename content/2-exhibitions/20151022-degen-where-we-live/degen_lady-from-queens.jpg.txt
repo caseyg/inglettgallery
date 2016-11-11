@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Lady from Queens
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Oil stick and acrylic on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 40 x 26 in. Sheet
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 42 1/2 x 28 1/2 x 2 1/4 in. Framed
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BD0091
