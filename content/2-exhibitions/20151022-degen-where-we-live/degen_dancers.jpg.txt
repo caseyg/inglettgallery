@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Dancers
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Oil on linen over panel
 
 ----
 
@@ -14,7 +14,7 @@ Image-dimensions:
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 72 x 48 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BD0101
