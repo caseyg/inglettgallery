@@ -10,15 +10,15 @@ Untitled: true
 
 ----
 
-Start: 
+Start: 2016-10-20
 
 ----
 
-End: 
+End: 2016-12-03
 
 ----
 
-Artists: 
+Artists: seth-cameron
 
 ----
 
