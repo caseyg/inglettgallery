@@ -1,1 +1,29 @@
 Sort: 8
+
+----
+
+Image-title: F Bird
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Ash, silk flower, stainless steel
+
+----
+
+Image-dimensions: 16 1/2 x 16 1/2 x 12 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: (EF0203)
