@@ -1,21 +1,29 @@
-Image-title: 
+Image-title: Both
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Oil, acrylic, wax pastel and pencil on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 30 x 28 in.
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AM0066
 
 ----
 
 Sort: 7
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
