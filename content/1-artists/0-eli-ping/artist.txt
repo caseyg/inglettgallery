@@ -14,7 +14,7 @@ Last-name: Ping
 
 ----
 
-Featured-image: 
+Featured-image: ping_descent.jpg
 
 ----
 
