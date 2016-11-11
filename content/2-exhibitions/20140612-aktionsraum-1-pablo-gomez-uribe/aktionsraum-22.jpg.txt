@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Anthony Scott "The Longest Most Meaningless Movie in the World"
 
 ----
 
-Image-date: 
+Image-date: 22 October 1970
 
 ----
 
-Image-media: 
+Image-media: Film Screening Poster
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: (AKT022)
 
 ----
 
