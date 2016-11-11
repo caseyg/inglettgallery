@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Fifi X
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Ash, shellac and oil over metal leaf
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 38 1/2 x 11 1/2 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: (EF0214)
