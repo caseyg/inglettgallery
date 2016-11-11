@@ -1,1 +1,29 @@
 Sort: 3
+
+----
+
+Image-title: Appetite
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Ash, steel, stain
+
+----
+
+Image-dimensions: 72 x 17 x 5 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: (EF0210)
