@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Günter Brus
 
 ----
 
-Image-date: 
+Image-date: 19 June 1970
 
 ----
 
-Image-media: 
+Image-media: Poster folded, printed on recto and verso. Verso depicts a photograph of the action "Zerreißprobe" by Günter Brus 19 June 1970, title in purple. On the recto 6 photographs illustrate various other actions. Poster published to announce the book "Aktionsraum 1 oder 57 Blindenhunde."
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 23 3/4 x 16 1/2 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT001
 
 ----
 
