@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled
 
 ----
 
-Image-date: 
+Image-date: 1965
 
 ----
 
-Image-media: 
+Image-media: Painted wood
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 66 x 4 x 5 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: (LM0014)
