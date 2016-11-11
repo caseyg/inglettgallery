@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: El Centro
 
 ----
 
-Image-date: 
+Image-date: 1958
 
 ----
 
-Image-media: 
+Image-media: Oil on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 40 x 30 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 41 1/4 x 31 1/2 in. Framed
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: (LM0006)
