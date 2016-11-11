@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: SiLESiUS "malt Bilder aus einem. WAREN-KATALOG"
 
 ----
 
-Image-date: 
+Image-date: August 1971
 
 ----
 
-Image-media: 
+Image-media: Performance poster. Black silkscreen printed on white paper. Text in German.
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT019
 
 ----
 
