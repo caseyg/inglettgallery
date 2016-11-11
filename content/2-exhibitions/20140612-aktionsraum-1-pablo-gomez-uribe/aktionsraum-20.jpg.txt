@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Fernando Tonello "KREUZWORTFELDER", 1970
 
 ----
 
-Image-date: 
+Image-date: 18 April 1970
 
 ----
 
-Image-media: 
+Image-media: Black silkscreen printed on white paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT020
 
 ----
 
