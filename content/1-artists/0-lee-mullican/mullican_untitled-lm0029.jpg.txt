@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Untitled
 
 ----
 
-Image-date: 
+Image-date: 1951
 
 ----
 
-Image-media: 
+Image-media: Mixed media on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 18 in. Sheet
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 26 1/2 x 21 1/2 in. Framed
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: (LM0029)
