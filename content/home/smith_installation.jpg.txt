@@ -1,5 +1,0 @@
-Sort: 8
-
-----
-
-Exhibition: zero-width-non-joiner
