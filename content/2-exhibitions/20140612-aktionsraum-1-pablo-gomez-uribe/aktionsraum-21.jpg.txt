@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: GRUPPE OHO "Das OHO-Werk vom gestrigen Tag"
 
 ----
 
-Image-date: 
+Image-date: 1 September 1970
 
 ----
 
-Image-media: 
+Image-media: Artists included Milenko Matanovic, David Nez, Marko Pogacnik, Andraz Salamun.
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT021
 
 ----
 
