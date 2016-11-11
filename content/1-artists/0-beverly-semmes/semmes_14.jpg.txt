@@ -19,3 +19,11 @@ Image-inventory-id:
 ----
 
 Sort: 5
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
