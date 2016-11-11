@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: To The Right
 
 ----
 
-Image-date: 
+Image-date: 1959
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 19 in. Sheet
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 31 x 25 1/2 in. Framed
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: (LM0019)
