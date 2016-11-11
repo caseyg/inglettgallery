@@ -1,1 +1,1 @@
-Exhibition: 
+Exhibition: zero-width-non-joiner
