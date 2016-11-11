@@ -1,4 +1,4 @@
-Image-title: Straight Steppin'
+Image-title: Power Lift
 
 ----
 
@@ -10,7 +10,7 @@ Image-media: Stainless steel
 
 ----
 
-Image-dimensions: 16 1/2 x 15 x 15 in.
+Image-dimensions: 14 1/2 x 15 x 15 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: (EF0220)
+Image-inventory-id: (EF0221)
