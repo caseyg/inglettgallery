@@ -1,1 +1,29 @@
 Sort: 14
+
+----
+
+Image-title: Sketch Book 2
+
+----
+
+Image-date: 2014-2015
+
+----
+
+Image-media: Ink on paper
+
+----
+
+Image-dimensions: 8 1⁄2 x 5 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
