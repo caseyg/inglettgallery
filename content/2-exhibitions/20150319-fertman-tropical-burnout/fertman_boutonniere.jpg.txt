@@ -1,1 +1,29 @@
 Sort: 5
+
+----
+
+Image-title: Boutonniere
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Oak, silk flower
+
+----
+
+Image-dimensions: 13 x 7 x 8 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: (EF0204)
