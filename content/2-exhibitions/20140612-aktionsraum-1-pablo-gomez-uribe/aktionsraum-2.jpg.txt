@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Hermann Nitsch
 
 ----
 
-Image-date: 
+Image-date: 27-28 February 1970
 
 ----
 
-Image-media: 
+Image-media: Poster
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 20 1/4 x 14 3/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT002
 
 ----
 
