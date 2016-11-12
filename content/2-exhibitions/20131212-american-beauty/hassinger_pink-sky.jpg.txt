@@ -10,7 +10,7 @@ Image-media: Pink plastic, shopping bags inflated with human breath and a love n
 
 ----
 
-Image-dimensions: Dimensions variable
+Image-dimensions: Dimensions Variable
 
 ----
 
