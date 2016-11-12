@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Wedding Souvenir
 
 ----
 
-Image-date: 
+Image-date: 1966
 
 ----
 
-Image-media: 
+Image-media: Metallic paint on plaster of Paris
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 6 x 6 5/8 x 2 1/4 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: CO0073
