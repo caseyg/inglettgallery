@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Domestic Drawing (LIFE, November 7, 1960)
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Life Magazine cover needlepointed by artist’s mother Karen Jackson
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 13 ½ x 10 ½ x ¼ in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MDJ003
