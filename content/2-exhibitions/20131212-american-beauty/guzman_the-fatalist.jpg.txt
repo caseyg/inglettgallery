@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: The Fatalist
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Wood, screws, chicken wire, casters, plastic, silicone, foam,plaster, coroplast, mirrors, glitter, crystals, aluminum, copper, brass, bamboo, nKisi head figure, Nok beads, polish beads, clothes, fabric trim, oil paint, ink on paper, rabbit fur, elephant tusk, bull horns
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 42 x 24 x 90 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AGZ001
