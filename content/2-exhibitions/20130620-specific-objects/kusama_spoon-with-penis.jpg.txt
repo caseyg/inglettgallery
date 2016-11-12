@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Spoon with Penis
 
 ----
 
-Image-date: 
+Image-date: 1967
 
 ----
 
-Image-media: 
+Image-media: Cloth, metallic paint, spoon
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 4 1/2 x 12 1/2 x 2 1/2 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: YKA0002
