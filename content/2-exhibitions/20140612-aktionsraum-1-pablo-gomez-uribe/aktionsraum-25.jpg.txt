@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: HA Schult "Umfragen, Lautsprecher-Aktion bei Umwelt-Aksente in Monschau"
 
 ----
 
-Image-date: 
+Image-date: May 1970
 
 ----
 
@@ -10,7 +10,7 @@ Image-media:
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT025
 
 ----
 
