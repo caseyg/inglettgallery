@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Exit
 
 ----
 
-Image-date: 
+Image-date: 1962-1963
 
 ----
 
-Image-media: 
+Image-media: Pigment/plastic
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 9 1/8 x 12 1/8 x 1 7/8 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GB0001
