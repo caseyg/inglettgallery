@@ -10,7 +10,7 @@ Image-media: Acrylic, watercolor, pencil and paper
 
 ----
 
-Image-dimensions: 10.75 x 12.5
+Image-dimensions: 10.75 x 12.5 in.
 
 ----
 
