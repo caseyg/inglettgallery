@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: A Human Condition
 
 ----
 
-Image-date: 
+Image-date: 1964
 
 ----
 
-Image-media: 
+Image-media: Brass, glass doorknob, ink, masonite and pine
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 37 7/8 x 24 x 13 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HCW001
