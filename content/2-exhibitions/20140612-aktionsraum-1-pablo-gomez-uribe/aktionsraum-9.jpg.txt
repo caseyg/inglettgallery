@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: HA Schult "Aktion 20,000 km"
 
 ----
 
-Image-date: 
+Image-date: 16 October - 5 November 1970
 
 ----
 
-Image-media: 
+Image-media: Poster
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 7/8 x 24 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT009
 
 ----
 
