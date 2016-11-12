@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Wiljalba
 
 ----
 
-Image-date: 
+Image-date: 1967
 
 ----
 
-Image-media: 
+Image-media: Fiberglass, Plexiglass, lacquer paint, stainless steel and wood
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 12 5/8 x 12 5/8 x 3 1/2 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: TD0001
