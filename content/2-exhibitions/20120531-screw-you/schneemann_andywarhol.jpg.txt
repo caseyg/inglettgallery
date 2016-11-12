@@ -1,4 +1,4 @@
-Image-title: 
+Image-title: Warhol Line-Up
 
 ----
 
@@ -6,11 +6,11 @@ Image-date:
 
 ----
 
-Image-media: 
+Image-media: Photocopy
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 x 8 1/2 in.
 
 ----
 
