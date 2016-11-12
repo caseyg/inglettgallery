@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: For what will they be for?
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Bronze
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 ½ x 6 x 9 ½ in.
 
 ----
 
@@ -18,8 +18,8 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SKC001
