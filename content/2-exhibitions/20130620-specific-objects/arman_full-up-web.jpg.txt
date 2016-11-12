@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Le Plein (Full Up)
 
 ----
 
-Image-date: 
+Image-date: 1960
 
 ----
 
-Image-media: 
+Image-media: Multiple of sealed sardine can filled with unknown material, perhaps trash, exhibition invitation on lid
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 4 1/8 x 2 1/2 x 1 1/8 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: ARM001
