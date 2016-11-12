@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Archival inkjet print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 30 in.
 
 ----
 
@@ -18,8 +18,8 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition 2 of 5
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MV0002
