@@ -2,15 +2,15 @@ Image-title: Breast
 
 ----
 
-Image-date: 
+Image-date: 1969-70
 
 ----
 
-Image-media: 
+Image-media: Polaroid
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 4 1/4 x  3  3/4 in.
 
 ----
 
