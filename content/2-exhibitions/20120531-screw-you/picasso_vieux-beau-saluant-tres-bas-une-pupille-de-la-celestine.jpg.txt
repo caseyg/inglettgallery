@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Vieux Beau Saluant tres bas une Pupille de la Celestine
 
 ----
 
-Image-date: 
+Image-date: 1968
 
 ----
 
-Image-media: 
+Image-media: Sugarlift aquatint
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 8 1/4 x 6 1/4 in.
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: 1/30 HCs of the third (final) state from the edition of 400.
 
 ----
 
