@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Giuseppe Penone "Baum"
 
 ----
 
-Image-date: 
+Image-date: 1970
 
 ----
 
-Image-media: 
+Image-media: Poster/Collage announcing the performance "Baum" 5-15 February; 14 portraits of the artist taken while pronouncing his first and last name pasted over print of Aktionsraum 1 logo in green. Text in German.
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 20 1/4 x 14 3/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AKT003
 
 ----
 
