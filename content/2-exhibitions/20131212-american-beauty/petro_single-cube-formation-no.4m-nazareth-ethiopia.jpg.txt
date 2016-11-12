@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Single Cube Formation, No. 4, Nazareth, Ethiopia
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Archive digital print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 30 x 36 in.
 
 ----
 
@@ -18,8 +18,8 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition 2 of 5
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: DLP003
