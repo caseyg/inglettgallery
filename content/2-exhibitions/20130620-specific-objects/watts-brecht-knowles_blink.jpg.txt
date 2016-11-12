@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Blink
 
 ----
 
-Image-date: 
+Image-date: 1963
 
 ----
 
-Image-media: 
+Image-media: Silk-screen/canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 18 x 18 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BKW001
