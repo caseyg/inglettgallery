@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Vanity Pillow
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: Recycled fabric, stuffing, plywood and bedding
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 43 x 60 x 56 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: AJ0001
