@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Quadruple Cube Formation, No. 1, Saskatoon, SK
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Archive digital print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 30 x 36 in.
 
 ----
 
@@ -18,8 +18,8 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition 1 of 5
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: DLP004
