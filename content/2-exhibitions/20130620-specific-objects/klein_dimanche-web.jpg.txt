@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Yves Klein presente: Le dimanche 27 Novembre 1960
 
 ----
 
-Image-date: 
+Image-date: 1960
 
 ----
 
-Image-media: 
+Image-media: Newspaper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 21 6/7 x 15 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: YK0002
