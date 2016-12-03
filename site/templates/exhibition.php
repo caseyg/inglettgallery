@@ -49,6 +49,10 @@
   </section>
   <section class="col-md-8">
     <?php echo $page->text()->kt() ?>
+    <?php if ($page->additional()->isNotEmpty()): ?>
+      <hr>
+      <?php echo $page->additional()->kt() ?>
+    <?php endif; ?>
   </section>
 </div>
 
