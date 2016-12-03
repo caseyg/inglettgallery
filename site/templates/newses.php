@@ -43,7 +43,7 @@
               <?php endif ?>
             </small>
           </p>
-          <div class="lead">
+          <div>
             <?php echo $news->text()->kt() ?>
             <?php if ($news->hasFiles()): ?> <small><a class="m-l-1" href="<?php echo $news->files()->first()->url() ?>"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a></small> <?php endif; ?>
           </div>
