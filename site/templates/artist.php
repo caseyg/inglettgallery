@@ -10,7 +10,7 @@
 <section id="biography" class="row">
   <div class="col-md-3">
     <h2 class="heading-small">Biography</h2>
-    <small><a href="<?php echo $bio->url() ?>">Download full bio as PDF</a></small>
+    <small><a href="<?php echo $bio->url() ?>">Biography</a></small>
   </div>
   <div class="col-md-9">
     <?php echo $page->text()->kt() ?>
