@@ -7,7 +7,7 @@
 <?php if ($bio): ?>
 <section id="biography" class="row m-t-3">
   <div class="col-md-3">
-    <h2 class="heading-small"><a href="<?php echo $bio->url() ?>">Biography</a></h2>
+    <h2 class="heading-small"><a href="<?php echo $bio->url() ?>" target="_blank">Biography</a></h2>
   </div>
   <div class="col-md-9">
     <?php echo $page->text()->kt() ?>
@@ -70,7 +70,7 @@
     <div class="col-md-9" style="column-count: 2;">
       <ol class="list-unstyled">
         <?php foreach ($page->children()->find('press')->files()->flip() as $p): ?>
-          <li><a href="<?php echo $p->url() ?>" class="d-block"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
+          <li><a href="<?php echo $p->url() ?>" target="_blank" class="d-block"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
         <?php endforeach ?>
       </ol>
     </div>

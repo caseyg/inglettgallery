@@ -45,7 +45,7 @@
           </p>
           <div>
             <?php echo $news->text()->kt() ?>
-            <?php if ($news->hasFiles()): ?> <small><a class="m-l-1" href="<?php echo $news->files()->first()->url() ?>">PDF</a></small> <?php endif; ?>
+            <?php if ($news->hasFiles()): ?> <small><a class="m-l-1" href="<?php echo $news->files()->first()->url() ?>" target="_blank">PDF</a></small> <?php endif; ?>
           </div>
         </div>
       <?php endforeach; ?>

@@ -33,8 +33,7 @@
 <div class="row m-t-3">
   <section class="col-md-4">
     <?php if ($page->hasDocuments()): ?>
-      <h2 class="heading-small">Press Release</h2>
-      <small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF</a></small></p>
+      <h2 class="heading-small"><a href="<?php echo $page->documents()->first()->url() ?>" target="_blank">Press Release</a></h2>
     <?php endif ?>
     <?php if ($page->artists()->isNotEmpty() or $page->additional_artists()->isNotEmpty()): ?>
     <h2 class="heading-small m-t-3">Artists</h2>
