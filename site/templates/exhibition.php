@@ -10,16 +10,14 @@
   </section>
 </div>
 
-<div class="row">
+<div class="row m-b-3">
   <h1 class="col-xs-12"><?php snippet('exhibition-title', $data = array('exhibition' => $page)) ?></h1>
 </div>
 
 <?php if ($page->images()->count() > 1): ?>
-  <hr>
   <?php snippet('slider') ?>
 <?php else: ?>
-  <hr>
-  <div class="row">
+  <div class="row m-t-3">
     <?php $featured_image = $page->images()->first() ?>
     <?php if($featured_image): ?>
     <figure class="col-xs-12">
@@ -32,8 +30,7 @@
   </div>
 <?php endif; ?>
 
-<hr>
-<div class="row">
+<div class="row m-t-3">
   <section class="col-md-4">
     <?php if ($page->hasDocuments()): ?>
       <h2 class="heading-small">Press Release</h2>
@@ -66,8 +63,7 @@
   </section>
 </div>
 
-<hr>
-<section class="row back">
+<section class="row back m-t-3">
   <a class="col-xs-12" href="/exhibitions"><i class="fa fa-chevron-left" aria-hidden="true"></i> Exhibitions</a>
 </section>
 
