@@ -1,16 +1,13 @@
 <?php snippet('header') ?>
 
 <?php snippet('slider') ?>
-<hr>
 <div class="row">
-  <h1 class="col-xs-12 m-t-3 m-b-1"><?php echo $page->first_name()->html() ?> <?php echo $page->last_name()->html() ?></h1>
+  <h1 class="col-xs-12 m-t-1 m-b-1"><?php echo $page->first_name()->html() ?> <?php echo $page->last_name()->html() ?></h1>
 </div>
 <?php if ($bio): ?>
-<hr>
-<section id="biography" class="row">
+<section id="biography" class="row m-t-3">
   <div class="col-md-3">
-    <h2 class="heading-small">Biography</h2>
-    <small><a href="<?php echo $bio->url() ?>">Download full bio as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small>
+    <h2 class="heading-small"><a href="<?php echo $bio->url() ?>" target="_blank">Biography</a></h2>
   </div>
   <div class="col-md-9">
     <?php echo $page->text()->kt() ?>
@@ -19,8 +16,7 @@
 <?php endif ?>
 
 <?php if ($exhibitions > 0): ?>
-  <hr>
-  <section id="exhibition-history" class="row">
+  <section id="exhibition-history" class="row m-t-3">
     <div class="col-md-3">
       <h2 class="heading-small">Exhibition History
     </div>
@@ -45,8 +41,7 @@
 <?php endif ?>
 
 <?php if ($publications > 0): ?>
-  <hr>
-  <section id="publications" class="row">
+  <section id="publications" class="row m-t-3">
     <div class="col-md-3">
       <h2 class="heading-small">Publications</h2>
     </div>
@@ -68,23 +63,21 @@
 <?php endif ?>
 
 <?php if ($press > 0): ?>
-  <hr>
-  <section id="press" class="row">
+  <section id="press" class="row m-t-3">
     <div class="col-md-3">
       <h2 class="heading-small">Select Press</h2>
     </div>
     <div class="col-md-9" style="column-count: 2;">
       <ol class="list-unstyled">
         <?php foreach ($page->children()->find('press')->files()->flip() as $p): ?>
-          <li><a href="<?php echo $p->url() ?>" class="d-block"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; <?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
+          <li><a href="<?php echo $p->url() ?>" target="_blank" class="d-block"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
         <?php endforeach ?>
       </ol>
     </div>
   </section>
 <?php endif ?>
 
-<hr>
-<div class="row back">
+<div class="row back m-t-3">
   <a href="/artists" class="col-xs-12"><i class="fa fa-chevron-left" aria-hidden="true"></i> Artists</a>
 </div>
 

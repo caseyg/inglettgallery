@@ -24,7 +24,7 @@
         $newses = $page->children()->visible()->flip()->limit(20);
       endif; ?>
       <?php foreach($newses as $news): ?>
-        <div class="news-item m-b-2">
+        <div class="news-item m-b-3">
           <p class="d-block">
             <small>
               <strong>
@@ -45,10 +45,9 @@
           </p>
           <div>
             <?php echo $news->text()->kt() ?>
-            <?php if ($news->hasFiles()): ?> <small><a class="m-l-1" href="<?php echo $news->files()->first()->url() ?>"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</a></small> <?php endif; ?>
+            <?php if ($news->hasFiles()): ?> <small><a class="m-l-1" href="<?php echo $news->files()->first()->url() ?>" target="_blank">PDF</a></small> <?php endif; ?>
           </div>
         </div>
-        <hr>
       <?php endforeach; ?>
   </section>
 </div>

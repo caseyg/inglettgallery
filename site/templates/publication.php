@@ -10,8 +10,7 @@
     <?php echo $page->text()->kt() ?>
   </section>
 </div>
-<hr>
-<section class="row back">
+<section class="row back m-t-3">
   <a class="col-xs-12" href="/publications"><i class="fa fa-chevron-left" aria-hidden="true"></i> Publications</a>
 </section>
 

@@ -14,11 +14,10 @@
       </ul>
     </section>
   </div>
-  <div class="row">
+  <div class="row m-b-3">
     <h1 class="col-xs-12"><a href="<?php echo $current->url() ?>"><?php snippet('exhibition-title', $data = array('exhibition' => $page)) ?></a></h1>
   </div>
   <?php if ($page->images()->count() > 1): ?>
-    <hr>
     <?php snippet('slider', $data = array('page' => $page)) ?>
   <?php else: ?>
     <div class="row">
@@ -34,12 +33,11 @@
     </div>
   <?php endif; ?>
 
-  <hr>
-  <div class="row">
+  <div class="row m-t-3">
     <section class="col-md-4">
       <?php if ($page->hasDocuments()): ?>
         <h2 class="heading-small">Press Release</h2>
-        <small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small></p>
+        <small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF</a></small></p>
       <?php endif ?>
       <?php if ($page->artists()->isNotEmpty() or $page->additional_artists()->isNotEmpty()): ?>
       <h2 class="heading-small m-t-3">Artists</h2>
@@ -62,16 +60,14 @@
     <section class="col-md-8">
       <?php echo $page->text()->kt() ?>
     </section>
-
   </div>
-  <hr>
-  <section class="row">
+  <section class="row m-t-3">
     <a class="col-xs-12" href="/exhibitions"><i class="fa fa-chevron-left" aria-hidden="true"></i> Exhibitions</a>
   </section>
 
 <?php else: ?>
 
-  <div class="row">
+  <div class="row m-t-3">
     <section class="col-md-4">
       <h3 class="heading-small">Exhibitions</h3>
       <ul class="list-unstyled list-inline text-uppercase">
