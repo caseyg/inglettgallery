@@ -1,6 +1,6 @@
 title: Contact
 pages: false
-files: false
+files: true
 fields:
   pagelock:
     type: pagelock
