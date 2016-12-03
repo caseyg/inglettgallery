@@ -35,20 +35,34 @@
 <hr>
 <div class="row">
   <section class="col-md-4">
-    <h2 class="heading-small">Press Release</h2>
-    <?php if ($page->hasDocuments()): ?><small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small><?php endif ?></p>
-    <hr class="m-t-3">
-    <?php if ($page->artists()->count() > 0): ?>
-      <h2 class="heading-small">Artists</h2>
-      <ul class="list-unstyled">
-        <?php foreach ($page->artists()->split() as $artist): ?>
-          <li><a href="<?php echo $pages->find('artists')->children()->find($artist)->url() ?>"><?php echo $pages->find('artists')->children()->find($artist)->title() ?></a></li>
-        <?php endforeach; ?>
-      </ul>
+    <?php if ($page->hasDocuments()): ?>
+      <h2 class="heading-small">Press Release</h2>
+      <small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small></p>
+    <?php endif ?>
+    <?php if ($page->artists()->isNotEmpty() or $page->additional_artists()->isNotEmpty()): ?>
+    <h2 class="heading-small m-t-3">Artists</h2>
+      <?php if ($page->artists()->isNotEmpty()): ?>
+        <ul class="list-unstyled">
+          <?php foreach ($page->artists()->split() as $artist): ?>
+            <li><a href="<?php echo $pages->find('artists')->children()->find($artist)->url() ?>"><?php echo $pages->find('artists')->children()->find($artist)->title() ?></a></li>
+          <?php endforeach; ?>
+        </ul>
+      <?php endif; ?>
+      <?php if ($page->additional_artists()->isNotEmpty()): ?>
+        <ul class="list-unstyled">
+          <?php foreach ($page->additional_artists()->split() as $artist): ?>
+            <li><?php echo $artist ?></li>
+          <?php endforeach; ?>
+        </ul>
+      <?php endif; ?>
     <?php endif; ?>
   </section>
   <section class="col-md-8">
     <?php echo $page->text()->kt() ?>
+    <?php if ($page->additional()->isNotEmpty()): ?>
+      <hr>
+      <?php echo $page->additional()->kt() ?>
+    <?php endif; ?>
   </section>
 </div>
 

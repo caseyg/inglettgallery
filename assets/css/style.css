@@ -79,6 +79,13 @@ nav, footer {
     right: 0;
     bottom: 0; }
 
+.title {
+  display: inline-block;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
 .uniform__potty {
   position: absolute;
   top: -9999px;

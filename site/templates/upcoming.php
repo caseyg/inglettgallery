@@ -1,12 +1,5 @@
 <?php snippet('header') ?>
 
-<?php $upcoming = page('exhibitions')
-          ->children()
-          ->visible()
-          ->filter(function($child) {
-            return $child->date(null, 'start') > time() || $child->date(null, 'end') > time();
-          });?>
-
 <div class="row">
   <section class="col-md-6">
     <h3 class="heading-small">Exhibitions</h3>
@@ -17,12 +10,14 @@
     </ul>
 
     <h3 class="heading-small m-b-2">Upcoming</h3>
-
-    <?php foreach ($upcoming as $p): ?>
-      <?php echo $p->title() ?><br>
-      <small class="date"><?php echo $p->date('d F Y', 'start') ?> - <?php echo $p->date('d F Y', 'end') ?></small>
-    <?php endforeach; ?>
-
+    <ul class="list-unstyled">
+      <?php foreach ($pages->find('exhibitions')->upcoming()->toStructure() as $p): ?>
+        <li class="p-b-1">
+          <?php if ($p->link()->isNotEmpty()): ?><a href="<?php echo $p->link() ?>"><?php endif; ?><?php echo $p->title() ?><?php if ($p->link()->isNotEmpty()): ?></a><?php endif; ?><br>
+          <small class="date"><?php echo $p->date('d F Y', 'start') ?> - <?php echo $p->date('d F Y', 'end') ?></small>
+        </li>
+      <?php endforeach; ?>
+    </ul>
   </section>
 </div>
 
