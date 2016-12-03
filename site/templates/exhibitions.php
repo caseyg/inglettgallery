@@ -39,7 +39,7 @@
     <section class="col-md-4">
       <?php if ($page->hasDocuments()): ?>
         <h2 class="heading-small">Press Release</h2>
-        <small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small></p>
+        <small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF</a></small></p>
       <?php endif ?>
       <?php if ($page->artists()->isNotEmpty() or $page->additional_artists()->isNotEmpty()): ?>
       <h2 class="heading-small m-t-3">Artists</h2>

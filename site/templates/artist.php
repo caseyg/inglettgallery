@@ -10,7 +10,7 @@
 <section id="biography" class="row">
   <div class="col-md-3">
     <h2 class="heading-small">Biography</h2>
-    <small><a href="<?php echo $bio->url() ?>">Download full bio as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small>
+    <small><a href="<?php echo $bio->url() ?>">Download full bio as PDF</a></small>
   </div>
   <div class="col-md-9">
     <?php echo $page->text()->kt() ?>
@@ -76,7 +76,7 @@
     <div class="col-md-9" style="column-count: 2;">
       <ol class="list-unstyled">
         <?php foreach ($page->children()->find('press')->files()->flip() as $p): ?>
-          <li><a href="<?php echo $p->url() ?>" class="d-block"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp; <?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
+          <li><a href="<?php echo $p->url() ?>" class="d-block"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
         <?php endforeach ?>
       </ol>
     </div>
