@@ -86,7 +86,7 @@
     <div class="col-md-9">
       <div class="my-gallery row" itemscope itemtype="http://schema.org/ImageGallery">
         <?php foreach ($page->images() as $image): ?>
-          <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="p-b-1 col-md-4 col-xs-6">
+          <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="p-b-1 col-md-3 col-xs-4">
             <a data-no-instant data-size="<?php echo $image->width() . 'x' . $image->height() ?>" href="<?php echo $image->url() ?>" itemprop="contentUrl">
                 <img src="<?php echo $image->crop(255, 255)->url() ?>" itemprop="thumbnail" alt="<?php echo $image->image_title() ?>" class="img-fluid">
             </a>
