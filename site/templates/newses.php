@@ -8,10 +8,12 @@
     <h3 class="heading-small">By Artist</h3>
     <ul class="list-unstyled artists-list">
       <?php
-      $artists = $page->children()->visible()->filterBy('artists', '!=', '')->groupBy('artists');
-      foreach($artists as $artist => $items):
-      $artist = $pages->find('artists')->children()->visible()->find($artist); ?>
-        <li><a <?php if (kirby()->request()->params()->artist() == $artist->slug()): ?>class="font-weight-bold"<?php endif; ?> href="/news/artist:<?php echo $artist->slug() ?>"><?php echo $artist->first_name() . " " . $artist->last_name() ?></a></li>
+      $artists = $pages->find('artists')->children()->visible()->sortBy(last_name, $direction = 'asc');
+      $news = $page->children()->visible()->artists();
+      foreach($artists as $artist): ?>
+        <?php if ($page->children()->visible()->filterBy('artists', $artist->slug())->count() > 0): ?>
+          <li><a <?php if (kirby()->request()->params()->artist() == $artist->slug()): ?>class="font-weight-bold"<?php endif; ?> href="/news/artist:<?php echo $artist->slug() ?>"><?php echo $artist->first_name() . " " . $artist->last_name() ?></a></li>
+        <?php endif; ?>
       <?php endforeach ?>
     </ul>
   </section>
