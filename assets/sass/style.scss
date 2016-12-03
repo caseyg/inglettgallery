@@ -107,6 +107,14 @@ nav, footer {
   background-size: contain;
 }
 
+.title {
+  display: inline-block;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 // Kirby Uniform https://github.com/mzur/kirby-uniform
 
 .uniform__potty {

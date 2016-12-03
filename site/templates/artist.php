@@ -32,7 +32,7 @@
           <li class="p-b-1 col-md-4 col-xs-6">
             <a href="<?php echo $post->url() ?>">
               <img src="<?php echo $post->images()->first()->crop(255,255)->url() ?>" alt="<?php snippet('exhibition-title', $data = array('exhibition' => $post)) ?>" class="m-b-1" style="max-width:100%;"><br>
-              <?php snippet('exhibition-title', $data = array('exhibition' => $post)) ?><br>
+              <span class="title"><?php snippet('exhibition-title', $data = array('exhibition' => $post)) ?></span>
               <small class="date">
                 <?php echo $post->date('d F Y', 'start') ?> - <?php echo $post->date('d F Y', 'end') ?>
               </small>
