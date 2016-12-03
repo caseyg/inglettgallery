@@ -35,14 +35,25 @@
 <hr>
 <div class="row">
   <section class="col-md-4">
-    <h2 class="heading-small">Press Release</h2>
-    <?php if ($page->hasDocuments()): ?><small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small><?php endif ?></p>
-    <hr class="m-t-3">
-    <?php if ($page->artists()->count() > 0): ?>
+    <?php if ($page->hasDocuments()): ?>
+      <h2 class="heading-small">Press Release</h2>
+      <small><a href="<?php echo $page->documents()->first()->url() ?>">Download as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small></p>
+    <?php endif ?>
+    <?php if ($page->artists()->isNotEmpty()): ?>
+      <hr class="m-t-3">
       <h2 class="heading-small">Artists</h2>
       <ul class="list-unstyled">
         <?php foreach ($page->artists()->split() as $artist): ?>
           <li><a href="<?php echo $pages->find('artists')->children()->find($artist)->url() ?>"><?php echo $pages->find('artists')->children()->find($artist)->title() ?></a></li>
+        <?php endforeach; ?>
+      </ul>
+    <?php endif; ?>
+    <?php if ($page->additional_artists()->isNotEmpty()): ?>
+      <hr class="m-t-3">
+      <h2 class="heading-small">Additional Artists</h2>
+      <ul class="list-unstyled">
+        <?php foreach ($page->additional_artists()->split() as $artist): ?>
+          <li><?php echo $artist ?></li>
         <?php endforeach; ?>
       </ul>
     <?php endif; ?>
