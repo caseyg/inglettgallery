@@ -67,8 +67,8 @@
     <div class="col-md-3">
       <h2 class="heading-small">Select Press</h2>
     </div>
-    <div class="col-md-9" style="column-count: 2;">
-      <ol class="list-unstyled">
+    <div class="col-md-9">
+      <ol class="list-unstyled" style="column-count: 2;">
         <?php foreach ($page->children()->find('press')->files()->flip() as $p): ?>
           <li><a href="<?php echo $p->url() ?>" target="_blank" class="d-block"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
         <?php endforeach ?>
