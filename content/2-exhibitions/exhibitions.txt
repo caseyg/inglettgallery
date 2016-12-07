@@ -10,7 +10,7 @@ Test message for when there is no current exhibition.
 
 ----
 
-Current: ryan-wallace-surveyor
+Current: eric-fertman-2016
 
 ----
 
