@@ -17,7 +17,17 @@ Current: i-c-editions-25th-anniversary
 Upcoming: 
 
 - 
-  title: Test Upcoming Exhibition
-  start: 2017-01-01
-  end: 2017-02-01
-  link: http://google.com
+  title: "Robyn O'Neil"
+  start: 2017-02-02
+  end: 2017-03-11
+  link: ""
+- 
+  title: Hope Gangloff
+  start: 2017-03-16
+  end: 2017-04-22
+  link: ""
+- 
+  title: THE RAT BASTARD PROTECTIVE ASSOCIATION
+  start: 2017-04-27
+  end: 2017-06-03
+  link: ""
