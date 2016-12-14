@@ -1,0 +1,33 @@
+Pagelock: 
+
+----
+
+Title: The Rat Bastard Protective Association
+
+----
+
+Untitled: true
+
+----
+
+Start: 2017-04-27
+
+----
+
+End: 2017-06-03
+
+----
+
+Artists: george-herms, bruce-conner
+
+----
+
+Additional-artists: Wallace Berman,Robert Branaman,Joan Brown,Jean Conner,Jay DeFeo,Wally Hedrick,Michael McClure,Manuel Neri
+
+----
+
+Text: The Rat Bastard Protective Association, a group exhibition organized by Dr. Anastasia Aukeman, author of *Italic text*Welcome to Painterland: Bruce Conner and the Rat Bastard Protective Association*Italic text* (University of California Press, 2016) documents the activities of artistic production of the Rat Bastard Protective Association (RBPA), an inflammatory, close-knit community of artists who lived and worked together in a building they dubbed "Painterland" in the Filmore neighborhood of mid-century San Francisco. The exhibition includes the work of Wallace Berman, Robert Branaman, Joan Brown, Bruce Conner, Jean Conner, Jay DeFeo, Wally Hedrick, George Herms, Michael McClure, and Manuel Neri.
+
+----
+
+Additional: 
