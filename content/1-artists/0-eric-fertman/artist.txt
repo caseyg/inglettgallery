@@ -6,7 +6,7 @@ Last-name: Fertman
 
 ----
 
-Featured-image: fertman_installation.jpg
+Featured-image: fertman_kitty-dorado.jpg
 
 ----
 
