@@ -2,7 +2,7 @@ Date: 2016-11-19
 
 ----
 
-Display-date: 19 November 2016
+Display-date: 19 November 2016 - 16 January 2017.
 
 ----
 
@@ -10,7 +10,7 @@ Artists: william-villalongo
 
 ----
 
-Text: "November's Bone," at(link: http://www.halseymckay.com/ text:  Halsey McKay Gallery), Hamptons, NY, opening 19 November 2016
+Text: "November's Bone," at (link: http://www.halseymckay.com/ text:  Halsey McKay Gallery), Hamptons, NY, on view through 16 January 2017.
 
 ----
 
