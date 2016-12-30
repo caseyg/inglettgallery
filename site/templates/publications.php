@@ -8,7 +8,7 @@
 <div class="row">
   <?php foreach ($page->children()->visible() as $p): ?>
       <div class="col-xs-6 col-sm-4 col-md-3">
-        <a class="text-hide publication-link" href="<?php echo $p->url() ?>" <?php if ($p->images()->count() > 0): ?>style="background-image:url(<?php echo $p->images()->first()->resize(255, 255)->url() ?>)"<?php endif; ?> alt="<?php echo $p->title() ?>"><?php echo $p->title() ?></a>
+        <a class="text-hide publication-link" href="<?php echo $p->url() ?>" style="background-image:url(<?php echo $p->images()->first()->resize(255, 255)->url() ?>)"alt="<?php echo $p->title() ?>"><?php echo $p->title() ?></a>
       </div>
   <?php endforeach; ?>
 </div>
