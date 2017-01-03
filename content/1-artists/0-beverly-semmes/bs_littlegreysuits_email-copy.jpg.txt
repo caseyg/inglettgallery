@@ -1,21 +1,29 @@
-Image-title: 
+Image-title: Little Grey Suits
 
 ----
 
-Image-date: 
+Image-date: 1992
 
 ----
 
-Image-media: 
+Image-media: Imitation lambswool
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 38 x 34 x 2 in.
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0034
 
 ----
 
 Sort: 8
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
