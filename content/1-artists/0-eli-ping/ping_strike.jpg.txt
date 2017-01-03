@@ -23,3 +23,7 @@ Image-edition-info: Edition of 3
 ----
 
 Image-inventory-id: (EPI0018)
+
+----
+
+Sort: 3
