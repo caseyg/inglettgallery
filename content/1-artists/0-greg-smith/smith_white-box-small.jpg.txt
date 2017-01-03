@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: White Box (Small)
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Digital camera, hardware and wood
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 16 1/4 x 16 x 2 1/2 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0075
