@@ -1,4 +1,4 @@
-Image-title: 
+Image-title: Same Story
 
 ----
 
@@ -10,7 +10,7 @@ Image-media:
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 1/8 x 8 3/4 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SC0005
