@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Suitcase
 
 ----
 
-Image-date: 
+Image-date: 2012
 
 ----
 
-Image-media: 
+Image-media: Clay, epoxy, paint
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 56 x 16 x 16 in.
 
 ----
 
@@ -19,3 +19,11 @@ Image-inventory-id:
 ----
 
 Sort: 10
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
