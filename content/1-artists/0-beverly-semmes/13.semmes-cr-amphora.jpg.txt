@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Crystal Amphora
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Crystal
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 15 x 17 in.
 
 ----
 
@@ -19,3 +19,11 @@ Image-inventory-id:
 ----
 
 Sort: 13
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
