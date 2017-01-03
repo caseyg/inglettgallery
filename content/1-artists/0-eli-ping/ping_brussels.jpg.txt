@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Brussel Sprout
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Acrylic, canvas and pigmented epoxy
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 16 x 14 x 12 in.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 4
