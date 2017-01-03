@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Pink Rock
 
 ----
 
-Image-date: 
+Image-date: 2014
 
 ----
 
-Image-media: 
+Image-media: Ink and paint on magazine page
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 3/4 x 6 1/2 in.
 
 ----
 
@@ -19,3 +19,11 @@ Image-inventory-id:
 ----
 
 Sort: 4
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
