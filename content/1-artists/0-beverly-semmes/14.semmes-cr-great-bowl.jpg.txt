@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Crystal Great Bowl
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Crystal
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 x 21 x 21 in.
 
 ----
 
@@ -19,3 +19,11 @@ Image-inventory-id:
 ----
 
 Sort: 14
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
