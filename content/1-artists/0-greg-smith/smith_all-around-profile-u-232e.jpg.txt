@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: All Around-Profile (U+232E)
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic, canvas, cotton paper, Duralar, polyester thread and thumbtacks
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 37 1/2 x 50 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0077
