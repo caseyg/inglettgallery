@@ -1,1 +1,29 @@
 Caption: 
+
+----
+
+Image-title: Existing Condition
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Ash, oak, paint, plywood, stain, steel
+
+----
+
+Image-dimensions: 56 x 39 x 32 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: EF0207
