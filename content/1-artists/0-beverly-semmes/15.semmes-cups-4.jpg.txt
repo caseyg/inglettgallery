@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Cups
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Ceramic, epoxy and fleece
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Dimensions vary
 
 ----
 
@@ -19,3 +19,11 @@ Image-inventory-id:
 ----
 
 Sort: 15
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
