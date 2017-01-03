@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Black Box (To Boar)
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic, canvas, hardware, latex paint, lenses, wood, electronics and epoxy
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 13 1/2 x 16 x 6 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0070
