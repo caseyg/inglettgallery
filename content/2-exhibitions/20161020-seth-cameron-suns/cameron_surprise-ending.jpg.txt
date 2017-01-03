@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Surprise Ending
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Oil on panel in sun-stained oak artist's frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 7/8 x 10 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SC0012
