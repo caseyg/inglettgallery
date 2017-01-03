@@ -10,7 +10,7 @@ Artists: george-herms
 
 ----
 
-Text: "Eternal" at (link: http://moranbondaroff.com/exhibits/three-person-exhibition/ text: Moran Bondaroff), Los Angeles, 1 through 27 August 2016.
+Text: "Eternal" in (link: http://moranbondaroff.com/exhibits/three-person-exhibition/ text: Moran Bondaroff), Los Angeles, 1 through 27 August 2016.
 
 ----
 
