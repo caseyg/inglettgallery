@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Hot Springs (U+2668)
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic, canvas, cotton paper, Duralar, polyester thread and thumbtacks
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 28 x 50 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0076
