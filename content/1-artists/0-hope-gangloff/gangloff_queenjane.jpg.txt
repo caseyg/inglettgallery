@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Queen Jane Approximately
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Acrylic/canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 66 x 108 x 1 1/2 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0132
