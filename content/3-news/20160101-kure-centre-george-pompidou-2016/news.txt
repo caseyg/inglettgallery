@@ -10,7 +10,7 @@ Artists: marcia-kure
 
 ----
 
-Text: Congratulations to Marcia on her recent acquisition of "The Three Graces" by the Centre George Pompidou in Paris.
+Text: Congratulations to Marcia on her recent acquisition of "The Three Graces" by the (link: https://www.centrepompidou.fr/en# text: Centre George Pompidou) in Paris.
 
 ----
 
