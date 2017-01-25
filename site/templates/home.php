@@ -2,7 +2,7 @@
 
 <div class="slider--home swiper-container">
   <div class="swiper-wrapper">
-    <?php foreach($page->images() as $image):
+    <?php foreach($page->images()->sortBy('sort', 'asc') as $image):
       $exhibition = $pages->find('exhibitions')->children()->find($image->exhibition()); ?>
       <?php if ($exhibition != null): ?>
         <a class="swiper-slide" href="<?php echo $exhibition->url() ?>">
