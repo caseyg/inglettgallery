@@ -21,7 +21,7 @@ Upcoming:
   start: 2017-02-02
   end: 2017-03-11
   link: >
-    https://www.inglettgallery.com/exhibitions/robyn-o-neil
+    https://mailings.artlogic.net/readonline/99be6bd218024a08819063192317e531
 - 
   title: Hope Gangloff
   start: 2017-03-16
