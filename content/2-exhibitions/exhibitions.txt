@@ -20,7 +20,8 @@ Upcoming:
   title: "Robyn O'Neil"
   start: 2017-02-02
   end: 2017-03-11
-  link: ""
+  link: >
+    https://www.inglettgallery.com/exhibitions/robyn-o-neil
 - 
   title: Hope Gangloff
   start: 2017-03-16
