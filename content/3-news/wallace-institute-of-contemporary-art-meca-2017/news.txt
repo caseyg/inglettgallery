@@ -1,16 +1,16 @@
-Date: 
+Date: 2017-01-01
 
 ----
 
-Display-date: 
+Display-date: 2017
 
 ----
 
-Artists: 
+Artists: ryan-wallace
 
 ----
 
-Text: 
+Text: Solo exhibition at (link: https://www.meca.edu/about/institute-of-contemporary-art/ text: Institute of Contemporary Art at Maine College of Art), Portland, ME, upcoming in 2017.
 
 ----
 
