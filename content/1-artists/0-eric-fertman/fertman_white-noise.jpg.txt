@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: (EF0218)
+
+----
+
+Sort: 21

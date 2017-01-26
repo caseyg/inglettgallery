@@ -15,3 +15,7 @@ Image-dimensions: 67 x 18 x 7 in.
 ----
 
 Image-inventory-id: EF0211
+
+----
+
+Sort: 12

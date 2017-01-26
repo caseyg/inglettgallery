@@ -15,3 +15,7 @@ Image-dimensions: 23 x 37 1/2 x 10 in.
 ----
 
 Image-inventory-id: EF0212
+
+----
+
+Sort: 10

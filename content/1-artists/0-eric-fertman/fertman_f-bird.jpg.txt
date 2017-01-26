@@ -15,3 +15,7 @@ Image-dimensions: 16 1/2 x 16 1/2 x 12 in.
 ----
 
 Image-inventory-id: EF0203
+
+----
+
+Sort: 8

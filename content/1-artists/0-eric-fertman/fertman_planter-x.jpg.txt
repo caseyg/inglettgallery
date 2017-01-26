@@ -15,3 +15,7 @@ Image-dimensions: 90 x 24 x 12 in.
 ----
 
 Image-inventory-id: EF0206
+
+----
+
+Sort: 18

@@ -15,3 +15,7 @@ Image-dimensions: 13 x 7 x 8 in.
 ----
 
 Image-inventory-id: EF0204
+
+----
+
+Sort: 5

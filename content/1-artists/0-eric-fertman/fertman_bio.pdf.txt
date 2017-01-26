@@ -23,3 +23,7 @@ Image-dimensions-framed:
 ----
 
 Image-edition-info: 
+
+----
+
+Sort: 4

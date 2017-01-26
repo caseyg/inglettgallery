@@ -15,3 +15,7 @@ Image-dimensions: 56 x 39 x 32 in.
 ----
 
 Image-inventory-id: EF0207
+
+----
+
+Sort: 7

@@ -15,3 +15,7 @@ Image-dimensions: 65 x 43 x 25 in.
 ----
 
 Image-inventory-id: EF0209
+
+----
+
+Sort: 2

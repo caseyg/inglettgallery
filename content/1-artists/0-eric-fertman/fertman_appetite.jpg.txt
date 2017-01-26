@@ -15,3 +15,7 @@ Image-dimensions: 72 x 17 x 5 in.
 ----
 
 Image-inventory-id: EF0210
+
+----
+
+Sort: 3
