@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Ben at Home 4
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Golden Fluid acrylic, sharpie, uniball pen, gelly roll pen on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 18 3/4 x 24 in.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 8
