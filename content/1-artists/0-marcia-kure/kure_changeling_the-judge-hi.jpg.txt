@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Chaneling: The Series: Judge
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Watercolor, kolanut pigment, red wine, calligraphy ink, radiant concentrated watercolor, egge tempera, pencil/paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 17 1/2 x 14 in
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 12
