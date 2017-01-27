@@ -15,3 +15,7 @@ Image-dimensions: 60 x 84 in.
 ----
 
 Image-inventory-id: BD0115
+
+----
+
+Sort: 1
