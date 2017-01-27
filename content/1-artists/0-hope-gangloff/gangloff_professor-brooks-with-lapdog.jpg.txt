@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Professor Brooks with Lap Dog
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: 8 Color screenprint on Coventry Rag 290gsm
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 36 x 25 in.
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 50
 
 ----
 
@@ -26,4 +26,4 @@ Image-inventory-id:
 
 ----
 
-Sort: 10
+Sort: 12
