@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: GSM0032
+
+----
+
+Sort: 11
