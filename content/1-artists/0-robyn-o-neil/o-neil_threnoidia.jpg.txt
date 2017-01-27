@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: RO0093
+
+----
+
+Sort: 3
