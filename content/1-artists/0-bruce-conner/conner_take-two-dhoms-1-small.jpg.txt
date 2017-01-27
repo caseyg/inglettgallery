@@ -26,4 +26,4 @@ Image-inventory-id: BC0128
 
 ----
 
-Sort: 10
+Sort: 6
