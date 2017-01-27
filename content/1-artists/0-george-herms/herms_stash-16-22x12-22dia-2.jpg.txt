@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Stash
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Assemblage
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 12 x 12 in.
 
 ----
 
@@ -26,4 +26,4 @@ Image-inventory-id:
 
 ----
 
-Sort: 16
+Sort: 12
