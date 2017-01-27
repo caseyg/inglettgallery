@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: 10.Painting
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Gouache and acrylic ink on paper mounted to canvas on panel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 30 x 22 in.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 2
