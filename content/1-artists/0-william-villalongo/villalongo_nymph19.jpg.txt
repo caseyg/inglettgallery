@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: WV0043
+
+----
+
+Sort: 6
