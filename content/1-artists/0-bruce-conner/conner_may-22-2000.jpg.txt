@@ -26,4 +26,4 @@ Image-inventory-id: AA0007
 
 ----
 
-Sort: 1
+Sort: 2
