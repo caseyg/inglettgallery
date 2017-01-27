@@ -1,21 +1,25 @@
-Image-title: Checkered Flag (Yuri Masnyj)
+Image-title: 
 
 ----
 
-Image-date: 2015
+Image-date: 
 
 ----
 
-Image-media: Acrylic and collage on canvas
+Image-media: 
 
 ----
 
-Image-dimensions: 82 x 54 in.
+Image-dimensions: 
 
 ----
 
-Image-inventory-id: HG0265
+Image-dimensions-framed: 
 
 ----
 
-Sort: 18
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
