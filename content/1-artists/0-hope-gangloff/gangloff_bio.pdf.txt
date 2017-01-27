@@ -15,3 +15,7 @@ Image-dimensions:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 1
