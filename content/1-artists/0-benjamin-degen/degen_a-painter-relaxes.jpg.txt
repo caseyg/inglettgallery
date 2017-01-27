@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: A Painter Relaxes
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: 2016
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Oil and spray enamel on canvas
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 60 x 40 in.
 
 ----
 
