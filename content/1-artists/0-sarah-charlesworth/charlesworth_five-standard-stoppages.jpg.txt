@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Five Standard Stoppages
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Fuji Crystal Archive Print mounted and laminated with lacquer frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 31 1/2 x 41 1/2 in.
 
 ----
 
@@ -26,4 +26,4 @@ Image-inventory-id:
 
 ----
 
-Sort: 15
+Sort: 14
