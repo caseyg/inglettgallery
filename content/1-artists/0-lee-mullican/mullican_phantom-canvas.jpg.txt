@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Phantom Canvas
 
 ----
 
-Image-date: 
+Image-date: 1961
 
 ----
 
-Image-media: 
+Image-media: Oil on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 20 x 20 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 21 3/4 x 21 3/4 in.
 
 ----
 
@@ -26,4 +26,4 @@ Image-inventory-id:
 
 ----
 
-Sort: 9
+Sort: 8
