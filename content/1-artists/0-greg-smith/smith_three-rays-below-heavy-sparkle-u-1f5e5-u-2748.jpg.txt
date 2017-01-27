@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Three Rays Below, Heavy Sparkle (U+1F5E5, U+2748)
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic, canvas, cotton paper, Duralar, polyester thread and thumbtacks
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 37 1/2 x 50 1/2 in.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 3
