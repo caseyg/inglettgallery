@@ -18,4 +18,4 @@ Image-inventory-id:
 
 ----
 
-Sort: 1
+Sort: 2
