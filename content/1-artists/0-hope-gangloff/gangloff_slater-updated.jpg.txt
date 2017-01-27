@@ -1,21 +1,25 @@
-Image-title: Slater Update
+Image-title: 
 
 ----
 
-Image-date: 2015
+Image-date: 
 
 ----
 
-Image-media: Acrylic on canvas
+Image-media: 
 
 ----
 
-Image-dimensions: 82 x 54 in.
+Image-dimensions: 
 
 ----
 
-Image-inventory-id: HG0282
+Image-dimensions-framed: 
 
 ----
 
-Sort: 14
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
