@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Inflation Drill (after Guston)
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 22 3/4 x 30 in.
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: RO0091
 
 ----
 
