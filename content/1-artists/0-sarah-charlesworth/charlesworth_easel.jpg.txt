@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Easel
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Fuji Cryscal Archive Print, mounted and laminated with lacquer frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 41 x 31 in.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 14
