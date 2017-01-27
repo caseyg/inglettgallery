@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: East Village Looking East - July 4, 2016
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic and cut paper on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 60 x 36 in.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 4
