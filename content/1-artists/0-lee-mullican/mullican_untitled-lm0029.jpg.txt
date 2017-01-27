@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: (LM0029)
+
+----
+
+Sort: 15
