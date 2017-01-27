@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Camera with Yellow
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Fuji Crystal Archive Prints mounted and laminated with lacquer frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 31 x 4 in. each panel, individually framed
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 12
