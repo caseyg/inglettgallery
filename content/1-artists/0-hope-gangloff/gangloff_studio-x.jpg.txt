@@ -1,21 +1,25 @@
-Image-title: Studio X
+Image-title: 
 
 ----
 
-Image-date: 2015
+Image-date: 
 
 ----
 
-Image-media: Acrylic on panel
+Image-media: 
 
 ----
 
-Image-dimensions: 48 x 72 in.
+Image-dimensions: 
 
 ----
 
-Image-inventory-id: HG0283
+Image-dimensions-framed: 
 
 ----
 
-Sort: 13
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
