@@ -26,4 +26,4 @@ Image-inventory-id: (LM0029)
 
 ----
 
-Sort: 10
+Sort: 9
