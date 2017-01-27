@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Fish Cake With Swirl Design (U+1F365)
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Acrylic, canvas, cotton paper, Duralar, polyester thread and thumbtacks
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 37 1/2 x 50 1/2 in.
 
 ----
 
@@ -26,4 +26,4 @@ Image-inventory-id:
 
 ----
 
-Sort: 3
+Sort: 4
