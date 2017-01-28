@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: Object #4
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: Ceramic and black fur pelt
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 4 3/4 x 7 x 4 1/4 in. cup
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 1/4 x 8 x 8 in. saucer
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0166
 
 ----
 
