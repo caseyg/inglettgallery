@@ -14,7 +14,7 @@ Image-dimensions: 20 x 20 in.
 
 ----
 
-Image-dimensions-framed: 1 x 21 in.
+Image-dimensions-framed: 21 x 21 in.
 
 ----
 
