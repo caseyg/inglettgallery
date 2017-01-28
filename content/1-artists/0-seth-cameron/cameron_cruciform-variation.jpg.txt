@@ -10,11 +10,11 @@ Image-media: Oil on panel in sun-stained oak artist's frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 20 x 20 in.
 
 ----
 
-Image-dimensions-framed: 20 x 20 in., 21 x 21 in.
+Image-dimensions-framed: 21 x 21 in.
 
 ----
 
