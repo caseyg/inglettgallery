@@ -18,7 +18,7 @@ Image-inventory-id: MK0209
 
 ----
 
-Sort: 7
+Sort: 6
 
 ----
 
