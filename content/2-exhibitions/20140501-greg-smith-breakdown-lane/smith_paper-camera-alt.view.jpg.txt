@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Paper Camera
 
 ----
 
-Image-date: 
+Image-date: 2014
 
 ----
 
-Image-media: 
+Image-media: Canvas, colored pencil, copper, digital camera parts, epoxy, gesso, graphite, hardware, lens, paper, PVA adhesive, thread, wood
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 17 x 9 x 9 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0040
