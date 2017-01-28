@@ -1,20 +1,20 @@
-Image-title: Cruciform Variation
+Image-title: 
 
 ----
 
-Image-date: 2016
+Image-date: 
 
 ----
 
-Image-media: Oil on panel in sun-stained oak artist's frame
+Image-media: 
 
 ----
 
-Image-dimensions: 20 x 20 in.
+Image-dimensions: 
 
 ----
 
-Image-dimensions-framed: 21 x 21 in.
+Image-dimensions-framed: 
 
 ----
 
@@ -22,8 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: SC0019
-
-----
-
-Sort: 1
+Image-inventory-id: 
