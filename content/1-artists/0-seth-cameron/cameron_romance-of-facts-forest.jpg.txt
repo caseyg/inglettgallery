@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: SC0018
+
+----
+
+Sort: 3
