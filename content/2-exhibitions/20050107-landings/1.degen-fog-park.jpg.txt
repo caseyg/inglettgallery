@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Fog Park
 
 ----
 
-Image-date: 
+Image-date: 2005
 
 ----
 
-Image-media: 
+Image-media: Pencil on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 9 x 6 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BD0004
 
 ----
 
