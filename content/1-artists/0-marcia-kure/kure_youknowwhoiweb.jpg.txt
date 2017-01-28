@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: 'You Know Who' and the Chambermaid I
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Kolanut pigment, watercolor, tempera and pencil on Fabriano Artistico Traditional White 300Ib HP watercolor paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 19 3/4 x 16 1/4 x 1 2/3 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: MK0007
 
 ----
 
