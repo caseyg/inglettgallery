@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Blue Curtain
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Tulle
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 132 x 192 x 12 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0207
 
 ----
 
