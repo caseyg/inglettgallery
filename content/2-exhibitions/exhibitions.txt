@@ -10,18 +10,12 @@ Test message for when there is no current exhibition.
 
 ----
 
-Current: i-c-editions-25th-anniversary
+Current: robyn-o-neil
 
 ----
 
 Upcoming: 
 
-- 
-  title: "Robyn O'Neil"
-  start: 2017-02-03
-  end: 2017-03-11
-  link: >
-    https://mailings.artlogic.net/readonline/99be6bd218024a08819063192317e531
 - 
   title: Hope Gangloff
   start: 2017-03-16
