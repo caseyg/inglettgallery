@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: These Moments
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 1/2 x 16 1/2 in. Sheet
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 13 1/8 x 19 1/4 in. Frame
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 6
