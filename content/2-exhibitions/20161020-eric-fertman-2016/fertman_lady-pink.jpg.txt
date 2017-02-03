@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Lady Pink
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Ash, shellac and oil over metal leaf
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 27 x 32 x 12 in.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 8

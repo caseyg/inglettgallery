@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 13
