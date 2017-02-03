@@ -19,3 +19,11 @@ Image-inventory-id: SO0087
 ----
 
 Sort: 10
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
