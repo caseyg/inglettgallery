@@ -19,3 +19,11 @@ Image-inventory-id: SO0092
 ----
 
 Sort: 11
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
