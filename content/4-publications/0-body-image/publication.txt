@@ -12,7 +12,7 @@ Artists:
 
 Text: 
 
-BODY | IMAGE
+(link: http://www.inglettgallery.com/exhibitions/mind-body-soul text: BODY | IMAGE)
 
 Erica Baum, Ellen Berkenblit, Anna Betbeze, Emily Clayton, Meredyth Sparks, Maren Hassinger 
 
