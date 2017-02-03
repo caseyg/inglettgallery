@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: The Three Echoes
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 3/4 x 14 3/4 in.
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 13 5/8 x 17 5/8 in.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 5
