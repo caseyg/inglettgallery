@@ -10,15 +10,15 @@ Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 22 3/4 x 30 in.
+Image-dimensions: 22 3/4 x 30 in. Sheet
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 25 3/4 x 32 3/4 in. Frame
 
 ----
 
-Image-edition-info: RO0091
+Image-edition-info: 
 
 ----
 
