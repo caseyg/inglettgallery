@@ -10,11 +10,11 @@ Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 34 1/8 x 60 in.
+Image-dimensions: 34 1/8 x 60 in. Sheet
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 38 1/8 x 64 1/8 in. Frame
 
 ----
 
