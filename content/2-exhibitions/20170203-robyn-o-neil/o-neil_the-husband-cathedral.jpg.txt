@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: The Husband Cathedral
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 34 1/8 x 60 1/4 in. Sheet
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 38 1/8 x 64 1/8 in. Frame
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RO0094
