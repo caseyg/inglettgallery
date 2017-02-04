@@ -10,11 +10,11 @@ Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 23 x 30 in.
+Image-dimensions: 23 x 30 in. Sheet
 
 ----
 
-Image-dimensions-framed: 27 x 34 in.
+Image-dimensions-framed: 27 x 34 in. Frame
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: RO0092
 
 ----
 
