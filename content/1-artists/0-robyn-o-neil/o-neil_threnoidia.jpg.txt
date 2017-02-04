@@ -10,11 +10,11 @@ Image-media: Graphite and prisma on paper
 
 ----
 
-Image-dimensions: 13 1/4 x 11 5/8 in.
+Image-dimensions: 13 1/4 x 11 5/8 in. Sheet
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 15 1/2 x 17 1/4 in. Frame
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: RO0093
+Image-inventory-id: 
 
 ----
 
