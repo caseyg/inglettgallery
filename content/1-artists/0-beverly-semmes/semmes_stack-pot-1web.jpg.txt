@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Stack Pot #1
 
 ----
 
-Image-date: 
+Image-date: 2015
 
 ----
 
-Image-media: 
+Image-media: High fire ceramic and epoxy
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 53 x 17 x 16 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BS0149
 
 ----
 
