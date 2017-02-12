@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: ANNETTE LEMIEUX, Stolen Faces
 
 ----
 
-Image-date: 
+Image-date: 1991
 
 ----
 
-Image-media: 
+Image-media: Lithograph
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 30 1/4 x 88 in overall
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 26, portfolio of 3.
 
 ----
 
