@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: BRUCE CONNER Untitled Lithograph #100
 
 ----
 
-Image-date: 
+Image-date: 1970-1971
 
 ----
 
-Image-media: 
+Image-media: Lithograph
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 29 9/16 x 29 7/8 in.
 
 ----
 
@@ -18,8 +18,8 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 50
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: BC0032
