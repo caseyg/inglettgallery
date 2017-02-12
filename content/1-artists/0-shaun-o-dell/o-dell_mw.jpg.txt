@@ -1,20 +1,20 @@
-Image-title: 
+Image-title: M.W.
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: Ink and gouache on paper in copper frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 29 1/2 x 21 1/4 in.
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: SO0097
 
 ----
 
@@ -22,7 +22,7 @@ Sort: 12
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 32 x 24 in.
 
 ----
 
