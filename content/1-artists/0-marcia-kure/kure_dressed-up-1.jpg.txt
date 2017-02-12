@@ -2,7 +2,7 @@ Image-title: Dressed Up 1
 
 ----
 
-Image-date: 2001
+Image-date: 2011
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: Edition of 3.
+Image-edition-info: Edition of 3
 
 ----
 
