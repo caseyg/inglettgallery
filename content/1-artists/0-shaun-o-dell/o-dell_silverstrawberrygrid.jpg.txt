@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: SO0064
+
+----
+
+Sort: 11
