@@ -1,24 +1,16 @@
-Image-title: Blind Grouping
+Image-title: 
 
 ----
 
-Image-date: 2011
+Image-date: 
 
 ----
 
-Image-media: Graphite on paper
+Image-media: 
 
 ----
 
-Image-dimensions: 10 x 6 1/2 in.
-
-----
-
-Image-inventory-id: RO0019
-
-----
-
-Sort: 19
+Image-dimensions: 
 
 ----
 
@@ -27,3 +19,7 @@ Image-dimensions-framed:
 ----
 
 Image-edition-info: 
+
+----
+
+Image-inventory-id: 
