@@ -10,7 +10,7 @@ Image-media: Etching
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 14 1/4 x 18 1/4  in.
 
 ----
 
