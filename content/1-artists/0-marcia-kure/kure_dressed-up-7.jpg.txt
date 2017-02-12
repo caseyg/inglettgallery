@@ -10,7 +10,7 @@ Image-media: Archival digital photograph
 
 ----
 
-Image-dimensions: 48 x 36 in.
+Image-dimensions: 84 x 60 in.
 
 ----
 
@@ -19,3 +19,11 @@ Image-inventory-id: MK0046
 ----
 
 Sort: 16
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: Edition of 3.
