@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: ED RUSCHA, Payback time from Country Cityscapes
 
 ----
 
-Image-date: 
+Image-date: 2001
 
 ----
 
-Image-media: 
+Image-media: Photogravure
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 18 x 14 in.
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 60, portfolio of 6.
 
 ----
 
