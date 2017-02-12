@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: SIMONE SHUBUCK, Ottoman
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: Lithography
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 13 x 9 1/2 in.
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 40, portfolio of 6.
 
 ----
 
