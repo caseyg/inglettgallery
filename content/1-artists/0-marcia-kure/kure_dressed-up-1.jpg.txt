@@ -10,7 +10,7 @@ Image-media: Archival digital photograph
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 84 x 60 in.
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3.
 
 ----
 
