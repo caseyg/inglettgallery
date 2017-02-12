@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Blue Gowns
 
 ----
 
-Image-date: 
+Image-date: 1993
 
 ----
 
-Image-media: 
+Image-media: Velvet and organza
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 22 x 27 ft.
 
 ----
 
@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 17
