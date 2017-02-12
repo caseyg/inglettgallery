@@ -18,4 +18,4 @@ Image-inventory-id: BD0115
 
 ----
 
-Sort: 3
+Sort: 2
