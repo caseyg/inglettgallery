@@ -10,7 +10,7 @@ Image-media: Aluminum, canvas, and pigmented epoxy
 
 ----
 
-Image-dimensions: 41” by 35” by 36”
+Image-dimensions: 41 x  35 x 36 in.
 
 ----
 
