@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Still from BreakdownLane
 
 ----
 
-Image-date: 
+Image-date: 2013
 
 ----
 
-Image-media: 
+Image-media: DVD running 11 minutes 20 seconds
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 5 + 1 AP
 
 ----
 
