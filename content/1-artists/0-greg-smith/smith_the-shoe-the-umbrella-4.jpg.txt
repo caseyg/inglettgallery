@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Still from Shoe and Umbrella
 
 ----
 
-Image-date: 
+Image-date: 2005
 
 ----
 
-Image-media: 
+Image-media: DVD, running 6.30 minutes
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3 plus 1 A.P.
 
 ----
 
