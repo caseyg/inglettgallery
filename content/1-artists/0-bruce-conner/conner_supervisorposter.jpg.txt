@@ -10,7 +10,7 @@ Image-media: Screen print
 
 ----
 
-Image-dimensions: 25.5 x 19.5 in.
+Image-dimensions: 25 1/2 x 19 1/2  in.
 
 ----
 

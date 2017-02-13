@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: BC0149
+
+----
+
+Sort: 4
