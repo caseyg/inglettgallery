@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Indian Duck
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Cotton, acrylic, wax, and cardboard/canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 116 x 36 x 15 in.
 
 ----
 
@@ -26,4 +26,4 @@ Image-inventory-id:
 
 ----
 
-Sort: 8
+Sort: 9
