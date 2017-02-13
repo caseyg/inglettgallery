@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Scratch Out Horizon Banner (All Shows),
 
 ----
 
-Image-date: 
+Image-date: 2014
 
 ----
 
-Image-media: 
+Image-media: Canvas, colored pencil, fabric, graphite, gesso hardware, paper, thread and wood
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 19 x 31 in.
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: GSM0045
