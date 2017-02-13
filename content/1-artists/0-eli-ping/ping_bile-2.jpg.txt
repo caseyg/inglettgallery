@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Bile Means 2
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: Ceramic and resin
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 15 1/2 x 14 x 18 in
 
 ----
 
@@ -22,4 +22,4 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EPI0002
