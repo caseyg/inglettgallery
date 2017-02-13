@@ -1,4 +1,4 @@
-Image-title: Post
+Image-title: Black Leader (after San Soleil, for Fred Hampton),
 
 ----
 
@@ -6,11 +6,11 @@ Image-date: 2013
 
 ----
 
-Image-media: Aluminum I-beam cut into cubic units (26 pieces)
+Image-media: Glass and black enamel
 
 ----
 
-Image-dimensions: 149 x 6 x 6 1/2 in.
+Image-dimensions: 18 x 271 3/4 in.
 
 ----
 
@@ -22,7 +22,7 @@ Image-edition-info: Edition of 3
 
 ----
 
-Image-inventory-id: EP10020
+Image-inventory-id: 
 
 ----
 
