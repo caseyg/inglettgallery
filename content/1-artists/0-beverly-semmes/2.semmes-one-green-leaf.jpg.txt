@@ -19,3 +19,11 @@ Image-inventory-id: BS0061
 ----
 
 Sort: 6
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
