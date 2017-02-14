@@ -6,19 +6,19 @@ Title: Bruce Connor2
 
 ----
 
-First-name: 
+First-name: Bruce
 
 ----
 
-Last-name: 
+Last-name: Connor
 
 ----
 
-Featured-image: 
+Featured-image: conner_take-two-dhoms-1-small.jpg
 
 ----
 
-Text: 
+Text: fdasfdasfasd
 
 ----
 
