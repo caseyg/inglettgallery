@@ -19,3 +19,11 @@ Image-inventory-id: HG0266
 ----
 
 Sort: 15
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
