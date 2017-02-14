@@ -6,11 +6,11 @@ Title: Bruce Connor2
 
 ----
 
-First-name: Bruce
+First-name: 
 
 ----
 
-Last-name: Connor
+Last-name: 
 
 ----
 
