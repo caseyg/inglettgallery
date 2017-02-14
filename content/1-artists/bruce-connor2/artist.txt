@@ -1,0 +1,25 @@
+Pagelock: 
+
+----
+
+Title: Bruce Connor2
+
+----
+
+First-name: 
+
+----
+
+Last-name: 
+
+----
+
+Featured-image: 
+
+----
+
+Text: 
+
+----
+
+Status: represented
