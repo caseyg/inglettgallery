@@ -19,3 +19,11 @@ Image-inventory-id: BS0095
 ----
 
 Sort: 8
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
