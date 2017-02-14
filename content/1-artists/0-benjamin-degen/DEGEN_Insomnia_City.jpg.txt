@@ -19,3 +19,11 @@ Image-inventory-id: BD0115
 ----
 
 Sort: 2
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
