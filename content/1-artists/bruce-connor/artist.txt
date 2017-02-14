@@ -2,7 +2,7 @@ Pagelock:
 
 ----
 
-Title: Bruce Connor
+Title: Bruce Connor2
 
 ----
 
@@ -22,4 +22,4 @@ Text:
 
 ----
 
-Status: 
+Status: represented
