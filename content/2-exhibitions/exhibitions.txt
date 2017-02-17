@@ -32,3 +32,8 @@ Upcoming:
   start: 2017-09-12
   end: 2017-10-28
   link: ""
+- 
+  title: William Villalongo
+  start: 2017-11-02
+  end: 2017-12-09
+  link: ""
