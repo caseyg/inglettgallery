@@ -27,3 +27,8 @@ Upcoming:
   start: 2017-06-08
   end: 2017-07-29
   link: ""
+- 
+  title: Beverly Semmes
+  start: 2017-09-12
+  end: 2017-10-28
+  link: ""
