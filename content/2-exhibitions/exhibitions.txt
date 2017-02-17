@@ -22,3 +22,8 @@ Upcoming:
   start: 2017-04-27
   end: 2017-06-03
   link: ""
+- 
+  title: George Herms | Miranda Giles
+  start: 2017-06-08
+  end: 2017-07-29
+  link: ""
