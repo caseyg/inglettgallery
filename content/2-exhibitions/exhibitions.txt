@@ -23,7 +23,7 @@ Upcoming:
   end: 2017-06-03
   link: ""
 - 
-  title: George Herms | Miranda Giles
+  title: George Herms | Myranda Giles
   start: 2017-06-08
   end: 2017-07-29
   link: ""
