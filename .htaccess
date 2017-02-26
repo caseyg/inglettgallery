@@ -1,4 +1,4 @@
-AddType application/x-httpd-php56 .php
+# AddType application/x-httpd-php56 .php
 # Kirby .htaccess
 
 # rewrite rules
@@ -15,7 +15,7 @@ RewriteEngine on
 # If your homepage is http://yourdomain.com/mysite
 # Set the RewriteBase to:
 #
-# RewriteBase /mysite
+RewriteBase /
 
 # block text files in the content folder from being accessed directly
 RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
@@ -44,3 +44,7 @@ RewriteRule ^(.*) index.php [L]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
+
+<IfModule mod_suphp.c>
+suPHP_ConfigPath /home/inglet2/public_html
+</IfModule>
