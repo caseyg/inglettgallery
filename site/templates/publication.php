@@ -5,7 +5,11 @@
     <img class="img-fluid" src="<?php echo thumb($page->images()->first(), array('width' => 800, 'height' => 600))->url() ?>" alt="<?php echo $page->title() ?>" />
   </figure>
   <section class="col-md-6">
-    <?php if ($page->artists()->isNotEmpty()): ?><h3 class="m-b-2"><a href="/artists/<?php echo $page->artists()->first() ?>"><?php $artist = $pages->find('artists')->children()->find($page->artists()->first()); echo $artist->first_name() . " " . $artist->last_name() ?></a></h3><?php endif; ?>
+    <?php if ($page->artists()->isNotEmpty()): ?>
+        <?php foreach ($page->artists()->split() as $artist): ?>
+          <h3 class="d-block"><a href="<?php echo $pages->find('artists')->children()->find($artist)->url() ?>"><?php echo $pages->find('artists')->children()->find($artist)->title() ?></a></h3>
+        <?php endforeach; ?>
+    <?php endif; ?>
 
     <?php echo $page->text()->kt() ?>
   </section>
