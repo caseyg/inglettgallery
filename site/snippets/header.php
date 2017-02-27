@@ -29,7 +29,7 @@
           </li>
         <?php endforeach ?>
         <li class="nav-item">
-          <a class="nav-link" href="http://iceditions.com">I.C. Editions</a>
+          <a class="nav-link" href="http://www.iceditions.com">I.C. Editions</a>
         </li>
       </ul>
     </nav>
