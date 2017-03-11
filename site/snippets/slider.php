@@ -1,7 +1,7 @@
 <div class="slider swiper-container m-b-2">
   <div class="swiper-wrapper">
     <?php
-    foreach($page->images() as $image):
+    foreach($page->images()->sortBy('sort', 'asc') as $image):
       $exhibition = $pages->find('exhibitions')->children()->find($image->exhibition()); ?>
         <div class="swiper-slide" data-hash="<?php echo str::slug($image->name()) ?>">
           <figure data-background="<?php echo $image->resize(1110, 616)->url() ?>" class="swiper-lazy img-fluid m-b-1" alt="<?php snippet('caption', $data = array('image' => $image))?>"></figure>
