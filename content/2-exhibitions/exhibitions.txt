@@ -14,18 +14,19 @@ Upcoming:
 
 - 
   title: Hope Gangloff
-  start: 2017-03-16
+  start: 2017-03-18
   end: 2017-04-22
-  link: ""
+  link: >
+    http://inglettgallery.com/exhibitions/hope-gangloff-2
 - 
-  title: THE RAT BASTARD PROTECTIVE ASSOCIATION
+  title: The Rat Bastard Protective Association
   start: 2017-04-27
   end: 2017-06-03
   link: ""
 - 
-  title: George Herms | Myranda Giles
+  title: 'The Grand Embrace :  Myranda Gillies and Grandpa George Herms'
   start: 2017-06-08
-  end: 2017-07-29
+  end: 2017-07-28
   link: ""
 - 
   title: Beverly Semmes
