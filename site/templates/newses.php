@@ -8,7 +8,7 @@
     <h3 class="heading-small">By Artist</h3>
     <ul class="list-unstyled artists-list">
       <?php
-      $artists = $pages->find('artists')->children()->visible()->sortBy(last_name, $direction = 'asc');
+      $artists = $pages->find('artists')->children()->visible()->sortBy('last_name', $direction = 'asc');
       $news = $page->children()->visible()->artists();
       foreach($artists as $artist): ?>
         <?php if ($page->children()->visible()->filterBy('artists', $artist->slug())->count() > 0): ?>
