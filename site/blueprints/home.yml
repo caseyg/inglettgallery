@@ -20,3 +20,6 @@ files: true
         value: '{{uid}}'
         text: '{{title}} — (Artists: {{artists}} {{additional_artists}})'
         flip: true
+    focus:
+      label: Image focus
+      type: focus

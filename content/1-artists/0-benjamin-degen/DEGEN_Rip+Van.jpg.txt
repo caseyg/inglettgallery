@@ -19,3 +19,15 @@ Image-dimensions: 26 x 40 in. Sheet; 28 1/2 x 42 1/2 in. Frame
 ----
 
 Image-inventory-id: BD0088
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Focus: {"x":0.55,"y":0.89}

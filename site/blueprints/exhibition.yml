@@ -30,6 +30,9 @@ files: true
     image_inventory_id:
       label: Inventory ID
       type:  text
+    focus:
+      label: Image focus
+      type: focus
 fields:
   pagelock:
     type: pagelock
