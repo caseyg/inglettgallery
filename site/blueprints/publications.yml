@@ -1,7 +1,6 @@
 title: Publications
 pages: true
   template: publication
-  num: zero
 deletable: false
 files: false
 fields:
