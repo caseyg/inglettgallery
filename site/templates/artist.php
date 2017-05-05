@@ -70,13 +70,13 @@
     </div>
     <div class="col-md-9">
       <ol class="list-unstyled" style="column-count: 2;">
-        <?php foreach ($page->children()->find('press')->files()->limit(8)->flip() as $p): ?>
+        <?php foreach ($page->children()->find('press')->files()->flip()->limit(8) as $p): ?>
           <li><a href="<?php echo $p->url() ?>" target="_blank" class="d-block"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
         <?php endforeach ?>
       </ol>
       <a data-toggle="collapse" href="#press-extended" aria-expanded="false" aria-controls="press-extended">More press</a>
       <ol id="press-extended" class="collapse list-unstyled" style="column-count: 2;">
-        <?php foreach ($page->children()->find('press')->files()->slice(8)->flip() as $p): ?>
+        <?php foreach ($page->children()->find('press')->files()->flip()->slice(8) as $p): ?>
           <li><a href="<?php echo $p->url() ?>" target="_blank" class="d-block"><?php if ($p->title()->isNotEmpty()): ?><?php echo $p->title()->html() ?><?php else: ?><?php echo $p->filename() ?><?php endif; ?></a></li>
         <?php endforeach ?>
       </ol>
