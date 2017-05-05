@@ -49,7 +49,7 @@
     <div class="col-md-9">
       <ul class="list-unstyled row">
         <?php
-          $exhibitions = page('publications')->children()->visible()->flip()->filterBy('artists',$page->slug());
+          $exhibitions = page('publications')->children()->visible()->filterBy('artists',$page->slug());
           foreach ($exhibitions as $post): ?>
           <li class="p-b-1 col-md-4 col-xs-6">
             <a href="<?php echo $post->url() ?>">
