@@ -27,3 +27,7 @@ Image-inventory-id: WV0144
 ----
 
 Sort: 10
+
+----
+
+Focus: {"x":0.49,"y":0.21}

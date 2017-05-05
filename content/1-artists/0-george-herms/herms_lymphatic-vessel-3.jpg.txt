@@ -19,3 +19,15 @@ Image-inventory-id:
 ----
 
 Sort: 13
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Focus: {"x":0.35,"y":0.3}

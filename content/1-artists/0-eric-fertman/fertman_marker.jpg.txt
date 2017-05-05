@@ -27,3 +27,7 @@ Image-inventory-id: (EF0216)
 ----
 
 Sort: 7
+
+----
+
+Focus: {"x":0.53,"y":0.45}

@@ -18,7 +18,7 @@ Image-inventory-id: HG0268
 
 ----
 
-Sort: 16
+Sort: 23
 
 ----
 
@@ -27,3 +27,7 @@ Image-dimensions-framed:
 ----
 
 Image-edition-info: 
+
+----
+
+Focus: {"x":0.53,"y":0.12}

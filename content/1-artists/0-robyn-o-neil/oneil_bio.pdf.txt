@@ -27,3 +27,7 @@ Image-dimensions-framed:
 ----
 
 Image-edition-info: 
+
+----
+
+Focus: 

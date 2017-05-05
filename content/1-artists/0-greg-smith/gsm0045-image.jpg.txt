@@ -1,4 +1,4 @@
-Image-title: Scratch Out Horizon Banner (All Shows),
+Image-title: Scratch Out Horizon Banner (All Shows)
 
 ----
 
@@ -27,3 +27,7 @@ Image-inventory-id: GSM0045
 ----
 
 Sort: 11
+
+----
+
+Focus: 

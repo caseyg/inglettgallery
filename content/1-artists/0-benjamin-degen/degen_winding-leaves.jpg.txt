@@ -27,3 +27,7 @@ Image-inventory-id: BD0042
 ----
 
 Sort: 15
+
+----
+
+Focus: {"x":0.84,"y":0.36}

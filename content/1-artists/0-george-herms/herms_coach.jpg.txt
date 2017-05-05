@@ -19,3 +19,15 @@ Image-inventory-id: GH0012
 ----
 
 Sort: 15
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Focus: {"x":0.49,"y":0.25}

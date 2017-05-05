@@ -19,3 +19,15 @@ Image-dimensions: 48 x 36 in.
 ----
 
 Image-inventory-id: BD0096
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Focus: {"x":0.82,"y":0.33}

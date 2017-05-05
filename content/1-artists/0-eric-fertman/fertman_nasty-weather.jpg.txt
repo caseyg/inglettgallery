@@ -18,12 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: (EF0224)
+Image-edition-info: 
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: EF0224
 
 ----
 
 Sort: 3
+
+----
+
+Focus: 

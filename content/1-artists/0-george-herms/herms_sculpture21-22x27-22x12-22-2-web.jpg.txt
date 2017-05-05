@@ -19,3 +19,15 @@ Image-inventory-id: GH0010
 ----
 
 Sort: 11
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Focus: {"x":0.54,"y":0.28}

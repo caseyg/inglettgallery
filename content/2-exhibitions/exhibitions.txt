@@ -6,26 +6,21 @@ Text:
 
 ----
 
-Current: robyn-o-neil
+Current: the-rat-bastard-protective-association
 
 ----
 
 Upcoming: 
 
 - 
-  title: Hope Gangloff
-  start: 2017-03-18
-  end: 2017-04-22
-  link: >
-    http://inglettgallery.com/exhibitions/hope-gangloff-2
-- 
-  title: The Rat Bastard Protective Association
+  title: Rat Bastard Protective Association
   start: 2017-04-27
   end: 2017-06-03
-  link: ""
+  link: >
+    http://inglettgallery.com/exhibitions/the-rat-bastard-protective-association
 - 
   title: 'The Grand Embrace :  Myranda Gillies and Grandpa George Herms'
-  start: 2017-06-08
+  start: 2017-06-09
   end: 2017-07-28
   link: ""
 - 

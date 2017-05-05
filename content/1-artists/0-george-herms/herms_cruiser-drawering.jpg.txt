@@ -19,3 +19,15 @@ Image-inventory-id: GH0009
 ----
 
 Sort: 16
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Focus: {"x":0.52,"y":0.27}

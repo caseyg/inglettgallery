@@ -22,8 +22,12 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: (EF0223)
+Image-inventory-id: EF0223
 
 ----
 
 Sort: 1
+
+----
+
+Focus: 

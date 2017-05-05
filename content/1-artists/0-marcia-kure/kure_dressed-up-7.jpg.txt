@@ -27,3 +27,7 @@ Image-dimensions-framed:
 ----
 
 Image-edition-info: Edition of 3.
+
+----
+
+Focus: {"x":0.48,"y":0.28}

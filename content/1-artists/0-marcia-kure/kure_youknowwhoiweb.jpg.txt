@@ -27,3 +27,7 @@ Image-inventory-id: MK0007
 ----
 
 Sort: 10
+
+----
+
+Focus: {"x":0.5,"y":0.44}

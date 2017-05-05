@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Still from Total Runout, Heavy Sparkle
 
 ----
 
-Image-date: 
+Image-date: 2016
 
 ----
 
-Image-media: 
+Image-media: DVD running 9 minutes 05 seconds
 
 ----
 
@@ -27,3 +27,7 @@ Image-inventory-id:
 ----
 
 Sort: 16
+
+----
+
+Focus: 

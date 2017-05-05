@@ -27,3 +27,7 @@ Image-inventory-id: BS018
 ----
 
 Sort: 1
+
+----
+
+Focus: {"x":0.64,"y":0.55}

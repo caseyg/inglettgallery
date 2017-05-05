@@ -6,7 +6,7 @@ Image-date: 2017
 
 ----
 
-Image-media: Acrylic on canvas
+Image-media: Acrylic and cut paper on canvas
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: HG0330
+
+----
+
+Focus: {"x":0.38,"y":0.22}
+
+----
+
+Sort: 3

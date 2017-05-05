@@ -26,4 +26,8 @@ Image-inventory-id:
 
 ----
 
-Sort: 5
+Sort: 16
+
+----
+
+Focus: {"x":0.67,"y":0.3}
