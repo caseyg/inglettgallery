@@ -8,7 +8,7 @@
 <section id="biography" class="row m-t-3">
   <div class="col-md-3">
     <h2 class="heading-small">Biography</h2>
-    <small><a href="<?php echo $bio->url() ?>">Download as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small></p>
+    <small><a target="_blank" href="<?php echo $bio->url() ?>">Download as PDF &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></small></p>
   </div>
   <div class="col-md-9">
     <?php echo $page->text()->kt() ?>
