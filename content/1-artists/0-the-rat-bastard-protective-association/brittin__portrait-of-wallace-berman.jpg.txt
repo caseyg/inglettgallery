@@ -1,0 +1,33 @@
+Image-title: CHARLES BRITTIN, Portrait of Wallace Berman
+
+----
+
+Image-date: c. 1957-1960
+
+----
+
+Image-media: Print
+
+----
+
+Image-dimensions: 7 1/2 x 9 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.64,"y":0.49}
+
+----
+
+Sort: 6

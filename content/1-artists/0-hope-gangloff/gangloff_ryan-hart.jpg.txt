@@ -1,0 +1,33 @@
+Image-title: Ryan Hart
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic and cut paper on canvas
+
+----
+
+Image-dimensions: 62 x 36 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: HG0330
+
+----
+
+Focus: {"x":0.42,"y":0.19}
+
+----
+
+Sort: 2

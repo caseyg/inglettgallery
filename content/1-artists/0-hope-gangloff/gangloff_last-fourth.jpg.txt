@@ -1,0 +1,33 @@
+Image-title: Last Fourth
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic and cut paper on canvas
+
+----
+
+Image-dimensions: 72 x 96 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: HG0334
+
+----
+
+Focus: {"x":0.7,"y":0.21}
+
+----
+
+Sort: 5

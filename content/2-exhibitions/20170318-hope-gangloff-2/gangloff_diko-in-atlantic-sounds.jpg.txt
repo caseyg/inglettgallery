@@ -1,0 +1,33 @@
+Image-title: Diko in Atlantic Sounds
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic on linen
+
+----
+
+Image-dimensions: 36 x 24 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: HG0335
+
+----
+
+Focus: {"x":0.56,"y":0.34}
+
+----
+
+Sort: 10

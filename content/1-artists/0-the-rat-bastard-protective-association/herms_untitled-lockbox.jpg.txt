@@ -1,0 +1,33 @@
+Image-title: GEORGE HERMS, Lockbox
+
+----
+
+Image-date: c. 1959
+
+----
+
+Image-media: Assemblage
+
+----
+
+Image-dimensions: 9 1/2 x 5 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.43,"y":0.59}
+
+----
+
+Sort: 22

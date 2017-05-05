@@ -1,0 +1,33 @@
+Image-title: WALLY HEDRICK, Hurry Up It's Time
+
+----
+
+Image-date: 1960
+
+----
+
+Image-media: Oil on canvas
+
+----
+
+Image-dimensions: 118 x 25 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.5,"y":0.23}
+
+----
+
+Sort: 19

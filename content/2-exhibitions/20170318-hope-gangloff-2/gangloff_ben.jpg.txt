@@ -1,0 +1,33 @@
+Image-title: Ben
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic on panel
+
+----
+
+Image-dimensions: 24 x 18 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: HG0337
+
+----
+
+Focus: {"x":0.56,"y":0.41}
+
+----
+
+Sort: 8

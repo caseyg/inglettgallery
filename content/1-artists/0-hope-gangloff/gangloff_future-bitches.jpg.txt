@@ -1,0 +1,33 @@
+Image-title: Future Bitches
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic on canvas
+
+----
+
+Image-dimensions: 72 x 48 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: HG0339
+
+----
+
+Focus: {"x":0.61,"y":0.13}
+
+----
+
+Sort: 4

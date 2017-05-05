@@ -1,0 +1,33 @@
+Image-title: Friends and Animals (Stine Westergaard)
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic and cut paper on canvas
+
+----
+
+Image-dimensions: 62 x 36 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: HG0338
+
+----
+
+Focus: {"x":0.66,"y":0.22}
+
+----
+
+Sort: 4

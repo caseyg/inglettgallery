@@ -1,0 +1,33 @@
+Image-title: Jean Conner, (ARE YOU A SPRINGMAID)
+
+----
+
+Image-date: 960
+
+----
+
+Image-media: Paper collage
+
+----
+
+Image-dimensions: 10 1/2 x 8 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.46,"y":0.82}
+
+----
+
+Sort: 15
