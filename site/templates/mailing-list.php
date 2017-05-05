@@ -35,7 +35,7 @@
       </div>
       <div class="form-group <?php e($form->hasError('address_2'), ' has-danger')?>">
         <label for="address_2">Address 2</label>
-        <input class="form-control" type="text" name="address_2" id="address_2" required>
+        <input class="form-control" type="text" name="address_2" id="address_2">
       </div>
 
       <div class="form-group row">
