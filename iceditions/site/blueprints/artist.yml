@@ -1,0 +1,55 @@
+title: Artist
+pages: false
+files: true
+  sortable: true
+  size: 5242880
+  fields:
+    image_title:
+      label: Title
+      type:  text
+    image_date:
+      label: Date
+      type:  text
+      placeholder: e.g. 2016
+    image_media:
+      label: Media
+      type:  text
+      placeholder: "e.g. Enamel and pigment on canvas"
+    image_dimensions:
+      label: Dimensions
+      type:  text
+      placeholder: "e.g. 20 x 20 in."
+    image_dimensions_framed:
+      label: Framed Dimensions
+      type:  text
+      placeholder: "e.g. 22 x 22 in."
+    image_edition_info:
+      label: Edition Information
+      type:  text
+      placeholder: "e.g. Edition of 8"
+    image_inventory_id:
+      label: Inventory ID
+      type:  text
+    focus:
+      label: Image focus
+      type: focus
+fields:
+  pagelock:
+    type: pagelock
+  title:
+    label: Title
+    type: text
+  first_name:
+    label: First Name
+    type:  text
+    width: 1/2
+  last_name:
+    label: Last Name
+    type:  text
+    width: 1/2
+  featured_image:
+    label: Featured Image
+    type: image
+  text:
+    label: Text
+    type:  textarea

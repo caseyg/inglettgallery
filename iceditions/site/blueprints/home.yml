@@ -1,0 +1,25 @@
+title: Home
+pages: false
+deletable: false
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true
+files: true
+  sortable: true
+  size: 5242880
+  fields:
+    artist:
+      label: Artist
+      type: multiselect
+      options: query
+      limit: 1
+      query:
+        page: artists
+        value: '{{uid}}'
+        text: '{{title}}'
+        flip: true
+    focus:
+      label: Image focus
+      type: focus

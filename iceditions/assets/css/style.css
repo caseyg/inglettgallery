@@ -1,0 +1,91 @@
+body {
+  font-family: "Interstate Lt", sans-serif;
+  color: gray; }
+
+strong, .font-weight-bold {
+  font-family: "Interstate Bd", sans-serif;
+  font-weight: 900; }
+
+a:link, a:visited {
+  color: gray;
+  border-bottom: 1px solid lightgray; }
+
+ul a:link, ul a:visited, ol a:link, ol a:visited, nav a:link, nav a:visited, header a:link, header a:visited, h1 a:link, h1 a:visited, h2 a:link, h2 a:visited, h3 a:link, h3 a:visited, h4 a:link, h4 a:visited, h5 a:link, h5 a:visited, h6 a:link, h6 a:visited, .slider a:link, .slider a:visited, .slider--home a:link, .slider--home a:visited, .back a:link, .back a:visited {
+  border-bottom: none; }
+
+a:hover, a:active {
+  text-decoration: none;
+  opacity: .7; }
+
+nav, footer {
+  font-size: 14px; }
+
+.logo {
+  font-family: "Interstate Lt", sans-serif;
+  font-weight: 100; }
+
+.logo-susan-inglett {
+  color: gray; }
+
+.logo-gallery {
+  color: lightgray; }
+
+.heading-small {
+  text-transform: uppercase;
+  font-size: 14px; }
+
+.artists-list li a {
+  display: block;
+  padding: 3px 0; }
+
+.publication-link {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  display: block;
+  width: 100%;
+  padding-top: 100%;
+  margin-bottom: 15px; }
+
+.news-item {
+  display: block; }
+  .news-item p, .news-item strong, .news-item span, .news-item a {
+    display: inline; }
+
+.swiper-button-prev {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23808080'%2F%3E%3C%2Fsvg%3E") !important; }
+
+.swiper-button-next {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23808080'%2F%3E%3C%2Fsvg%3E") !important; }
+
+.slider--home img {
+  max-width: 100%;
+  height: auto; }
+
+.slider figure {
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain; }
+  .slider figure:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: 55.4955%; }
+  .slider figure > .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; }
+
+.title {
+  display: none; }
+
+.uniform__potty {
+  position: absolute;
+  top: -9999px;
+  left: -9999px; }
+
+p {
+  font-size: 14px; }

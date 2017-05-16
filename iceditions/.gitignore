@@ -1,0 +1,11 @@
+.DS_Store
+/site/accounts
+/assets/avatars
+/thumbs/*
+/node_modules
+error_log
+/site/config/config.php
+.lock
+/site/cache
+php.ini
+.ftpquota
