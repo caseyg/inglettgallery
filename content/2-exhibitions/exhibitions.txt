@@ -13,12 +13,6 @@ Current: the-rat-bastard-protective-association
 Upcoming: 
 
 - 
-  title: Rat Bastard Protective Association
-  start: 2017-04-27
-  end: 2017-06-03
-  link: >
-    http://inglettgallery.com/exhibitions/the-rat-bastard-protective-association
-- 
   title: 'The Grand Embrace :  Myranda Gillies and Grandpa George Herms'
   start: 2017-06-09
   end: 2017-07-28
