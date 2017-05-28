@@ -18,7 +18,7 @@ Image-inventory-id: GH0010
 
 ----
 
-Sort: 11
+Sort: 10
 
 ----
 
@@ -30,4 +30,4 @@ Image-edition-info:
 
 ----
 
-Focus: {"x":0.54,"y":0.28}
+Focus: {"x":0.52,"y":0.32}

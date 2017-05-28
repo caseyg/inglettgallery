@@ -18,7 +18,7 @@ Image-inventory-id: GH0020
 
 ----
 
-Sort: 10
+Sort: 9
 
 ----
 

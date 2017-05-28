@@ -1,0 +1,33 @@
+Image-title: Untitled
+
+----
+
+Image-date: 1962
+
+----
+
+Image-media: Assemblage
+
+----
+
+Image-dimensions: 11 x 9 1/2 x 11 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: GH0022
+
+----
+
+Focus: {"x":0.53,"y":0.44}
+
+----
+
+Sort: 17
