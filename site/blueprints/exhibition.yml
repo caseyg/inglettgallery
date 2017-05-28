@@ -7,6 +7,9 @@ files: true
     image_title:
       label: Title
       type:  text
+    image_artist:
+      label: Artist Name
+      type:  text
     image_date:
       label: Date
       type:  text

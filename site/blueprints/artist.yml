@@ -13,6 +13,9 @@ files: true
   sortable: true
   size: 5242880
   fields:
+    image_artist:
+      label: Artist Name
+      type:  text
     image_title:
       label: Title
       type:  text

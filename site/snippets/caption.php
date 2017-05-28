@@ -2,7 +2,7 @@
 
 $caption = []; // Let's make a caption
 
-$image_fields = ['image_title', 'image_date', 'image_media', 'image_dimensions', 'image_dimensions_framed', 'image_edition_info']; // Using these image fields
+$image_fields = ['image_artist', 'image_title', 'image_date', 'image_media', 'image_dimensions', 'image_dimensions_framed', 'image_edition_info']; // Using these image fields
 
 foreach($image_fields as $image_field):
   if ($image->$image_field()->isNotEmpty()):
