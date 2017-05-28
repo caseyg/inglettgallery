@@ -1,5 +1,0 @@
-Artist: barbara-bloom
-
-----
-
-Focus: {"x":0.46,"y":0.54}
