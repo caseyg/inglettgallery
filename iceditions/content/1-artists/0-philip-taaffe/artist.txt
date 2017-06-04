@@ -14,7 +14,7 @@ Last-name: Taaffe
 
 ----
 
-Featured-image: 
+Featured-image: taaffe_center.jpg
 
 ----
 

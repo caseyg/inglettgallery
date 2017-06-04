@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Slater Study
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic on linen
+
+----
+
+Image-dimensions: 24 x 18 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: (HG0342)
+
+----
+
+Focus: {"x":0.64,"y":0.35}

@@ -26,4 +26,12 @@ Image-inventory-id: (RW0153)
 
 ----
 
-Sort: 3
+Sort: 8
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 
