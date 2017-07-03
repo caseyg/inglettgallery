@@ -1,8 +1,8 @@
-Image-artist: 
+Image-artist: Ryan Wallace
 
 ----
 
-Image-title: 
+Image-title: Wallace Bio
 
 ----
 
@@ -31,7 +31,3 @@ Image-inventory-id:
 ----
 
 Focus: 
-
-----
-
-Sort: 5

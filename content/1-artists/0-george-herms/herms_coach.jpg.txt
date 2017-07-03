@@ -6,7 +6,7 @@ Image-date: 2008
 
 ----
 
-Image-media: Assemblage
+Image-media: Assemblage sculpture
 
 ----
 
@@ -30,4 +30,8 @@ Image-edition-info:
 
 ----
 
-Focus: {"x":0.49,"y":0.25}
+Focus: {"x":0.49,"y":0.31}
+
+----
+
+Image-artist: 

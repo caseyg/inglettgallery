@@ -6,7 +6,7 @@ Image-date: 1962
 
 ----
 
-Image-media: Assemblage
+Image-media: Assemblage sculpture
 
 ----
 
@@ -31,3 +31,7 @@ Focus: {"x":0.53,"y":0.44}
 ----
 
 Sort: 17
+
+----
+
+Image-artist: 

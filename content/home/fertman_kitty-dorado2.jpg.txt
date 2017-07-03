@@ -1,0 +1,9 @@
+Exhibition: eric-fertman-2016
+
+----
+
+Sort: 6
+
+----
+
+Focus: {"x":0.49,"y":0.64}

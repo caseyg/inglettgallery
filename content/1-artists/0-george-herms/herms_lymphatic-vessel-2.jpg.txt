@@ -6,7 +6,7 @@ Image-date: 2008
 
 ----
 
-Image-media: Assemblage
+Image-media: Assemblage sculpture
 
 ----
 
@@ -18,7 +18,7 @@ Image-inventory-id: GH0013
 
 ----
 
-Sort: 13
+Sort: 12
 
 ----
 
@@ -31,3 +31,7 @@ Image-edition-info:
 ----
 
 Focus: {"x":0.51,"y":0.32}
+
+----
+
+Image-artist: 

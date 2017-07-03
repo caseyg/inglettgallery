@@ -6,17 +6,12 @@ Text:
 
 ----
 
-Current: the-rat-bastard-protective-association
+Current: grand-embrace-myranda-gillies-and-grandpa-george-herms
 
 ----
 
 Upcoming: 
 
-- 
-  title: 'The Grand Embrace :  Myranda Gillies and Grandpa George Herms'
-  start: 2017-06-09
-  end: 2017-07-28
-  link: ""
 - 
   title: Beverly Semmes
   start: 2017-09-12

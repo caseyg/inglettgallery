@@ -6,7 +6,7 @@ Image-date: 2011
 
 ----
 
-Image-media: Assemblage
+Image-media: Assemblage sculpture
 
 ----
 
@@ -18,7 +18,7 @@ Image-inventory-id: GH0010
 
 ----
 
-Sort: 10
+Sort: 13
 
 ----
 
@@ -30,4 +30,8 @@ Image-edition-info:
 
 ----
 
-Focus: {"x":0.52,"y":0.32}
+Focus: {"x":0.47,"y":0.38}
+
+----
+
+Image-artist: 

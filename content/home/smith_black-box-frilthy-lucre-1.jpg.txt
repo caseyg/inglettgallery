@@ -1,0 +1,9 @@
+Exhibition: zero-width-non-joiner
+
+----
+
+Sort: 8
+
+----
+
+Focus: {"x":0.51,"y":0.49}

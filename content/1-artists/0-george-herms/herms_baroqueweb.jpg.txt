@@ -6,7 +6,7 @@ Image-date: 2011
 
 ----
 
-Image-media: Assemblage
+Image-media: Assemblage sculpture
 
 ----
 
@@ -31,3 +31,7 @@ Sort: 16
 ----
 
 Focus: {"x":0.53,"y":0.45}
+
+----
+
+Image-artist: 

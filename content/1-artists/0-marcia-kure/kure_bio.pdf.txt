@@ -1,4 +1,8 @@
-Image-title: 
+Image-artist: Marcia Kure
+
+----
+
+Image-title: Marcia Kure Bio
 
 ----
 
@@ -14,10 +18,6 @@ Image-dimensions:
 
 ----
 
-Image-inventory-id: 
-
-----
-
 Image-dimensions-framed: 
 
 ----
@@ -26,4 +26,8 @@ Image-edition-info:
 
 ----
 
-Sort: 18
+Image-inventory-id: 
+
+----
+
+Focus: 
