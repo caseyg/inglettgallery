@@ -36,9 +36,11 @@
               </strong>
               <?php if (!kirby()->request()->params()->artist()):?>
                 <span>—</span>
-                <?php if ($news->artists()->isNotEmpty()):
-                  $artist = $pages->find('artists')->children()->visible()->find($news->artists()->first()); ?>
-                  <a href="/artists/<?php echo $artist->slug() ?>"><?php echo $artist->first_name() . " " . $artist->last_name() ?></a>
+                <?php if ($news->artists()->isNotEmpty()):?>
+                  <?php foreach ($news->artists()->split() as $artist): ?>
+                    <?php $artist = $pages->find('artists')->children()->visible()->find($artist); ?>
+                    <a href="/artists/<?php echo $artist->slug() ?>"><?php echo $artist->first_name() . " " . $artist->last_name() ?></a>
+                  <?php endforeach; ?>
                 <?php endif; ?>
               <?php endif ?>
             </small>
