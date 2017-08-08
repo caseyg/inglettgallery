@@ -49,8 +49,8 @@
     <div class="col-md-9">
       <ul class="list-unstyled row">
         <?php
-          $exhibitions = page('publications')->children()->visible()->filterBy('artists',$page->slug());
-          foreach ($exhibitions as $post): ?>
+          $publications = page('publications')->children()->visible()->flip()->filterBy('artists',$page->slug(),',');
+          foreach ($publications as $post): ?>
           <li class="p-b-1 col-md-4 col-xs-6">
             <a href="<?php echo $post->url() ?>">
               <?php if ($post->images()->count() > 0): ?><img src="<?php echo $post->images()->first()->focusCrop(255,255)->url() ?>" alt="<?php snippet('exhibition-title', $data = array('exhibition' => $post)) ?>" class="m-b-1" style="max-width:100%;"><br><?php endif; ?>
