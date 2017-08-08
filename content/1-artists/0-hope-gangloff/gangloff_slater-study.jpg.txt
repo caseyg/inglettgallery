@@ -31,3 +31,7 @@ Image-inventory-id: (HG0342)
 ----
 
 Focus: {"x":0.64,"y":0.35}
+
+----
+
+Sort: 2

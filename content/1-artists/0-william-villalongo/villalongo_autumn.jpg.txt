@@ -31,3 +31,7 @@ Sort: 11
 ----
 
 Focus: {"x":0.51,"y":0.18}
+
+----
+
+Image-artist: William Villalongo

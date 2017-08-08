@@ -1,8 +1,8 @@
-Image-artist: 
+Image-artist: Robyn O'Neil
 
 ----
 
-Image-title: 
+Image-title: O'Neil Bio
 
 ----
 

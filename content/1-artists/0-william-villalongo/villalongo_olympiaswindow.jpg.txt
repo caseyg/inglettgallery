@@ -27,3 +27,11 @@ Image-inventory-id: WV0142
 ----
 
 Sort: 8
+
+----
+
+Image-artist: William Villalongo
+
+----
+
+Focus: 

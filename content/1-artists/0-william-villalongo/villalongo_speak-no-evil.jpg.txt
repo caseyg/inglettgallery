@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 6
+
+----
+
+Image-artist: William Villalongo
+
+----
+
+Focus: 
