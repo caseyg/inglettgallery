@@ -4,8 +4,8 @@ files: true
   sortable: true
   size: 5242880
 fields:
-  pagelock:
-    type: pagelock
+  lock:
+    type: lock
   title:
     label: Publication Title
     type:  text

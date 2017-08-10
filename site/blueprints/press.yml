@@ -9,8 +9,8 @@ files: true
       label: Title
       type: text
 fields:
-  pagelock:
-    type: pagelock
+  lock:
+    type: lock
   press_info:
     label: Artist Press
     type: info

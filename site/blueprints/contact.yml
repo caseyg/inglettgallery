@@ -2,8 +2,8 @@ title: Contact
 pages: false
 files: true
 fields:
-  pagelock:
-    type: pagelock
+  lock:
+    type: lock
   title:
     label: Title
     type:  text

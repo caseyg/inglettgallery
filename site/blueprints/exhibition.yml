@@ -37,8 +37,8 @@ files: true
       label: Image focus
       type: focus
 fields:
-  pagelock:
-    type: pagelock
+  lock:
+    type: lock
   title:
     label: Exhibition Title
     type:  text
