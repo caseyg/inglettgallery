@@ -13,3 +13,6 @@
 [submodule "site/plugins/focus"]
 	path = site/plugins/focus
 	url = https://github.com/flokosiol/kirby-focus.git
+[submodule "site/plugins/page-lock"]
+	path = site/plugins/page-lock
+	url = https://github.com/pedroborges/kirby-page-lock.git
