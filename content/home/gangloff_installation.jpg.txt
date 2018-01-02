@@ -1,9 +1,0 @@
-Exhibition: enjoy-the-holiday
-
-----
-
-Focus: {"x":0.58,"y":0.37}
-
-----
-
-Sort: 1

@@ -1,9 +1,0 @@
-Exhibition: the-rat-bastard-protective-association
-
-----
-
-Focus: {"x":0.52,"y":0.49}
-
-----
-
-Sort: 3
