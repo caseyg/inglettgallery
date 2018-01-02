@@ -1,0 +1,29 @@
+Image-title: End Scene
+
+----
+
+Image-date: 2007
+
+----
+
+Image-media: C-Print
+
+----
+
+Image-dimensions: 60 x 40 in
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: EPI0010
+
+----
+
+Sort: 4

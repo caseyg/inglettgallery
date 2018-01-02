@@ -31,3 +31,7 @@ Image-edition-info:
 ----
 
 Focus: 
+
+----
+
+Image-artist: 

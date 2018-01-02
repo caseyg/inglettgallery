@@ -10,7 +10,7 @@ Image-date: 2017
 
 ----
 
-Image-media: monofilament, cotton, lurex, chile mulato, chile arbol, tin foil
+Image-media: Monofilament, cotton, lurex, chile mulato, chile arbol, tin foil
 
 ----
 

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Nude Drifter
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Stained oak
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 30 x 35 x 16 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 25
+Sort: 9
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

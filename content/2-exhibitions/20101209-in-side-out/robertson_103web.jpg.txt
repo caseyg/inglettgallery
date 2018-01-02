@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 13
+
+----
+
+Image-artist: Mariah Robertson
+
+----
+
+Focus: 

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Zenon Huanca (portrait of my Father)
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: Father’s clothes
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 35 x 23 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 7
+Sort: 8
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

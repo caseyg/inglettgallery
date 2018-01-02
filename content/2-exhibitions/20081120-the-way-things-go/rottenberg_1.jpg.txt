@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Performance Still (Body Parts &  Heather & Jungle)
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: C-Print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 68 x 44 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: Mika Rottenberg
+
+----
+
+Focus: 

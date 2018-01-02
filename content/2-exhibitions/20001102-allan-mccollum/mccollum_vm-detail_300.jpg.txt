@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: More Visible Markers in Twelve Exciting Colors Installation View
 
 ----
 
-Image-date: 
+Image-date: 2000
 
 ----
 
-Image-media: 
+Image-media: Painted Tufcal
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 4 diameter x 1 3/4 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Unlimited
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

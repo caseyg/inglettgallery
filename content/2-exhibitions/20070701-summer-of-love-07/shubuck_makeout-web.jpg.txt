@@ -1,4 +1,4 @@
-Image-title: SIMONE SHUBUCK, Makeout
+Image-title: Makeout
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: Edition of 40, portfolio of 6.
+Image-edition-info: Edition of 40, portfolio of 6
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: Simone Shubuck
+
+----
+
+Focus: 

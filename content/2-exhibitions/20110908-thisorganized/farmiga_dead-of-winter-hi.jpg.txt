@@ -6,7 +6,7 @@ Image-date: 2011
 
 ----
 
-Image-media: Watercolor, graphite and acrylic, Arches,
+Image-media: Watercolor, graphite and acrylic on paper
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 9
+
+----
+
+Image-artist: Adriana Farmiga
+
+----
+
+Focus: 

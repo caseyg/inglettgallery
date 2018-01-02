@@ -1,4 +1,4 @@
-Image-title: Bruce Conner, MARY, MOTHER OF GOD
+Image-title: MARY, MOTHER OF GOD
 
 ----
 
@@ -31,3 +31,7 @@ Focus:
 ----
 
 Sort: 7
+
+----
+
+Image-artist: Bruce Conner

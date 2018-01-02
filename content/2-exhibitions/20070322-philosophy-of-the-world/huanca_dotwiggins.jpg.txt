@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Dot Wiggins with Four Track and Tambourine
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: Fabric
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Dimensions variable
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 2
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

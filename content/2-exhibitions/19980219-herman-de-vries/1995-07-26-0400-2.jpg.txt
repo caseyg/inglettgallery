@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: (without title)
 
 ----
 
-Image-date: 
+Image-date: 1992
 
 ----
 
-Image-media: 
+Image-media: Rushes on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 3/4 x 8 1/4 in.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

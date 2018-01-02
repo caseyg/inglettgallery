@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Bearded Lady
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: Styrofoam, acrylic paint, duct tape
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 6
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

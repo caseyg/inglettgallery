@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: BD0091
+
+----
+
+Sort: 15

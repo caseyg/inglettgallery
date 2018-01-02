@@ -1,0 +1,37 @@
+Image-title: Monument
+
+----
+
+Image-artist: 
+
+----
+
+Image-date: 2007
+
+----
+
+Image-media: Poplar, maple, steel, and acrylic paint
+
+----
+
+Image-dimensions: 110 x 25 x 85 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 3

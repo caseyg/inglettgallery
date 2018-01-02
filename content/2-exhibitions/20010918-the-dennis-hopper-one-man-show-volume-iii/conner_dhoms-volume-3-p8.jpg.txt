@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: DENNIS HOPPER ONE MAN SHOW, Volume III
 
 ----
 
-Image-date: 
+Image-date: 1973
 
 ----
 
-Image-media: 
+Image-media: Etching
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 3/8 x 19 1/4 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 10, portfolio of 8
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

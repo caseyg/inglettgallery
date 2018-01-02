@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: YKA0002
+
+----
+
+Image-artist: Yayoi Kusama
+
+----
+
+Focus: 
+
+----
+
+Sort: 14

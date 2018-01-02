@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Downed Pilots Approach a Native Fisherman
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Gouache/panel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 x 12 1/2 in
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

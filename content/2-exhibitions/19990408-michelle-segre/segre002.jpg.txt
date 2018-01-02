@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Golden White Slice 2
 
 ----
 
-Image-date: 
+Image-date: 1996
 
 ----
 
-Image-media: 
+Image-media: Beeswax, foam, papier mache
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 52 x 55 x 6 in.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

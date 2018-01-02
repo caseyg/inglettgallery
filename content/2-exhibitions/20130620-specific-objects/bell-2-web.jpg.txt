@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: LBE001
+
+----
+
+Image-artist: Larry Bell
+
+----
+
+Focus: 
+
+----
+
+Sort: 11

@@ -6,7 +6,7 @@ Image-date: 2011
 
 ----
 
-Image-media: Ink, paper
+Image-media: Ink on paper
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 14
+
+----
+
+Image-artist: Nathan Gelgud
+
+----
+
+Focus: 

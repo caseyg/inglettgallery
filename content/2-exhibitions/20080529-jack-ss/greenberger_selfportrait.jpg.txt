@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Performance Document:  Self Portrait with Pancakes
 
 ----
 
-Image-date: 
+Image-date: 2003–06
 
 ----
 
-Image-media: 
+Image-media: C-Print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 20 in.
 
 ----
 
@@ -18,8 +18,20 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 5
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 9
+
+----
+
+Image-artist: Sara Greeenburger Rafferty
+
+----
+
+Focus: 

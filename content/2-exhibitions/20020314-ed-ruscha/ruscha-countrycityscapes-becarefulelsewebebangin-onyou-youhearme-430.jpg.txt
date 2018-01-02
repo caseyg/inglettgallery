@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: You Will Eat Hot Lead   Do As Told Or Suffer No Longer Available    It's Payback Time   Noose Around Your Neck     Be Careful Else We Be Bangin' on You, You Hear Me?
 
 ----
 
-Image-date: 
+Image-date: 2001
 
 ----
 
-Image-media: 
+Image-media: 4-color photogravures with screenprinted text
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 18 x 14 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 60
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

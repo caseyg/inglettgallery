@@ -6,11 +6,11 @@ Image-date: 2011
 
 ----
 
-Image-media: Acrylic, watercolor, pencil and paper
+Image-media: Acrylic, watercolor, pencil on paper
 
 ----
 
-Image-dimensions: 10.75 x 12.5 in.
+Image-dimensions: 10 3/4 x 12 1/2  in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 21
+Sort: 24
+
+----
+
+Image-artist: Justin Valdes
+
+----
+
+Focus: 

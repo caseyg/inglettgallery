@@ -6,7 +6,7 @@ Image-date: 1977
 
 ----
 
-Image-media: Graphite, paper
+Image-media: Graphite on paper
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 37
+Sort: 3
+
+----
+
+Image-artist: Betty Tompkins
+
+----
+
+Focus: 

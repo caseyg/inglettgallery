@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: LOVE (Public Sculpture  Tackle)
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: C-Print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 34 x 34 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 3
+
+----
+
+Image-artist: The Bruce High Quality Foundation
+
+----
+
+Focus: 

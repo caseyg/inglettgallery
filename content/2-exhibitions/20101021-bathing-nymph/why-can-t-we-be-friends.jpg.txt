@@ -26,4 +26,12 @@ Image-inventory-id: WV0018
 
 ----
 
-Sort: 9
+Sort: 13
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

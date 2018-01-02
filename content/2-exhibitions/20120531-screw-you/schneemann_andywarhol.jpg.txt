@@ -2,7 +2,7 @@ Image-title: Warhol Line-Up
 
 ----
 
-Image-date: 
+Image-date: N.D.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 27
+Sort: 16
+
+----
+
+Image-artist: Carolee Schneemann
+
+----
+
+Focus: 

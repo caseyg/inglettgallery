@@ -6,7 +6,7 @@ Image-date: 1973
 
 ----
 
-Image-media: Graphite, paper
+Image-media: Graphite on paper
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 38
+Sort: 4
+
+----
+
+Image-artist: Betty Tompkins
+
+----
+
+Focus: 

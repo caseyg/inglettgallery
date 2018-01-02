@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: AGZ001
+
+----
+
+Image-artist: Alejandro Guzman
+
+----
+
+Focus: 
+
+----
+
+Sort: 9

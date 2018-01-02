@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Untitled
 
 ----
 
-Image-date: 
+Image-date: 2003
 
 ----
 
-Image-media: 
+Image-media: Ink, gouache, graphite/constructed paper
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 2
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

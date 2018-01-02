@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: SL0001
+
+----
+
+Image-artist: Sven Lukin
+
+----
+
+Focus: 
+
+----
+
+Sort: 17

@@ -30,7 +30,7 @@ Sort: 8
 
 ----
 
-Image-artist: William Villalongo
+Image-artist: 
 
 ----
 

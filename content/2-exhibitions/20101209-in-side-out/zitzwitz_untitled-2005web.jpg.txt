@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 16
+
+----
+
+Image-artist: Thomas Zitzwitz
+
+----
+
+Focus: 

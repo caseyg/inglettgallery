@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 19
+Sort: 20
+
+----
+
+Image-artist: Benjamin Degen
+
+----
+
+Focus: 

@@ -26,4 +26,4 @@ Image-inventory-id: AKT012
 
 ----
 
-Sort: 7
+Sort: 4

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Sound Module 1 and 2
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: Fabric, tape, metal
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 65 x 18 1/2 x 21 1/2  in. each
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 13
+Sort: 4
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

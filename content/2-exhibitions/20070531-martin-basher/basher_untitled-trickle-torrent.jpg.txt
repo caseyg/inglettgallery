@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled (Waterfall)
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: Acrylic on panel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 3/4 x 32 5/16 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 6

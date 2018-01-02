@@ -1,0 +1,29 @@
+Image-title: Paint Tray 4
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Epoxy modeling clay, bamboo and steel
+
+----
+
+Image-dimensions: 10 x 14 x 4 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: AT0004
+
+----
+
+Sort: 10

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: A Pleasant Walk Leading to a Spectacular Fall
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas on panel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 48 x 66 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 3

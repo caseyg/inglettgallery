@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: RG0001
+
+----
+
+Image-artist: Rico Gatson
+
+----
+
+Focus: 
+
+----
+
+Sort: 10

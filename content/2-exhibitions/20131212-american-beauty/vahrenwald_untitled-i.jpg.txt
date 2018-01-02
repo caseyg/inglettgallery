@@ -23,3 +23,15 @@ Image-edition-info: Edition 2 of 5
 ----
 
 Image-inventory-id: MV0002
+
+----
+
+Image-artist: Michael Vahrenwald
+
+----
+
+Focus: 
+
+----
+
+Sort: 23

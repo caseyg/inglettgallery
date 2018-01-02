@@ -26,4 +26,4 @@ Image-inventory-id: GSM0076
 
 ----
 
-Sort: 2
+Sort: 6

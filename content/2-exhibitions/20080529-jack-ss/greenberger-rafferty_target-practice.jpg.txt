@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Target Practice
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: Expandable  foam, pigment, pie tins, and hardware dimensions variable
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 8
+
+----
+
+Image-artist: Sara Greeenburger Rafferty
+
+----
+
+Focus: 

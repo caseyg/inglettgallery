@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Evo Morales
 
 ----
 
-Image-date: 
+Image-date: 2004
 
 ----
 
-Image-media: 
+Image-media: Fabric
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 16 x 20 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 6
+Sort: 7
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

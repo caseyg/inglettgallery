@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled
 
 ----
 
-Image-date: 
+Image-date: 1964
 
 ----
 
-Image-media: 
+Image-media: Photograph
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 1/2 x 9 1/4 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 4
+
+----
+
+Image-artist: Gunter Brus
+
+----
+
+Focus: 

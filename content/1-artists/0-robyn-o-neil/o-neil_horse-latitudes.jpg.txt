@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Horse Latitudes
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Graphite on paper
+
+----
+
+Image-dimensions: 8 3/8 x 12 in. Sheet
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 3

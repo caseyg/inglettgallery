@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Paul's Place
 
 ----
 
-Image-date: 
+Image-date: 2002
 
 ----
 
-Image-media: 
+Image-media: Etching
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 26 x 35 1/2 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 30
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

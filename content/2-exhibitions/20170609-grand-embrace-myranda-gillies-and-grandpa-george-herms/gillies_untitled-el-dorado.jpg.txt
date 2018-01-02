@@ -10,7 +10,7 @@ Image-date: 2017
 
 ----
 
-Image-media: monofilament, cotton, lurex, chile guajillo, chile arbol, lemongrass, emergency blanket
+Image-media: Monofilament, cotton, lurex, chile guajillo, chile arbol, lemongrass, emergency blanket
 
 ----
 

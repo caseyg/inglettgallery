@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: CellPhones (Pile)
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Wood and paint
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 13 x 32 in. diameter
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 14
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

@@ -23,3 +23,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: BD0104
+
+----
+
+Sort: 7

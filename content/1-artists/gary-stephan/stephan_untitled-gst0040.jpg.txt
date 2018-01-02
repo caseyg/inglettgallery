@@ -1,0 +1,29 @@
+Image-title: Untitled
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Acrylic on canvas
+
+----
+
+Image-dimensions: 20 x 20 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: GST0040
+
+----
+
+Sort: 5

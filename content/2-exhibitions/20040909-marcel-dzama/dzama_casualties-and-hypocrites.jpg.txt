@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: casualties and hypocrites
 
 ----
 
-Image-date: 
+Image-date: 2004
 
 ----
 
-Image-media: 
+Image-media: Screenprint with hand-coloring
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 22 3/8 x 20 1/4 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 26, portfolio of 5
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

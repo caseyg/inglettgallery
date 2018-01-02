@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: CO0073
+
+----
+
+Image-artist: Claes Oldenburg
+
+----
+
+Focus: 
+
+----
+
+Sort: 16

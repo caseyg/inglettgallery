@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: Crocodile Tears II : Buried Treasure (Gauguin I)
 
 ----
 
-Image-date: 
+Image-date: 1985
 
 ----
 
@@ -10,7 +10,7 @@ Image-media:
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Photograph, ink with text  21 x 17 in. framed/text 21 x 17 in. framed/oil on canvas 32 x 43 5/8 in.
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 2
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

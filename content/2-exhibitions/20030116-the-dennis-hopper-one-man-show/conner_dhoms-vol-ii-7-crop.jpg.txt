@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: TAKE TWO, D.H.O.M.S., VOLUME II
 
 ----
 
-Image-date: 
+Image-date: 1972
 
 ----
 
-Image-media: 
+Image-media: Etching
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 19 1/2 x 17 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 10, portfolio of 10
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

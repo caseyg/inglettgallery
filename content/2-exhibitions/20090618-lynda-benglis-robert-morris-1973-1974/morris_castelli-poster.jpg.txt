@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Poster for Castelli-Sonnabend Labyrinths-Voice-Blind Time
 
 ----
 
-Image-date: 
+Image-date: 1974
 
 ----
 
-Image-media: 
+Image-media: Offset poster printed in two colors
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 36 x 24 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 14
+Sort: 3
+
+----
+
+Image-artist: Robert Morris [Photograph by Rosalind Krauss]
+
+----
+
+Focus: 

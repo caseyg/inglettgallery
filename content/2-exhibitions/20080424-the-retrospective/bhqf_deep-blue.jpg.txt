@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Deep Blue
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Play-Dough and LED lights
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 35 1/2 x 14 1/2 x 14 1/2 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 15
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

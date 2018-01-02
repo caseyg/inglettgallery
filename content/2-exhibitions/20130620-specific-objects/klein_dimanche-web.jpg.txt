@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: YK0002
+
+----
+
+Image-artist: Yves Klein
+
+----
+
+Focus: 
+
+----
+
+Sort: 10

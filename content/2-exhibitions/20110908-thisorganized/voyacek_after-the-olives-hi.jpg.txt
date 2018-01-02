@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 24
+Sort: 23
+
+----
+
+Image-artist: Anton Voyacek
+
+----
+
+Focus: 

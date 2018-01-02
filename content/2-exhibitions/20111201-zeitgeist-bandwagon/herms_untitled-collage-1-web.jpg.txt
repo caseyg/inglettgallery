@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Xenophilia (4)
 
 ----
 
-Image-date: 
+Image-date: 2011
 
 ----
 
-Image-media: 
+Image-media: Collage
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 28 1/2 x 22 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 20
+Sort: 5
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

@@ -6,7 +6,7 @@ Image-date: 2011
 
 ----
 
-Image-media: Oil Panel
+Image-media: Oil on panel
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 5
+
+----
+
+Image-artist: Gavin Anderson
+
+----
+
+Focus: 

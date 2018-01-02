@@ -1,4 +1,4 @@
-Image-title: Installation
+Image-title: Installation View
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 2
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

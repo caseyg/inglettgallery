@@ -1,4 +1,4 @@
-Image-title: Jay DeFeo, Untitled (Berkeley)
+Image-title: Untitled (Berkeley)
 
 ----
 
@@ -31,3 +31,7 @@ Focus:
 ----
 
 Sort: 14
+
+----
+
+Image-artist: Jay DeFeo

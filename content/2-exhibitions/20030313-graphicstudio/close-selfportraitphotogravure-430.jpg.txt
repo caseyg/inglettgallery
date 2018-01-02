@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Self-Portrait
 
 ----
 
-Image-date: 
+Image-date: 2005
 
 ----
 
-Image-media: 
+Image-media: Photogravure
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 54 1/4 x 40 5/8 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 35
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: Chuck Close
+
+----
+
+Focus: 

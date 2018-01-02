@@ -1,0 +1,9 @@
+Exhibition: william-villalongo-keep-on-pushing
+
+----
+
+Focus: {"x":0.54,"y":0.59}
+
+----
+
+Sort: 3

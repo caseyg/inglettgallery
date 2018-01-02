@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Reflective Mimicry
 
 ----
 
-Image-date: 
+Image-date: 1996
 
 ----
 
-Image-media: 
+Image-media: C-Print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x 36 in.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

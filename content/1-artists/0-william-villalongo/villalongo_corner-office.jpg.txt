@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Corner Office
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic, paper collage and velvet flocking on wood panel
+
+----
+
+Image-dimensions: 60 x 46 x 1 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: WV0168
+
+----
+
+Focus: {"x":0.57,"y":0.44}

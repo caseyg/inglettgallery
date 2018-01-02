@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 10
+
+----
+
+Image-artist: An Hoang
+
+----
+
+Focus: 

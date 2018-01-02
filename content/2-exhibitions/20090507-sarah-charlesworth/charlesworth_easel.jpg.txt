@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Easel
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Fuji Crystal Archive Print, mounted and laminated with lacquer frame,
 
 ----
 
@@ -14,7 +14,7 @@ Image-dimensions:
 
 ----
 
-Image-dimensions-framed: 
+Image-dimensions-framed: 41 x 31 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 6
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

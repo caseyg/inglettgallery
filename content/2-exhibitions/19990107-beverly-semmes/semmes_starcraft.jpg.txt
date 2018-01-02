@@ -1,0 +1,33 @@
+Image-title: Starcraft
+
+----
+
+Image-artist: 
+
+----
+
+Image-date: 1998
+
+----
+
+Image-media: Cibachrome
+
+----
+
+Image-dimensions: 51 x 75 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: Edition of 5
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

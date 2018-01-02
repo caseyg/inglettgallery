@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Obertura de la Espora (Time Dancer)
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Acrylic, paper collage and cut velour paper
+
+----
+
+Image-dimensions: 80 1/4 x 29 1/2 in. (Overall, 2 Sheets)
+
+----
+
+Image-dimensions-framed: 85 1/4 x 44 5/8 in.
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: WV0171
+
+----
+
+Focus: {"x":0.55,"y":0.13}

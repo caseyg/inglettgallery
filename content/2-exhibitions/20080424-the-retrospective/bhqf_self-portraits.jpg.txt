@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Self Portraits
 
 ----
 
-Image-date: 
+Image-date: 2005
 
 ----
 
-Image-media: 
+Image-media: Mixed media
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Various
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 4
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

@@ -1,4 +1,4 @@
-Image-title: Stack Pot #5
+Image-title: Long Neck/Stack
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id: BS0146
 
 ----
 
-Sort: 10
+Sort: 11
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

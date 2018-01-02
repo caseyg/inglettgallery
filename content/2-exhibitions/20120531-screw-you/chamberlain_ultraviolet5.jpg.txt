@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 19
+Sort: 12
+
+----
+
+Image-artist: John Chamberlain
+
+----
+
+Focus: 

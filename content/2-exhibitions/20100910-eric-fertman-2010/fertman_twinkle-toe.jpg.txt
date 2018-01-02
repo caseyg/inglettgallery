@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Twinkle Toe
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Stained oak, and steel
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 110 1/2 x 42 x 35 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 29
+Sort: 11
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

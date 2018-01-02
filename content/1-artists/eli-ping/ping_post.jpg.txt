@@ -1,0 +1,29 @@
+Image-title: Post
+
+----
+
+Image-date: 2013
+
+----
+
+Image-media: Aluminum I-beam cut into cubic units
+
+----
+
+Image-dimensions: 149 x 6 x 6 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: Edition of 3.
+
+----
+
+Image-inventory-id: 
+
+----
+
+Sort: 13

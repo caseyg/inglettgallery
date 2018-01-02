@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: A Light
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: ink on clay-coated paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 13 1/2 x 17 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 2
+Sort: 4
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

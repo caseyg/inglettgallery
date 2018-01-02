@@ -1,1 +1,37 @@
-Sort: 16
+Sort: 8
+
+----
+
+Image-title: Untitled
+
+----
+
+Image-artist: Gary Stephan
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Acrylic on canvas
+
+----
+
+Image-dimensions: 20 x 20 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: GST0037
+
+----
+
+Focus: 

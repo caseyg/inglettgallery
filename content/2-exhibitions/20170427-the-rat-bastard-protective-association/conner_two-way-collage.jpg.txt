@@ -1,4 +1,4 @@
-Image-title: Jean Conner, Two Way Collage
+Image-title: Two Way Collage
 
 ----
 
@@ -30,4 +30,8 @@ Focus:
 
 ----
 
-Sort: 13
+Sort: 12
+
+----
+
+Image-artist: Jean Conner

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: Styrofoam, acrylic paint, duct tape, CD player
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Dimensions variable
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 8
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

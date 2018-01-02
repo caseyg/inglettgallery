@@ -1,0 +1,33 @@
+Image-title: O
+
+----
+
+Image-artist: 
+
+----
+
+Image-date: 1999
+
+----
+
+Image-media: Photogravure
+
+----
+
+Image-dimensions: 18 1/2 x 14 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: Edition of 26, portfolio of 7
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

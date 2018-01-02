@@ -1,8 +1,12 @@
-Image-title: 
+Image-title: Installation View
 
 ----
 
-Image-date: 
+Image-artist: 
+
+----
+
+Image-date: 2009
 
 ----
 
@@ -23,3 +27,7 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Focus: 

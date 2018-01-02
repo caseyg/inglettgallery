@@ -1,0 +1,29 @@
+Image-title: CN2
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Acrylic on canvas
+
+----
+
+Image-dimensions: 30 x 30 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: GST0043
+
+----
+
+Sort: 2

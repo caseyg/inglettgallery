@@ -1,0 +1,37 @@
+Image-title: A-Z  Sorting Trays Installation View
+
+----
+
+Image-artist: Andrea Zittel
+
+----
+
+Image-date: 2001
+
+----
+
+Image-media: Finland birch
+
+----
+
+Image-dimensions: Dimensions variable
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 3

@@ -1,0 +1,29 @@
+Lock: 
+
+----
+
+Title: Joseph Yoakum
+
+----
+
+First-name: Joseph
+
+----
+
+Last-name: Yoakum
+
+----
+
+Featured-image: yoakum_mt-mckinley-in-rocky-mountain-rangeon-pacific-ocean-near-fairbanks-alaska.jpg
+
+----
+
+Text: 
+
+1890 Born in Ash Grove, MO
+1972 Died in Illinois
+Born in Missouri, lived and worked in Chicago
+
+----
+
+Status: exhibited

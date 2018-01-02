@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 28
+Sort: 17
+
+----
+
+Image-artist: Carolee Schneemann
+
+----
+
+Focus: 

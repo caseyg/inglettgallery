@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: Crocodile Tears II : Buried Treasure (Gauguin III)
 
 ----
 
-Image-date: 
+Image-date: 1989
 
 ----
 
@@ -10,7 +10,7 @@ Image-media:
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Photograph, ink with text  20 1/4 x 30 in. framed/oil on canvas 28 1/2 x 22 1/2 in.
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 3
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

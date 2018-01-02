@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: L'eau de Vie, un film de Jean-Luc Godard
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Video, 73 minutes
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 17
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

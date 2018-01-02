@@ -6,11 +6,11 @@ Image-date: 1967
 
 ----
 
-Image-media: Black, grey ink, paper
+Image-media: Black, grey ink on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 28 1/2 x 22 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 34
+Sort: 21
+
+----
+
+Image-artist: Bob Stanley
+
+----
+
+Focus: 

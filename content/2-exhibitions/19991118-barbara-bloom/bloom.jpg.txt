@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: A Birthday Party for Everything
 
 ----
 
-Image-date: 
+Image-date: 1999
 
 ----
 
-Image-media: 
+Image-media: Mixed media
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 18 1/4 x 11 x 4 1/2 in. (closed)
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Unlimited
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

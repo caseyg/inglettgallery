@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 9
+
+----
+
+Image-artist: Angelina Gualdoni
+
+----
+
+Focus: 

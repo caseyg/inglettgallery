@@ -6,7 +6,7 @@ Image-date: 2008
 
 ----
 
-Image-media: Assemblage
+Image-media: Assemblage sculpture
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id: GH0012
 ----
 
 Sort: 9
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

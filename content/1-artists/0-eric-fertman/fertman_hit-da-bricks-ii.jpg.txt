@@ -26,7 +26,7 @@ Image-inventory-id: EF0223
 
 ----
 
-Sort: 1
+Sort: 6
 
 ----
 

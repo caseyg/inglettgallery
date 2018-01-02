@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: I must read ‘Moby Dick
 
 ----
 
-Image-date: 
+Image-date: 2001
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 45 x 88 in.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

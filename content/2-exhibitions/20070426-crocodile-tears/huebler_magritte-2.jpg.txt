@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: Crocodile Tears : Great Corrector #37 (Magritte II)
 
 ----
 
-Image-date: 
+Image-date: 1994
 
 ----
 
@@ -10,7 +10,7 @@ Image-media:
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Photo, ink, xerox, offset lithograph, 23 1/4 x 29 1/4 in. framed
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 5
+Sort: 4
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

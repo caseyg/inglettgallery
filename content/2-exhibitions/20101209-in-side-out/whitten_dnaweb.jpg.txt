@@ -10,7 +10,7 @@ Image-media: Gouache, colored pencil, conte crayon, and graphite on paper
 
 ----
 
-Image-dimensions: 44.5 x 42 in.
+Image-dimensions: 44 1/2  x 42 in.
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 15
+
+----
+
+Image-artist: Jack Whitten
+
+----
+
+Focus: 

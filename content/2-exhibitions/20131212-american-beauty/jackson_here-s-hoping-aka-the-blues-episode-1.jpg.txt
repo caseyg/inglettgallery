@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: AJ0002
+
+----
+
+Image-artist: Ariel Jackson
+
+----
+
+Focus: 
+
+----
+
+Sort: 14

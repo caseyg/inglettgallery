@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Dogpile
 
 ----
 
-Image-date: 
+Image-date: 2001
 
 ----
 
-Image-media: 
+Image-media: Oil on panel
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 2
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

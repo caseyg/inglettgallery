@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Che Guevara’s Family
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: Fabric
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 82 x 57 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 5
+Sort: 6
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

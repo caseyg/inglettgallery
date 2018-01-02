@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Location Plan
 
 ----
 
-Image-date: 
+Image-date: 2000
 
 ----
 
-Image-media: 
+Image-media: Screenprint/Clearprint fade-out cotton vellum graph paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 29 x 42 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 100
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

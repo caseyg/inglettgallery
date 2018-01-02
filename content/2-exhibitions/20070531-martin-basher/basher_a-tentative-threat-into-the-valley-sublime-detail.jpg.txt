@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: A Tentative Thrust Into the Valley Sublime
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: Oil and acrylic on panel on post
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 47 1/8 x 20 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 5

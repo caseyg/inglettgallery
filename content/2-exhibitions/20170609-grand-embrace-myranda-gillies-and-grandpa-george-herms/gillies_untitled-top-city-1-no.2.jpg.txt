@@ -10,7 +10,7 @@ Image-date: 2017
 
 ----
 
-Image-media: monofilament, cotton, lurex, cigarettes, burnt matches
+Image-media: Monofilament, cotton, lurex, cigarettes, burnt matches
 
 ----
 

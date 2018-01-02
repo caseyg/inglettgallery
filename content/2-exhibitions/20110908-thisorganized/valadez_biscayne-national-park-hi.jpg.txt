@@ -6,7 +6,7 @@ Image-date: 2011
 
 ----
 
-Image-media: Ink and charcoal over paper
+Image-media: Ink and charcoal on paper
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 20
+Sort: 22
+
+----
+
+Image-artist: Juan Roselione Valadez
+
+----
+
+Focus: 

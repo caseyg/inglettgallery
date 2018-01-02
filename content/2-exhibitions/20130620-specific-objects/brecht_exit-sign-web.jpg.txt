@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: GB0001
+
+----
+
+Image-artist: Yves Klein
+
+----
+
+Focus: 
+
+----
+
+Sort: 20

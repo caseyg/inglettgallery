@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Light Switches, London
 
 ----
 
-Image-date: 
+Image-date: 1966
 
 ----
 
-Image-media: 
+Image-media: Crayon and watercolor on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 9 1/2 x 7 in.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: Claes Oldenburg
+
+----
+
+Focus: 

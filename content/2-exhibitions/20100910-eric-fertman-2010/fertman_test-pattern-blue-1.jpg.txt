@@ -14,7 +14,7 @@ Image-dimensions: 39 x 27 1/2 in.
 
 ----
 
-Image-dimensions-framed: 42 1/4 x 30 1/2 in.
+Image-dimensions-framed: 
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 32
+Sort: 20
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

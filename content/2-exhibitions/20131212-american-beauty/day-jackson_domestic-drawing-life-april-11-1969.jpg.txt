@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: MDJ002
+
+----
+
+Image-artist: Matthew Day Jackson
+
+----
+
+Focus: 
+
+----
+
+Sort: 17

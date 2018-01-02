@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Moon Three
 
 ----
 
-Image-date: 
+Image-date: 1998
 
 ----
 
-Image-media: 
+Image-media: Photogravure
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 32 1/4 x 24 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 50, portfolio of 3
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: Kiki Smith
+
+----
+
+Focus: 

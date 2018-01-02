@@ -1,8 +1,8 @@
-Image-title: RBPA Installation View
+Image-title: Installation View
 
 ----
 
-Image-date: 
+Image-date: 2017
 
 ----
 
@@ -31,3 +31,7 @@ Focus:
 ----
 
 Sort: 2
+
+----
+
+Image-artist: 

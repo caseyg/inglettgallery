@@ -10,7 +10,7 @@ Image-media: Collage
 
 ----
 
-Image-dimensions: 23 3/4 x 29 3/4 x 1 1/2 in.
+Image-dimensions: 22 1/2 x 28 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id: GH0007
 
 ----
 
-Sort: 21
+Sort: 3
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Beard and Parrot
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Wood, plastic, metal, featherlite casting material,  string, cotton-based paper, graphite, pigment, acrylic,  hair, PVC glue, plaster, and paper mache
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 23 x 25 x 17 in.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: Greg Smith
+
+----
+
+Focus: 

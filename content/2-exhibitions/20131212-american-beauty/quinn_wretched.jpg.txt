@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: NMQ002
+
+----
+
+Image-artist: Nathaniel Mary Quinn
+
+----
+
+Focus: 
+
+----
+
+Sort: 11

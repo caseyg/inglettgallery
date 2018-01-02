@@ -1,4 +1,4 @@
-Image-title: Table
+Image-title: Beards (Cornucopia Table)
 
 ----
 
@@ -6,11 +6,11 @@ Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Wool, wood, mylar, pigmented gelatin, plastic, urethane, pastel, archival glue, archival inkjet prints, ink, hardware, and tin
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 42 x 42 x 30 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 21
+Sort: 17
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

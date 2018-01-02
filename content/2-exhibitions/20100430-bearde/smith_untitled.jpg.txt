@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Beards (Untitled)
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Resin, enamel paint, caulk, vinyl, Plexiglas, hardware, plaster, papier-maché, copper, wood, pastel, urethane, and hardware
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 40 x 26 x 16 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 23
+Sort: 8
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

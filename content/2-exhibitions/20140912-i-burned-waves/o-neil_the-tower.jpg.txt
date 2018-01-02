@@ -26,4 +26,4 @@ Image-inventory-id: RO0069
 
 ----
 
-Sort: 12
+Sort: 8

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: A Draft of a Soap Bubble Maker Equipment
 
 ----
 
-Image-date: 
+Image-date: 2002
 
 ----
 
-Image-media: 
+Image-media: Blueprint
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 22 1/4 x  32 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition 1/3
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: Beom Kim
+
+----
+
+Focus: 

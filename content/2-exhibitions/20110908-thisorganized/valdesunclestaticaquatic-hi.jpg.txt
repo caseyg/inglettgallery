@@ -10,7 +10,7 @@ Image-media: Acrylic and ink on paper
 
 ----
 
-Image-dimensions: 29 x 21.5 in.
+Image-dimensions: 29 x 21 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 22
+Sort: 15
+
+----
+
+Image-artist: Justin Valdes
+
+----
+
+Focus: 

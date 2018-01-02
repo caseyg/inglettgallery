@@ -23,3 +23,15 @@ Image-edition-info: Edition 2 of 5
 ----
 
 Image-inventory-id: DLP003
+
+----
+
+Image-artist: Dawit L. Petros
+
+----
+
+Focus: 
+
+----
+
+Sort: 20

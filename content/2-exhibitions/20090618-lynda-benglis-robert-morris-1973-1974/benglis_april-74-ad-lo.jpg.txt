@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Announcement Card: Lynda Benglis Presents Metallized Knots
 
 ----
 
-Image-date: 
+Image-date: 1974
 
 ----
 
-Image-media: 
+Image-media: Offset card
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 x 6 3/4 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 7
+Sort: 5
+
+----
+
+Image-artist: Lynda Benglis [Photograph by Anne Leibovitz]
+
+----
+
+Focus: 

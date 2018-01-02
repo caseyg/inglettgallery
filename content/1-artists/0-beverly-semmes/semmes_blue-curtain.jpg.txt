@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Bow (Blue Curtain)
+
+----
+
+Image-date: 2016
+
+----
+
+Image-media: Tulle
+
+----
+
+Image-dimensions: 132 192 x 12 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 3

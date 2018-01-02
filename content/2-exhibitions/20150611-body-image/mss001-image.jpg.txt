@@ -1,0 +1,37 @@
+Image-title: Extraction (Mauve Grid, with padding)
+
+----
+
+Image-artist: Meredyth Sparks
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Digital print on canvas, fabric
+
+----
+
+Image-dimensions: 77 1/2 x 52 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: MSS001
+
+----
+
+Focus: 
+
+----
+
+Sort: 7

@@ -1,1 +1,37 @@
-Sort: 21
+Sort: 19
+
+----
+
+Image-title: Paint Tray 3
+
+----
+
+Image-artist: Alina Tenser
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Epoxy modeling clay, bamboo and steel
+
+----
+
+Image-dimensions: 10 x 14 x 4 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: AT0003
+
+----
+
+Focus: 

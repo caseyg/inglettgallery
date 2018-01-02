@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: A-Z  Sorting Trays Installation View
 
 ----
 
-Image-date: 
+Image-date: 2001
 
 ----
 
-Image-media: 
+Image-media: Finland birch
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Dimensions variable
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 3
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

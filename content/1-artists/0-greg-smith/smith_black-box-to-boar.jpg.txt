@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Black Box (To Boar)
+
+----
+
+Image-date: 2016
+
+----
+
+Image-media: Acrylic, canvas, hardware, latex paint, lenses, wood, electronics and epoxy
+
+----
+
+Image-dimensions: 13 1/2 x 16 x 6 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 2

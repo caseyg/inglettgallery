@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Ultra Violet
 
 ----
 
-Image-date: 
+Image-date: 1968
 
 ----
 
-Image-media: 
+Image-media: Black and white photograph
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 x 14 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 18
+Sort: 11
+
+----
+
+Image-artist: John Chamberlain
+
+----
+
+Focus: 

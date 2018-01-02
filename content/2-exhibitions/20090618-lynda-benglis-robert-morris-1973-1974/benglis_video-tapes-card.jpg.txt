@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Mumble
 
 ----
 
-Image-date: 
+Image-date: 1972
 
 ----
 
-Image-media: 
+Image-media: Videotape, black-and-white, with sound, 20 minutes
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 13
+Sort: 10
+
+----
+
+Image-artist: Lynda Benglis
+
+----
+
+Focus: 

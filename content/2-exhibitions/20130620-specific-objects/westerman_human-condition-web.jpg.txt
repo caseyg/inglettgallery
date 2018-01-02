@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: HCW001
+
+----
+
+Image-artist: H.C. Westermann
+
+----
+
+Focus: 
+
+----
+
+Sort: 19

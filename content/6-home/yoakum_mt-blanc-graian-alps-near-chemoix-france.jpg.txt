@@ -1,0 +1,9 @@
+Exhibition: joseph-yoakum-robyn-o-neil
+
+----
+
+Focus: {"x":0.49,"y":0.48}
+
+----
+
+Sort: 1

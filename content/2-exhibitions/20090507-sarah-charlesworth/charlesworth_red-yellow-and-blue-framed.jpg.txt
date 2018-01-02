@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Red Yellow and Blue Framed
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Fuji Crystal Archive Print, mounted and laminated with lacquer frame
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 41 x 31 in.
 
 ----
 
@@ -18,8 +18,20 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 8
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 7
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

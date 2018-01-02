@@ -26,4 +26,4 @@ Image-inventory-id: BD0012
 
 ----
 
-Sort: 8
+Sort: 4

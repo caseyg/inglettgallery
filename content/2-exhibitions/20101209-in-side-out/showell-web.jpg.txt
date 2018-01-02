@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 14
+
+----
+
+Image-artist: Ken Showell
+
+----
+
+Focus: 

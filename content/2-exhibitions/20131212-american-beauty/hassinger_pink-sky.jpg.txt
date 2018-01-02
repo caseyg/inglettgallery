@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: MH0001
+
+----
+
+Image-artist: Maren Hassinger
+
+----
+
+Focus: 
+
+----
+
+Sort: 13

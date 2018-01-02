@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 11
+Sort: 8
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

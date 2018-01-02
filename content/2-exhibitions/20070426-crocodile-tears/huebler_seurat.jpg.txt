@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: Crocodile Tears : Buried Treasure (Seurat)
 
 ----
 
-Image-date: 
+Image-date: 1985
 
 ----
 
@@ -10,7 +10,7 @@ Image-media:
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Photograph, ink with text 21 x 17 in. framed/text 21 x 17 in. framed/ oil on canvas with painted frame 25 3/4 x 35 3/4 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 8
+Sort: 5
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

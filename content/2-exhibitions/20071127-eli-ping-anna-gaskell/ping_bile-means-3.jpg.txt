@@ -26,4 +26,4 @@ Image-inventory-id: EPI0004
 
 ----
 
-Sort: 10
+Sort: 5

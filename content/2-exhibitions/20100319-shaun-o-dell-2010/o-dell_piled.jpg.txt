@@ -1,16 +1,16 @@
-Image-title: Piled
+Image-title: Piled From Behind
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Gouache and ink on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 22 1/4 x 17 5/8 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 10
+Sort: 7
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

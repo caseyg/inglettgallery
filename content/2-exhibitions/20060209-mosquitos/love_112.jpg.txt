@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Untitled
 
 ----
 
-Image-date: 
+Image-date: 2005
 
 ----
 
-Image-media: 
+Image-media: Watercolor on paper
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

@@ -1,1 +1,37 @@
-Sort: 10
+Sort: 15
+
+----
+
+Image-title: The Last Five Minutes
+
+----
+
+Image-artist: Gary Stephan
+
+----
+
+Image-date: 2014
+
+----
+
+Image-media: Acrylic on canvas
+
+----
+
+Image-dimensions: 48 x 60 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: GST0035
+
+----
+
+Focus: 

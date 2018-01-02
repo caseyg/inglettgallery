@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Leon Theremin with Drum
 
 ----
 
-Image-date: 
+Image-date: 2007
 
 ----
 
-Image-media: 
+Image-media: Fabric
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Dimensions variable
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 4
+Sort: 3
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

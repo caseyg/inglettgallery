@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Lymphatic Vessel (Blue Circle)
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Assemblage sculpture
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 1/2 x 11 1/2 x 8 in.
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 5
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

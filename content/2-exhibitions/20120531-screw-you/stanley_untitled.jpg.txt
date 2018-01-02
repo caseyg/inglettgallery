@@ -6,7 +6,7 @@ Image-date: 1966
 
 ----
 
-Image-media: Silk screen, paper
+Image-media: Silk screen on paper
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 35
+Sort: 22
+
+----
+
+Image-artist: Bob Stanley
+
+----
+
+Focus: 

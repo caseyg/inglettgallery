@@ -10,11 +10,11 @@ Image-media: Engraving collage
 
 ----
 
-Image-dimensions: 7 5/8 x 4 3/4 in.
+Image-dimensions: 
 
 ----
 
-Image-dimensions-framed: 14 3/4 x 11 3/4 in.
+Image-dimensions-framed: 7 5/8 x 4 3/4 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 6
+Sort: 3
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

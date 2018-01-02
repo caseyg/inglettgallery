@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: WV0030
+
+----
+
+Image-artist: William Villalongo
+
+----
+
+Focus: 
+
+----
+
+Sort: 25

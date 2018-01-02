@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Blaze-N-Hotsauce
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 56 x 82 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 7
+Sort: 5
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

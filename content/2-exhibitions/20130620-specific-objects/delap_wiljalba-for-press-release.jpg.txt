@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: TD0001
+
+----
+
+Image-artist: Tony Delap
+
+----
+
+Focus: 
+
+----
+
+Sort: 12

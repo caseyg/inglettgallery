@@ -10,7 +10,7 @@ Image-media: Acrylic, paper and velvet flocking on wood panel
 
 ----
 
-Image-dimensions: 24 x 24 x 3/4 in.
+Image-dimensions: 24 x 24 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id: WV0047
 
 ----
 
-Sort: 7
+Sort: 11
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

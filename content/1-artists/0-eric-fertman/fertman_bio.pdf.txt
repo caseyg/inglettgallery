@@ -26,4 +26,12 @@ Image-edition-info:
 
 ----
 
-Sort: 19
+Sort: 22
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

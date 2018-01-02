@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: Boîte-en-valise, Series A
 
 ----
 
-Image-date: 
+Image-date: 1943.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

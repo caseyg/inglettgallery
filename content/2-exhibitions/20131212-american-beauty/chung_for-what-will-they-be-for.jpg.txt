@@ -23,3 +23,15 @@ Image-edition-info: Edition of 3
 ----
 
 Image-inventory-id: SKC001
+
+----
+
+Image-artist: Suntek Chung
+
+----
+
+Focus: 
+
+----
+
+Sort: 7

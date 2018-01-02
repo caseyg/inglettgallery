@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: UNTITLED
 
 ----
 
-Image-date: 
+Image-date: 1960
 
 ----
 
-Image-media: 
+Image-media: Mixed media, pearls, nylon, mesh, wire
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 20 x 24 1/2 x 2 1/2 in.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

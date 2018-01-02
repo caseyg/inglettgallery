@@ -6,7 +6,7 @@ Image-date: 2011
 
 ----
 
-Image-media: water color and ink, paper
+Image-media: Watercolor and ink on paper
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 16
+Sort: 17
+
+----
+
+Image-artist: Blaze Lamper
+
+----
+
+Focus: 

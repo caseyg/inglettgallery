@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Zero to One
 
 ----
 
-Image-date: 
+Image-date: 2002
 
 ----
 
-Image-media: 
+Image-media: Graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 45 x 45 in.
 
 ----
 
@@ -23,3 +23,11 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

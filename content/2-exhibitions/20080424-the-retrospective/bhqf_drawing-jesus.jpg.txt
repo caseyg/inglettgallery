@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Drawing Jesus
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: C-Print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 33 1/2 x 33 1/2 in.
 
 ----
 
@@ -18,8 +18,20 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 6
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 6
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

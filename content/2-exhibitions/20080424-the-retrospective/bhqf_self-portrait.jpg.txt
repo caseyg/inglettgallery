@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Self Portrait
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Silkscreen
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 19 3/4 x 22 in.
 
 ----
 
@@ -18,8 +18,20 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 30
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 2
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

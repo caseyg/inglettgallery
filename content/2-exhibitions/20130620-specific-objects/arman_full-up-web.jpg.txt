@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: ARM001
+
+----
+
+Image-artist: Arman
+
+----
+
+Focus: 
+
+----
+
+Sort: 9

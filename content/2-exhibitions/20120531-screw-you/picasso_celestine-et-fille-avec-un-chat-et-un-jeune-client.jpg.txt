@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 22
+Sort: 24
+
+----
+
+Image-artist: Pablo Picasso
+
+----
+
+Focus: 

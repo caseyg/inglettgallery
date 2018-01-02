@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled (woman playing drum with upside down acrobat)
 
 ----
 
-Image-date: 
+Image-date: 2005
 
 ----
 
-Image-media: 
+Image-media: Olive oil, graphite varnish on various papers
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 64 x 44 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 5
+Sort: 2
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

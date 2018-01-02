@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Untitled (little person playing a flute and a duck in the foreground)
 
 ----
 
-Image-date: 
+Image-date: 2005
 
 ----
 
-Image-media: 
+Image-media: Olive oil, graphite varnish on various papers
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 47 x 38 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 6
+Sort: 3
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

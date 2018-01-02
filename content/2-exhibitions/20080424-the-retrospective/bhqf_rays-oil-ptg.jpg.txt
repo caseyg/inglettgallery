@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Ray’s Famous Original Oil Painting
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Oil/canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 12 x 16 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 11
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

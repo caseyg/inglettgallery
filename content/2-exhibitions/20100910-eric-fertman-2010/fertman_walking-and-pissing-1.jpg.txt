@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Walking and Pissing
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Stained oak, steel, and brass
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 36 1/2 x 18 1/2 x 7 1/4 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 31
+Sort: 13
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

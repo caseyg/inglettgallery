@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: I want
 
 ----
 
-Image-date: 
+Image-date: 1996
 
 ----
 
-Image-media: 
+Image-media: Lithograph
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 3/8 x 15 1/8 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 10, portfolio of 5
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

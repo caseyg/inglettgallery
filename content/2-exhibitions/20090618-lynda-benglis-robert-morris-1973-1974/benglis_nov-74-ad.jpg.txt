@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Artforum Advertisement: [Artforum Piece]
 
 ----
 
-Image-date: 
+Image-date: 1974
 
 ----
 
-Image-media: 
+Image-media: Double page spread from offset printed magazine (Artforum (New York) vol. 13, no. 3 (November 1974), pp. 3-4)
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 10 3/4 x 12 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 10
+Sort: 2
+
+----
+
+Image-artist: Lynda Benglis [Photograph by Arthur Gordon]
+
+----
+
+Focus: 

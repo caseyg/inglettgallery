@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Yves Klein presente: Le dimanche 27 Novembre 1960/Le journal d’un seul jour
 
 ----
 
-Image-date: 
+Image-date: 1960
 
 ----
 
-Image-media: 
+Image-media: Newspaper format
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 22 x 15 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 1
+
+----
+
+Image-artist: Yves Klein
+
+----
+
+Focus: 

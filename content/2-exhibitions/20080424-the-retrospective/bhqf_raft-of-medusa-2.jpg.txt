@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Raft
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: C-Print
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 48 x 48 in.
 
 ----
 
@@ -18,8 +18,20 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 8
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 3
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

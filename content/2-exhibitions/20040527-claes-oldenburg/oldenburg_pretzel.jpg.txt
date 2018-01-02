@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: N.Y.C. Pretzel
 
 ----
 
-Image-date: 
+Image-date: 1994
 
 ----
 
-Image-media: 
+Image-media: Screenprint on cardboard
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 7 x 7 x 1/2 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Unlimited
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

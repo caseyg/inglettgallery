@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Eric’s Studio
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Acrylic on canvas
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 59 x 83 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 10
+Sort: 7
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

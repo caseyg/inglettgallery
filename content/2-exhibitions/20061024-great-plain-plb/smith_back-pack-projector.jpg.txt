@@ -1,12 +1,12 @@
-Image-title: 
+Image-title: Back Pack Projector
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: Styrofoam, acrylic paint, duct tape, plastic, zippers
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 5
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

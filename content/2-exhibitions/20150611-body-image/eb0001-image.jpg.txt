@@ -1,0 +1,37 @@
+Image-title: Berkeley Mews
+
+----
+
+Image-artist: Ellen Berkenblit
+
+----
+
+Image-date: 2013
+
+----
+
+Image-media: Oil on canvas
+
+----
+
+Image-dimensions: 90 x 76 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: EB0001
+
+----
+
+Focus: 
+
+----
+
+Sort: 8

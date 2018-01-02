@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Socialist Pizza
 
 ----
 
-Image-date: 
+Image-date: 2008
 
 ----
 
-Image-media: 
+Image-media: Cardboard (Ray’s Pizza box) and wood
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 26 1/2 x 15 x 17 3/4 in.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 10
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Film
 
 ----
 
-Image-date: 
+Image-date: 2006
 
 ----
 
-Image-media: 
+Image-media: Paper, plastic zippers, plastic
 
 ----
 
-Image-dimensions: 
+Image-dimensions: Dimensions variable
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 9
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Gloves
 
 ----
 
-Image-date: 
+Image-date: 2004
 
 ----
 
-Image-media: 
+Image-media: Two orange gloves with fuse in cardboard box
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 15 x 23 3/5 in.
 
 ----
 
@@ -18,8 +18,20 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Each unique, signed,  and numbered. Edition of 20
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 10
+
+----
+
+Image-artist: Roman Signer
+
+----
+
+Focus: 

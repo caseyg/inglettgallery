@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Prep #2 (from ‘One Summer Outing’)
 
 ----
 
-Image-date: 
+Image-date: 2004
 
 ----
 
-Image-media: 
+Image-media: Olive oil and graphite on paper
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 x 14 in.
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 4
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

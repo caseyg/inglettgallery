@@ -6,34 +6,24 @@ Text:
 
 ----
 
-Current: enjoy-the-holiday
+Current: joseph-yoakum-robyn-o-neil
 
 ----
 
 Upcoming: 
 
 - 
-  title: Beverly Semmes
-  start: 2017-09-13
-  end: 2017-10-21
-  link: ""
-- 
-  title: William Villalongo
-  start: 2017-10-26
-  end: 2017-12-09
-  link: ""
-- 
-  title: "Joseph Yoakum with Robyn O'Neil"
-  start: 2017-12-14
-  end: 2018-01-27
-  link: ""
-- 
   title: Benjamin Degen
-  start: 2018-02-01
+  start: 2018-02-02
   end: 2018-03-10
   link: ""
 - 
   title: Allison Miller
   start: 2018-03-15
   end: 2018-04-21
+  link: ""
+- 
+  title: Maren Hassinger
+  start: 2018-04-26
+  end: 2018-06-02
   link: ""

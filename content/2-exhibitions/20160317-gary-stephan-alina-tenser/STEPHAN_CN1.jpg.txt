@@ -1,1 +1,37 @@
-Sort: 5
+Sort: 12
+
+----
+
+Image-title: CN1
+
+----
+
+Image-artist: Gary Stephan
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Acrylic on canvas
+
+----
+
+Image-dimensions: 20 x 20 in
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: GST0032
+
+----
+
+Focus: 

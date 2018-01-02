@@ -14,7 +14,7 @@ Image-dimensions: 7 x 6 1/8 in.
 
 ----
 
-Image-dimensions-framed: 15 1/4 x 14 1/4 in.
+Image-dimensions-framed: 
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 5
+Sort: 1
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: RW0002
+
+----
+
+Image-artist: Robert Watts
+
+----
+
+Focus: 
+
+----
+
+Sort: 18

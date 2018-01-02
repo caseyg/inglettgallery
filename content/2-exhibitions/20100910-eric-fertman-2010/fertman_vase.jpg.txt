@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Vase
 
 ----
 
-Image-date: 
+Image-date: 2010
 
 ----
 
-Image-media: 
+Image-media: Stained oak, stainless steel, plywood, and lead
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 32 x 19 x 7 1/2 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 30
+Sort: 23
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

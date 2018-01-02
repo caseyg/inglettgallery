@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Chris Burden: 1971-1973
 
 ----
 
-Image-date: 
+Image-date: 1974
 
 ----
 
-Image-media: 
+Image-media: Fifty-three photographs and text in a  black binder
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 11 1/2” by 11 1/2” each.
 
 ----
 
@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 7
+
+----
+
+Image-artist: Chris Burden
+
+----
+
+Focus: 

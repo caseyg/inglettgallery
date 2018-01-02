@@ -6,7 +6,7 @@ Image-date: 2002
 
 ----
 
-Image-media: Ink, paper
+Image-media: Ink on paper
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 11
+
+----
+
+Image-artist: Eric Fertman
+
+----
+
+Focus: 

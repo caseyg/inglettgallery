@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Crocodile Tears : Great Corrector (Picasso I)
 
 ----
 
-Image-date: 
+Image-date: 1996
 
 ----
 
-Image-media: 
+Image-media: Gouache, ink, offset lithograph,  xerox, photo,
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 24 x  20 1/4 in. framed.
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 7
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

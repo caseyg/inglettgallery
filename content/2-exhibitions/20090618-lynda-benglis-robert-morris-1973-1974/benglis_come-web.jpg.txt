@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: COME
 
 ----
 
-Image-date: 
+Image-date: 1969/74
 
 ----
 
-Image-media: 
+Image-media: Cast bronze
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 14 x 32 x 48 in.
 
 ----
 
@@ -18,7 +18,7 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 3
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 8
+Sort: 7
+
+----
+
+Image-artist: Lynda Benglis
+
+----
+
+Focus: 

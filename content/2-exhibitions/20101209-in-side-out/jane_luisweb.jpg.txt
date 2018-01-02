@@ -10,7 +10,7 @@ Image-media: Prismacolor markers on paper
 
 ----
 
-Image-dimensions: 29.5 x 22 in.
+Image-dimensions: 29 1/2 x 22 in.
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 11
+
+----
+
+Image-artist: Xylor Jane
+
+----
+
+Focus: 

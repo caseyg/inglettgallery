@@ -10,7 +10,7 @@ Image-media: Mixed media collage on paper
 
 ----
 
-Image-dimensions: 98.5 x 48.5 in.
+Image-dimensions: 98 1/2 x 48 1/2 in.
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 8
+
+----
+
+Image-artist: Arturo Herrera
+
+----
+
+Focus: 

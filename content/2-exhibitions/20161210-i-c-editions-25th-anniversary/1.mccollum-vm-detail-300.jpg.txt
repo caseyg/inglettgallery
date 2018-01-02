@@ -23,3 +23,7 @@ Image-edition-info: Unlimited
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 7

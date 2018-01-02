@@ -23,3 +23,15 @@ Image-edition-info:
 ----
 
 Image-inventory-id: NW0002
+
+----
+
+Image-artist: Nicole Awai
+
+----
+
+Focus: 
+
+----
+
+Sort: 6

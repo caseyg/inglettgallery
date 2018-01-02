@@ -6,7 +6,7 @@ Image-date: 2011
 
 ----
 
-Image-media: Color pencil, bristol
+Image-media: Color pencil on paper
 
 ----
 
@@ -27,3 +27,11 @@ Image-inventory-id:
 ----
 
 Sort: 6
+
+----
+
+Image-artist: Breanne Trammell
+
+----
+
+Focus: 

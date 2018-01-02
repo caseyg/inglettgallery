@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: SMILE
 
 ----
 
-Image-date: 
+Image-date: 1974
 
 ----
 
-Image-media: 
+Image-media: Cast lead
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 15 1/2 x 6 1/2 x 2 1/4 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 12
+Sort: 8
+
+----
+
+Image-artist: Lynda Benglis
+
+----
+
+Focus: 

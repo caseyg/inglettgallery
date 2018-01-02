@@ -1,1 +1,37 @@
-Sort: 6
+Sort: 14
+
+----
+
+Image-title: CN7
+
+----
+
+Image-artist: Gary Stephan
+
+----
+
+Image-date: 2015
+
+----
+
+Image-media: Acrylic on canvas
+
+----
+
+Image-dimensions: 20 x 20 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: GST0031
+
+----
+
+Focus: 

@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: World Flag
 
 ----
 
-Image-date: 
+Image-date: 2004
 
 ----
 
-Image-media: 
+Image-media: Fabric
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 60 x 72 in.
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 24
+Sort: 5
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

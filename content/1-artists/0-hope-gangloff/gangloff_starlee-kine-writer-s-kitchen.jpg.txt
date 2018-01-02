@@ -22,12 +22,16 @@ Image-edition-info:
 
 ----
 
-Image-inventory-id: 
+Image-inventory-id: HG0326
 
 ----
 
-Sort: 12
+Sort: 13
 
 ----
 
-Focus: {"x":0.45,"y":0.12}
+Focus: {"x":0.45,"y":0.28}
+
+----
+
+Image-artist: 

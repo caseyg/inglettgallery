@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Visible Markers
 
 ----
 
-Image-date: 
+Image-date: 1997
 
 ----
 
-Image-media: 
+Image-media: Polymerized pigmented concrete
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 2 x 8 x 2 1/2 in.
 
 ----
 
@@ -18,8 +18,16 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Unlimited
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

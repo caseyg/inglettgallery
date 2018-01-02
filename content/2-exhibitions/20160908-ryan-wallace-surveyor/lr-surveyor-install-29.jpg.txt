@@ -2,7 +2,7 @@ Image-title: Installation View
 
 ----
 
-Image-date: 2016
+Image-date: 
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 6
+Sort: 13
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

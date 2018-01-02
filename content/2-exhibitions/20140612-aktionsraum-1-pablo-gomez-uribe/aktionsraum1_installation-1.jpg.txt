@@ -1,8 +1,8 @@
-Image-title: 
+Image-title: Installation View
 
 ----
 
-Image-date: 
+Image-date: 2014
 
 ----
 
@@ -26,4 +26,12 @@ Image-inventory-id:
 
 ----
 
-Sort: 3
+Sort: 1
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 

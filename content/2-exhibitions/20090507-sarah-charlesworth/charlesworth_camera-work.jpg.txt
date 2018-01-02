@@ -1,16 +1,16 @@
-Image-title: 
+Image-title: Camera Work
 
 ----
 
-Image-date: 
+Image-date: 2009
 
 ----
 
-Image-media: 
+Image-media: Fuji Crystal Archive Prints, mounted and laminated with lacquer frame, 2 interlocking panels, diptych
 
 ----
 
-Image-dimensions: 
+Image-dimensions: 52 x 77 1/2 in.
 
 ----
 
@@ -18,8 +18,20 @@ Image-dimensions-framed:
 
 ----
 
-Image-edition-info: 
+Image-edition-info: Edition of 8
 
 ----
 
 Image-inventory-id: 
+
+----
+
+Sort: 3
+
+----
+
+Image-artist: 
+
+----
+
+Focus: 
