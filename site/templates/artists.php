@@ -3,8 +3,8 @@
 <div class="row">
 
   <?php
-  $represented = $page->children()->filterBy('Status', 'represented')->sortBy('last_name', 'asc');
-  $exhibited = $page->children()->filterBy('Status', 'exhibited')->sortBy('last_name', 'asc');
+  $represented = $page->children()->visible()->filterBy('Status', 'represented')->sortBy('last_name', 'asc');
+  $exhibited = $page->children()->visible()->filterBy('Status', 'exhibited')->sortBy('last_name', 'asc');
   ?>
 
   <section class="col-xs-6 col-md-3 col-lg-2">
