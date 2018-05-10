@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Whole Cloth
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Photograph on fabric
+
+----
+
+Image-dimensions: 34 3/4 x 54 1/2 in. Fabric
+
+----
+
+Image-dimensions-framed: 36 3/4 x 56 11/16 in. Framed
+
+----
+
+Image-edition-info: Edition 1 of 5
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 8

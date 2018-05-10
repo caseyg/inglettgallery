@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Our Lives
+
+----
+
+Image-date: 2008/2018
+
+----
+
+Image-media: Shredded, twisted and wrapped New York Times
+
+----
+
+Image-dimensions: 72 in. dia.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.51,"y":0.3}
+
+----
+
+Sort: 6

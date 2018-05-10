@@ -6,24 +6,31 @@ Text:
 
 ----
 
-Current: joseph-yoakum-robyn-o-neil
+Current: maren-hassinger-as-one
 
 ----
 
 Upcoming: 
 
 - 
-  title: Benjamin Degen
-  start: 2018-02-02
-  end: 2018-03-10
+  title: >
+    Halsey McKay Gallery @ Susan Inglett
+    Gallery
+  start: 2018-06-09
+  end: 2018-07-27
   link: ""
 - 
-  title: Allison Miller
-  start: 2018-03-15
-  end: 2018-04-21
+  title: Eric Fertman
+  start: 2018-09-13
+  end: 2018-10-20
   link: ""
 - 
-  title: Maren Hassinger
-  start: 2018-04-26
-  end: 2018-06-02
+  title: 'Erika Rothenberg: Gallery II'
+  start: 2018-09-13
+  end: 2018-10-20
+  link: ""
+- 
+  title: Ryan Wallace
+  start: 2018-10-25
+  end: 2018-12-08
   link: ""

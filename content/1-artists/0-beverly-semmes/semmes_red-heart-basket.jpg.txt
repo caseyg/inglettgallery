@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Red Heart Basket
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Glazed ceramic
+
+----
+
+Image-dimensions: 7 1/2 x 6 1/2 in. dia.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.5,"y":0.62}

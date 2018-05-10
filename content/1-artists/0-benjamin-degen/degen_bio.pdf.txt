@@ -31,3 +31,7 @@ Image-inventory-id:
 ----
 
 Focus: 
+
+----
+
+Image-artist: 

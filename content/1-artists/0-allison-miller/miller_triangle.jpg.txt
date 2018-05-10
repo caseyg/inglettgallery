@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Triangle
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Oil and acrylic on canvas
+
+----
+
+Image-dimensions: 73  x 62 (top width) / 73 (bottom width) in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 3

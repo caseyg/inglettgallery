@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Pumpkin Pot
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Painted ceramic
+
+----
+
+Image-dimensions: 10 x 8 1/2 in. dia.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

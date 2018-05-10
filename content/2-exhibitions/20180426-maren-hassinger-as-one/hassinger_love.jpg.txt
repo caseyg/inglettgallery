@@ -1,0 +1,37 @@
+Image-title: Love
+
+----
+
+Image-artist: 
+
+----
+
+Image-date: 2008/2018
+
+----
+
+Image-media: Pink bags filled with breath and love notes
+
+----
+
+Image-dimensions: Dimensions variable
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 4

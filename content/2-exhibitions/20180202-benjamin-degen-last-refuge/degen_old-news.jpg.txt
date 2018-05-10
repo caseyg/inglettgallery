@@ -1,0 +1,37 @@
+Image-title: Old News
+
+----
+
+Image-artist: 
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Oil and spray enamel on canvas
+
+----
+
+Image-dimensions: 36 x 48 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 10

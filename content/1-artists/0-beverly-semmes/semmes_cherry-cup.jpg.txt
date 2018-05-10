@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Cherry Cup
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Painted ceramic
+
+----
+
+Image-dimensions: 5 1/2 x 8 in. dia.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

@@ -1,0 +1,5 @@
+Exhibition: maren-hassinger-as-one
+
+----
+
+Focus: {"x":0.47,"y":0.43}
