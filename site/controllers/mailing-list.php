@@ -16,8 +16,8 @@ return function($site, $pages, $page) {
         'actions' => [
             [
                 '_action' => 'email',
-                'to'      => 'info@inglettgallery.com',
-                'sender'  => 'info@inglettgallery.com',
+                'to'      => 'casey@bullshit.systems',
+                'sender'  => 'casey@bullshit.systems',
                 'subject' => '[Mailing List] New signup: {first_name} {last_name}'
             ]
         ]
