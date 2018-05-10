@@ -1,9 +1,0 @@
-Exhibition: eric-fertman-new-work
-
-----
-
-Focus: {"x":0.52,"y":0.57}
-
-----
-
-Sort: 2
