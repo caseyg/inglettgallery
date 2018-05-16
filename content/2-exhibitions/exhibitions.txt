@@ -13,9 +13,7 @@ Current: maren-hassinger-as-one
 Upcoming: 
 
 - 
-  title: >
-    Halsey McKay Gallery @ Susan Inglett
-    Gallery
+  title: Night, Shortly
   start: 2018-06-09
   end: 2018-07-27
   link: ""
