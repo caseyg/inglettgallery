@@ -22,7 +22,13 @@ return function ($site, $pages, $page)
         '_from' => [
             'rules' => ['required'],
             'message' => 'Please enter an Email Address',
-        ]
+        ],
+        'art_enthusiast'  => '',
+        'artist'  => '',
+        'collector'  => '',
+        'curator'  => '',
+        'dealer'  => '',
+        'press'  => ''
     ]);
 
     if (r::is('POST')) {
