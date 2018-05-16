@@ -31,7 +31,7 @@
 
       <div class="form-group <?php e($form->error('address_1'), ' has-danger')?>">
         <label for="address_1">Address 1</label>
-        <input class="form-control" type="text" name="address_1" id="address_1" required>
+        <input class="form-control" type="text" name="address_1" id="address_1">
       </div>
       <div class="form-group <?php e($form->error('address_2'), ' has-danger')?>">
         <label for="address_2">Address 2</label>
@@ -41,18 +41,18 @@
       <div class="form-group row">
         <div class="col-xs-8 <?php e($form->error('city'), ' has-danger')?>">
           <label for="city">City</label>
-          <input class="form-control" type="text" name="city" id="city" required>
+          <input class="form-control" type="text" name="city" id="city">
         </div>
         <div class="col-xs-4 <?php e($form->error('state'), ' has-danger')?>">
           <label for="state">State/Province</label>
-          <input class="form-control" type="text" name="state" id="state" required>
+          <input class="form-control" type="text" name="state" id="state">
         </div>
       </div>
 
       <div class="form-group row">
         <div class="col-xs-4 <?php e($form->error('zip_code'), ' has-danger')?>">
           <label for="zip_code">Zip/Postal Code</label>
-          <input class="form-control" type="text" name="zip_code" id="zip_code" required>
+          <input class="form-control" type="text" name="zip_code" id="zip_code">
         </div>
       <div class="form-group">
 
@@ -70,7 +70,7 @@
       <legend>Phone</legend>
       <div class="form-group <?php e($form->error('telephone'), ' has-danger')?>">
         <label for="telephone">Telephone</label>
-        <input class="form-control" type="tel" placeholder="1-(555)-555-5555" name="telephone" id="telephone" required>
+        <input class="form-control" type="tel" placeholder="1-(555)-555-5555" name="telephone" id="telephone">
       </div>
     </fieldset>
 
