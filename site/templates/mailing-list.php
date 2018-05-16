@@ -7,7 +7,7 @@
   <?php if ($form->success()): ?>
       <div class="alert alert-success">Thank you for your message. We will get back to you soon!</div>
   <?php else: ?>
-      <div class="alert alert-danger"><?php snippet('uniform/errors', ['form' => $form]) ?></div>
+      <?php snippet('uniform/errors', ['form' => $form]) ?>
   <?php endif; ?>
 
   <form class="col-md-6" action="<?php echo $page->url()?>#form" method="post">

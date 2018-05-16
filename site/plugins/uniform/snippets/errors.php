@@ -1,5 +1,5 @@
 <?php if (count($form->errors()) > 0): ?>
-    <div class="uniform-errors">
+    <div class="uniform-errors alert alert-danger">
         <?php foreach ($form->errors() as $key => $error): ?>
             <div class="uniform-errors__item">
                 <?php echo implode('<br>', $error) ?>
