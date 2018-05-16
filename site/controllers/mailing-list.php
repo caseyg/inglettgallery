@@ -17,6 +17,7 @@ return function ($site, $pages, $page)
     ]);
 
     if (r::is('POST')) {
+        $form->withoutGuards()
         $form->emailAction([
             'to' => 'casey@bullshit.systems',
             'from' => 'casey@bullshit.systems',
