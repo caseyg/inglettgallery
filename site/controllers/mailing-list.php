@@ -34,8 +34,8 @@ return function ($site, $pages, $page)
     if (r::is('POST')) {
         $form->withoutGuards();
         $form->emailAction([
-            'to' => 'casey@bullshit.systems',
-            'from' => 'casey@bullshit.systems',
+            'to' => 'info@inglettgallery.com',
+            'from' => 'info@inglettgallery.com',
             'subject' => '[Mailing List] New signup: {first_name} {last_name}'
         ]);
     }
