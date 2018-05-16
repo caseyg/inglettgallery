@@ -1,27 +1,27 @@
 <?php
 
-return function($site, $pages, $page) {
-    $form = uniform('contact-form', [
-        'required' => [
-          'first_name'  => '',
-          'last_name'  => '',
-          'address_1'  => '',
-          'address_2'  => '',
-          'city'  => '',
-          'state'  => '',
-          'zip_code'  => '',
-          'telephone'  => '',
-          '_from' => 'email'
+use Uniform\Form;
+
+return function ($site, $pages, $page)
+{
+    $form = new Form([
+        'email' => [
+            'rules' => ['required', 'email'],
+            'message' => 'Please enter a valid email address',
         ],
-        'actions' => [
-            [
-                '_action' => 'email',
-                'to'      => 'casey@bullshit.systems',
-                'sender'  => 'casey@bullshit.systems',
-                'subject' => '[Mailing List] New signup: {first_name} {last_name}'
-            ]
-        ]
+        'name' => [],
+        'message' => [
+            'rules' => ['required'],
+            'message' => 'Please enter a message',
+        ],
     ]);
+
+    if (r::is('POST')) {
+        $form->emailAction([
+            'to' => 'casey@bullshit.systems',
+            'from' => 'casey@bullshit.systems',
+        ]);
+    }
 
     return compact('form');
 };
