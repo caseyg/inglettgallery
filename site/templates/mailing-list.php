@@ -14,7 +14,6 @@
       <label>Message</label>
       <textarea<?php if ($form->error('message')): ?> class="error"<?php endif; ?> name="message"><?php echo $form->old('message') ?></textarea>
 
-      <?php echo csrf_field() ?>
       <input type="submit" value="Submit">
   </form>
   <?php if ($form->success()): ?>
