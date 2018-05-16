@@ -7,11 +7,11 @@ return function ($site, $pages, $page)
     $form = new Form([
         'first_name'  => [
             'rules' => ['required'],
-            'message' => 'Please enter a First Name',
+            'message' => 'Please enter a First Name'
         ],
         'last_name'  => [
             'rules' => ['required'],
-            'message' => 'Please enter a Last Name',
+            'message' => 'Please enter a Last Name'
         ],
         'address_1'  => '',
         'address_2'  => '',
@@ -21,7 +21,7 @@ return function ($site, $pages, $page)
         'telephone'  => '',
         '_from' => [
             'rules' => ['required'],
-            'message' => 'Please enter an Email Address',
+            'message' => 'Please enter an Email Address'
         ],
         'art_enthusiast'  => '',
         'artist'  => '',
@@ -34,8 +34,8 @@ return function ($site, $pages, $page)
     if (r::is('POST')) {
         $form->withoutGuards();
         $form->emailAction([
-            'to' => 'info@inglettgallery.com',
-            'from' => 'info@inglettgallery.com',
+            'to' => 'casey@bullshit.systems',
+            'from' => 'casey@bullshit.systems',
             'subject' => '[Mailing List] New signup: {first_name} {last_name}'
         ]);
     }
