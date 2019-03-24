@@ -31,3 +31,7 @@ Image-inventory-id: WV0168
 ----
 
 Focus: {"x":0.57,"y":0.44}
+
+----
+
+Sort: 10

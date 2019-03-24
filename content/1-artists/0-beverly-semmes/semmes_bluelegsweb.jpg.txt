@@ -30,8 +30,8 @@ Image-inventory-id:
 
 ----
 
-Focus: 
+Focus: {"x":0.54,"y":0.33}
 
 ----
 
-Sort: 5
+Sort: 13

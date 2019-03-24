@@ -31,3 +31,7 @@ Image-inventory-id:
 ----
 
 Focus: {"x":0.5,"y":0.62}
+
+----
+
+Sort: 9

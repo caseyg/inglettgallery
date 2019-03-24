@@ -1,4 +1,4 @@
-Sort: 17
+Image-artist: 
 
 ----
 
@@ -31,7 +31,3 @@ Image-inventory-id:
 ----
 
 Focus: 
-
-----
-
-Image-artist: 

@@ -20,9 +20,9 @@ Featured-image: ping_descent.jpg
 
 Text: 
 
-Born in Chicago, IL 1977 
-University of Illinois, Chicago, IL, MFA 2005 
-Vassar College, Poughkeepsie, NY, BA 1999 
+Born in Chicago, IL, 1977 
+University of Illinois, MFA, 2005 
+Vassar College, BA, 1999 
 Lives and Works in Brooklyn, NY
 
 ----

@@ -1,8 +1,8 @@
-Image-artist: William Villalongo
+Image-artist: 
 
 ----
 
-Image-title: VILLALONGO BIO
+Image-title: 
 
 ----
 

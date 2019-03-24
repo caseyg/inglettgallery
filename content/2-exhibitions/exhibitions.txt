@@ -6,29 +6,19 @@ Text:
 
 ----
 
-Current: maren-hassinger-as-one
+Current: john-mclaughlin-ascetic-approach-curated-by-david-platzker
 
 ----
 
 Upcoming: 
 
 - 
-  title: Night, Shortly
-  start: 2018-06-09
-  end: 2018-07-27
+  title: "Robyn O'Neil: An Unkindness"
+  start: 2019-04-25
+  end: 2019-06-01
   link: ""
 - 
-  title: Eric Fertman
-  start: 2018-09-13
-  end: 2018-10-20
-  link: ""
-- 
-  title: 'Erika Rothenberg: Gallery II'
-  start: 2018-09-13
-  end: 2018-10-20
-  link: ""
-- 
-  title: Ryan Wallace
-  start: 2018-10-25
-  end: 2018-12-08
+  title: Greg Smith
+  start: 2019-06-07
+  end: 2019-07-26
   link: ""

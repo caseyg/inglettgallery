@@ -1,8 +1,8 @@
-Image-artist: George Herms
+Image-artist: 
 
 ----
 
-Image-title: George Herms Biography
+Image-title: 
 
 ----
 

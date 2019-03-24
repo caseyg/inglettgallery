@@ -31,3 +31,7 @@ Image-inventory-id:
 ----
 
 Focus: 
+
+----
+
+Sort: 6

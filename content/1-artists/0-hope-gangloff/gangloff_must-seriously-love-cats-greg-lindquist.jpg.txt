@@ -2,7 +2,7 @@ Image-title: Must Seriously Love Cats (Greg Lindquist)
 
 ----
 
-Image-date: 2015
+Image-date: 2015/2018
 
 ----
 
@@ -18,7 +18,7 @@ Image-inventory-id: HG0266
 
 ----
 
-Sort: 20
+Sort: 2
 
 ----
 
@@ -31,3 +31,7 @@ Image-edition-info:
 ----
 
 Focus: {"x":0.42,"y":0.16}
+
+----
+
+Image-artist: 

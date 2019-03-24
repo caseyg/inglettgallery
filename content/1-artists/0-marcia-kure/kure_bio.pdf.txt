@@ -1,8 +1,8 @@
-Image-artist: Marcia Kure
+Image-artist: 
 
 ----
 
-Image-title: Marcia Kure Bio
+Image-title: 
 
 ----
 

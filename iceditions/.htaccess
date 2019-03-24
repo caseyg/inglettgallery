@@ -44,7 +44,3 @@ RewriteRule ^(.*) index.php [L]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
-
-<IfModule mod_suphp.c>
-suPHP_ConfigPath /home/inglet2/public_html
-</IfModule>
