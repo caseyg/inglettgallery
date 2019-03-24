@@ -1,0 +1,37 @@
+Image-artist: Myranda Gillies
+
+----
+
+Image-title: Untitled (Jorge's No. 1)
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: monofilament, cotton, lurex, palm
+
+----
+
+Image-dimensions: 85 x 82 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: MG0006
+
+----
+
+Focus: 
+
+----
+
+Sort: 5

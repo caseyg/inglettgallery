@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Untitled
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: Collage, acrylic and graphite on paper
+
+----
+
+Image-dimensions: 40 x 30 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

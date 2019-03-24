@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Chair, Los Angeles
+
+----
+
+Image-date: 2014
+
+----
+
+Image-media: Photostatic print, charcoal, wood stain, wood, paint, acrylic, foam core, screws, adhesive
+
+----
+
+Image-dimensions: 44 1/2 x 34 x 1 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

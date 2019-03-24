@@ -1,0 +1,29 @@
+Lock: 
+
+----
+
+Title: Joseph Hart
+
+----
+
+First-name: Joseph
+
+----
+
+Last-name: Hart
+
+----
+
+Featured-image: hart_untitled-jh0004.jpg
+
+----
+
+Text: 
+
+Born in New Hampshire, 1976
+Rhode Island School of Design, BFA, 1999 
+Lives and Works in Brooklyn, NY
+
+----
+
+Status: exhibited

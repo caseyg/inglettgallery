@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Playtime
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Ash, stain
+
+----
+
+Image-dimensions: 20 x 11 1/4 x 3 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 4

@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Bone (Yellow)
+
+----
+
+Image-date: 2016
+
+----
+
+Image-media: Oil on canvas
+
+----
+
+Image-dimensions: 62 1/2 x 46 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

@@ -1,0 +1,30 @@
+Lock: 
+
+----
+
+Title: Brie Ruais
+
+----
+
+First-name: Brie
+
+----
+
+Last-name: Ruais
+
+----
+
+Featured-image: ruais_attemping-to-contain-the-center-1.jpg
+
+----
+
+Text: 
+
+Born in Southern California, 1982
+Columbia University, MFA, 2011
+New York University, BFA, 2004
+Lives and Works in Brooklyn, NY
+
+----
+
+Status: exhibited

@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Untitled
+
+----
+
+Image-date: c. 1947
+
+----
+
+Image-media: Oil on Masonite
+
+----
+
+Image-dimensions: 
+
+----
+
+Image-dimensions-framed: 16 5/8 x 20 1/2 in. Framed
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 4

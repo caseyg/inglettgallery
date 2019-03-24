@@ -1,0 +1,29 @@
+Lock: 
+
+----
+
+Title: Anne-Lise Coste
+
+----
+
+First-name: Anne-Lise
+
+----
+
+Last-name: Coste
+
+----
+
+Featured-image: coste_bone-yellow.jpg
+
+----
+
+Text: 
+
+Born in Marseille, France, 1973
+Hochschule für Gestaltung und Kunst, Zürich, 1997-1999
+École des Beaux-Arts, Marseille, 1995-1997
+
+----
+
+Status: exhibited

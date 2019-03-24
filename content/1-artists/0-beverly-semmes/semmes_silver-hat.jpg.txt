@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Silver Hat
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: UV print on canvas, ink and paint
+
+----
+
+Image-dimensions: 82 7/10 x 50 in. stretched
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.51,"y":0.41}
+
+----
+
+Sort: 5

@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Across the blue concrete, red embers fly to me (diptych)
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Scalable wall vinyl
+
+----
+
+Image-dimensions: 156 x 210 in. Dimensions variable, listed dimensions as installed
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 11

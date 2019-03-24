@@ -1,0 +1,37 @@
+Image-title: Trunk I
+
+----
+
+Image-artist: Rachel Foullon
+
+----
+
+Image-date: 2016
+
+----
+
+Image-media: Western red cedar, upholstery linen, cotton cord, stain, dye
+
+----
+
+Image-dimensions: 24 1/2 x 22 x 5 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.5,"y":0.34}
+
+----
+
+Sort: 1

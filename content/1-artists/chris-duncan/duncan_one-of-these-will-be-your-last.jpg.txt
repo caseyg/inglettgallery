@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: One Of These Will Be Your Last
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Direct sunlight on fabric
+
+----
+
+Image-dimensions: 26 x 18 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

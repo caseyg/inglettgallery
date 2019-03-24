@@ -1,0 +1,29 @@
+Lock: 
+
+----
+
+Title: Richard Artschwager
+
+----
+
+First-name: Richard
+
+----
+
+Last-name: Artschwager
+
+----
+
+Featured-image: artschwager_orange-wall.jpg
+
+----
+
+Text: 
+
+Born in Washington, D.C., 1923
+Cornell University, BA, 1948
+Died in Albany, NY, 2013
+
+----
+
+Status: exhibited

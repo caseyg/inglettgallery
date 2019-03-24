@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: 2018
+
+----
+
+Image-date: Helmet
+
+----
+
+Image-media: UV print on canvas, ink and paint
+
+----
+
+Image-dimensions: 70 1/2 x 50 in. stretched
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: {"x":0.57,"y":0.4}
+
+----
+
+Sort: 4

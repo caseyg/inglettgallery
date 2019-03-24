@@ -1,0 +1,9 @@
+Exhibition: eric-fertman-gallery-i
+
+----
+
+Focus: {"x":0.54,"y":0.24}
+
+----
+
+Sort: 4

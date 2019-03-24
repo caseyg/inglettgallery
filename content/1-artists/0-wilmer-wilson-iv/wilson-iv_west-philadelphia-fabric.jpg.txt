@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: West Philadelphia Fabric
+
+----
+
+Image-date: 2016
+
+----
+
+Image-media: Lottery tickets and safety pins
+
+----
+
+Image-dimensions: 96 x 48 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 17

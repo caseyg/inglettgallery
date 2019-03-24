@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Demon
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Ash, stain, steel
+
+----
+
+Image-dimensions: 19 1/2 x 12 1/4 x 7 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 3

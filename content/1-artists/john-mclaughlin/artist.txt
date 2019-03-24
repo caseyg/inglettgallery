@@ -1,0 +1,28 @@
+Lock: 
+
+----
+
+Title: John McLaughlin
+
+----
+
+First-name: John
+
+----
+
+Last-name: McLaughlin
+
+----
+
+Featured-image: 
+
+----
+
+Text: 
+
+Born in Sharon, MA, 1898
+Died in Dana Point, CA, 1976
+
+----
+
+Status: exhibited

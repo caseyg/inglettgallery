@@ -1,0 +1,9 @@
+Exhibition: erika-rothenberg-gallery-ii
+
+----
+
+Focus: {"x":0.48,"y":0.49}
+
+----
+
+Sort: 5

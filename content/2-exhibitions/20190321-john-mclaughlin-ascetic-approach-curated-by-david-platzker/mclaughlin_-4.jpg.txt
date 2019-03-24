@@ -1,0 +1,37 @@
+Image-title: #4
+
+----
+
+Image-artist: 
+
+----
+
+Image-date: 1965
+
+----
+
+Image-media: Oil on canvas
+
+----
+
+Image-dimensions: 48 x 60 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 2

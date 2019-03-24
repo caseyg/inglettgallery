@@ -1,0 +1,37 @@
+Image-title: Host
+
+----
+
+Image-artist: 
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Staples and pigment print on wood
+
+----
+
+Image-dimensions: 48 x 192 x 2 1/4 in. (diptych)
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 4

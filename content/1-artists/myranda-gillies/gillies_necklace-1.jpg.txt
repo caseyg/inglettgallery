@@ -1,0 +1,37 @@
+Image-artist: Myranda Gillies
+
+----
+
+Image-title: Necklace
+
+----
+
+Image-date: 2017
+
+----
+
+Image-media: High-polish brass, pearls, found material, gold-coated chain
+
+----
+
+Image-dimensions: 
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 11

@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: The Sun Provides the Shadow
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Direct sunlight on fabric
+
+----
+
+Image-dimensions: 26 x 18 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 7

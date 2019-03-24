@@ -1,0 +1,30 @@
+Lock: 
+
+----
+
+Title: Colby Bird
+
+----
+
+First-name: Colby
+
+----
+
+Last-name: Bird
+
+----
+
+Featured-image: bird_fruit-and-bowl-mahayana-buddhist-temple-leeds-ny.jpg
+
+----
+
+Text: 
+
+Born in Austin, TX, 1978
+Rhode Island School of Design, Providence, RI, MFA, 2004 
+University of Colorado, Boulder, CO, BFA, 2000
+Lives and Works in New York, NY
+
+----
+
+Status: exhibited

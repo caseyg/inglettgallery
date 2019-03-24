@@ -1,0 +1,9 @@
+Exhibition: richard-artschwager-and-beverly-semmes-blue-sky-with-green-moon-and-lake
+
+----
+
+Focus: {"x":0.51,"y":0.27}
+
+----
+
+Sort: 2

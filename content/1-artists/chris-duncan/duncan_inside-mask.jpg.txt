@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: Inside Mask
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Ceramic
+
+----
+
+Image-dimensions: 8 x 8 x 4 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 9

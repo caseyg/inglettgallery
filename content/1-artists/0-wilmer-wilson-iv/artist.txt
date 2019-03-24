@@ -1,0 +1,30 @@
+Lock: 
+
+----
+
+Title: Wilmer Wilson IV
+
+----
+
+First-name: Wilmer
+
+----
+
+Last-name: Wilson IV
+
+----
+
+Featured-image: wilson-iv_channel.jpg
+
+----
+
+Text: 
+
+Born in Richmond, VA, 1989
+University of Pennsylvania, MFA, 2015
+Howard University, BFA, 2012
+Lives and Works in Philadelphia, PA
+
+----
+
+Status: represented

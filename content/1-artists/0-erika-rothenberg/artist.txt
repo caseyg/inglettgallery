@@ -1,0 +1,28 @@
+Lock: 
+
+----
+
+Title: Erika Rothenberg
+
+----
+
+First-name: Erika
+
+----
+
+Last-name: Rothenberg
+
+----
+
+Featured-image: rothenberg_house-of-cards.jpg
+
+----
+
+Text: 
+
+Born in New York, NY
+Lives and Works in Los Angeles, CA
+
+----
+
+Status: exhibited

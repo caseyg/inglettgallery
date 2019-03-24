@@ -1,0 +1,30 @@
+Lock: 
+
+----
+
+Title: Chris Duncan
+
+----
+
+First-name: Chris
+
+----
+
+Last-name: Duncan
+
+----
+
+Featured-image: duncan_night-shortly.jpg
+
+----
+
+Text: 
+
+Born in Perth Amboy, NJ, 1974
+Stanford University, Palo Alto, CA MFA, 2013
+California College of Arts and Crafts, San Francisco, CA, BFA, 2003
+Lives and Works in Oakland, CA
+
+----
+
+Status: exhibited

@@ -1,0 +1,33 @@
+Image-artist: 
+
+----
+
+Image-title: Chair, Bovina
+
+----
+
+Image-date: 2014
+
+----
+
+Image-media: Photostatic print, charcoal, wood stain, wood, paint, acrylic, foam core, screws, adhesive
+
+----
+
+Image-dimensions: 24 x 30 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 

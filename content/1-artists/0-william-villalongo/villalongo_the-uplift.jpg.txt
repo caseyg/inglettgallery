@@ -1,0 +1,37 @@
+Image-artist: 
+
+----
+
+Image-title: The Uplift
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Acrylic, paper collage and cut velour paper
+
+----
+
+Image-dimensions: 40 x 39 in. Sheet
+
+----
+
+Image-dimensions-framed: 45 x 44 3/8 x 1 7/8 in. Framed
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 8

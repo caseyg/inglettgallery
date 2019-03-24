@@ -1,0 +1,9 @@
+Exhibition: night-shortly
+
+----
+
+Focus: {"x":0.55,"y":0.27}
+
+----
+
+Sort: 7

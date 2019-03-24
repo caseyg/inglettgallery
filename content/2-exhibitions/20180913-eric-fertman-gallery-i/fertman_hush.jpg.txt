@@ -1,0 +1,37 @@
+Image-title: Hush
+
+----
+
+Image-artist: 
+
+----
+
+Image-date: 2018
+
+----
+
+Image-media: Plywood, stain
+
+----
+
+Image-dimensions: 97 1/4 x 22 1/2 x 19 1/2 in.
+
+----
+
+Image-dimensions-framed: 
+
+----
+
+Image-edition-info: 
+
+----
+
+Image-inventory-id: 
+
+----
+
+Focus: 
+
+----
+
+Sort: 5

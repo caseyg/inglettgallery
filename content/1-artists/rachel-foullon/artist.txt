@@ -1,0 +1,30 @@
+Lock: 
+
+----
+
+Title: Rachel Foullon
+
+----
+
+First-name: Rachel
+
+----
+
+Last-name: Foullon
+
+----
+
+Featured-image: foullon_trunk-1.jpg
+
+----
+
+Text: 
+
+Born in Glendale, CA, 1978
+Columbia University, MFA, 2004 
+New York University, BS, 2000 
+Lives and Works in Los Angeles, CA
+
+----
+
+Status: exhibited
