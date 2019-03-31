@@ -12,7 +12,7 @@ RUN apt-get install -y imagemagick
 WORKDIR /app
 EXPOSE 80
 
-CMD mkdir /var/run/php && \
+CMD mkdir -p /var/run/php && \
   /usr/sbin/php-fpm7.2 \
   -D \
   -c /app/php.ini \
